@@ -1,0 +1,44 @@
+EXTINF:-1 tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/09/01/Dis..",DISCOVERY HD
+http://185.246.209.207/HINDI_DISCOVERY_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l47sxUe.jpg",B4U Movies
+http://185.246.209.207/HINDI_B4U_MOVIES_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg",Star Gold HD
+http://185.246.209.207/HINDI_STAR_GOLD_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pict..",& Picture HD
+http://185.246.209.207/HINDI_AND_PICTURES_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg",AND TV HD
+http://185.246.209.207/HINDI_AND_TV_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg",SONY HD
+http://185.246.209.207/HINDI_SONY_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png",ZEE TV HD
+http://185.246.209.207/HINDI_ZEE_TV_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg",ZEE CINEMA HD
+http://185.246.209.207/HINDI_ZEE_CINEMA_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png",COLORS HD
+http://185.246.209.207/HINDI_COLORS_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png",SONY SET MAX HD
+http://185.246.209.207/HINDI_SONY_MAX_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg",STAR PLUS HD
+http://185.246.209.207/HINDI_STAR_PLUS_HD_INDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg",Sony Pix HD
+http://185.246.209.207/HINDI_SONY_PIX_HD_INDIA/tracks-v1a1/mono.m3u8
+Nat Geo Wild Hindi
+http://185.246.209.207/HINDI_NAT_GEO_WILD_HD_INDIA/tracks-v1a1/mono.m3u8
+Nat Geo Hindi
+http://185.246.209.207/HINDI_NAT_GEO_HD_INDIA/tracks-v1a1/mono.m3u8
+Animal Planet Hindi
+http://185.246.209.207/HINDI_ANIMAL_PLANET_HD_INDIA/tracks-v1a1/mono.m3u8
+B4U Music
+http://185.246.209.207/HINDI_B4U_MUSIC_INDIA/tracks-v1a1/mono.m3u8
+Rishtey Cineplex India
+https://viacom-b.multitvsolution.com/viacomhls/rishte..
+Star Utsav
+https://dolv5imquuojb.cloudfront.net/ST_UTSAV.m3u8
+Sony wah
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+NDTV INDIA
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhin..
+Ten Sports PK
+http://42.201.228.226:8678/TENSPORT_EBRAVO_TV/tracks-v1a1/mono.m3u8
+PTV Sports PK
+http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/tracks-v1a1/mono.m3u8
