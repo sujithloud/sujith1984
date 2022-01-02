@@ -1,0 +1,245 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WORLD TAMIL TV" tvg-logo="http://www.worldtamil.tv/img/logo.png", WORLD TAMIL TV
+http://185.105.4.244:1935/wtt/wttv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ASTRO VANAVIL" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="ASTRO VANAVIL"  group-title="TAMIL",ASTRO VANAVIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b12369e45e1/60b12369e45e1.m3u8
+
+#EXTINF:-1 tvg-id="AUS TAMIL" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
+https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TAMIL VISION TV" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADHAVANHDTV" tvg-logo="http://athavantv.com/wp-content/uploads/2019/01/athavantv-hd-logo.png", ADHAVAN HD TV
+http://45.77.66.224:1935/athavantv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="3TAMIL" tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png", 3 TAMIL
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="Yuppthirai" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="Yuppthirai"  group-title="TAMIL",Yuppthirai
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608cd96c30c0d/608cd96c30c0d.m3u8
+
+#EXTINF:-1 tvg-id="RASI music" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="RASI music TAMIL TV"  group-title="TAMIL",RASI music TAMIL TV
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608d14b693f4b/608d14b693f4b.m3u8
+
+#EXTINF:-1 tvg-id="RASI HOLLYWOOD" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="RASI HOLLYWOOD"  group-title="TAMIL",RASI HOLLYWOOD
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608d14509f57f/608d14509f57f.m3u8
+
+#EXTINF:-1 tvg-id="RASI Life style TAMIL TV" tvg-logo="http://garuda-cdnserver1.tk/storage/" tvg-name="RASI Life style TAMIL TV"  group-title="TAMIL",RASI Life style TAMIL TV
+http://garuda-cdnserver1.tk/live/606ffcb5820d2/123/608d1500efbea/608d1500efbea.ts
+
+#EXTINF:-1 tvg-id="Rasi TV" tvg-logo="https://i.imgur.com/i9ct2MX.png" group-title="Tamil;Local",Rasi TV
+http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rasi Movies" tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil;Local",Rasi Movies
+http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rasi Classic" tvg-logo="https://i.imgur.com/vqtHzOL.jpg" group-title="Tamil;Local",Rasi Classic
+http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAN TAMIL TV" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="DAN TAMIL TV"  group-title="TAMIL",DAN TAMIL TV
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b26977396c8/60b26977396c8.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="DAN TV" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="DAN TV"  group-title="TAMIL",DAN TV
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b269a5f01a7/60b269a5f01a7.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="DAN TAMIL OLI HD" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="DAN TAMIL OLI HD"  group-title="TAMIL",DAN TAMIL OLI HD
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b269d58f679/60b269d58f679.m3u8
+
+#EXTINF:-1 tvg-id="DAN COMEDY HD" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="DAN COMEDY HD"  group-title="TAMIL",DAN COMEDY HD
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b269f923dc1/60b269f923dc1.m3u8
+
+#EXTINF:-1 tvg-id="IBC TAMIL" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="IBC TAMIL"  group-title="TAMIL",IBC TAMIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b26a39d0b77/60b26a39d0b77.m3u8
+
+#EXTINF:-1, tvg-id="IBC TAMIL" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="IBC TAMIL"  group-title="TAMIL",IBC TAMIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b26ae23b273/60b26ae23b273.m3u8
+
+#EXTINF:-1, tvg-id="IBC TAMIL ISAI" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="IBC TAMIL ISAI"  group-title="TAMIL",IBC TAMIL ISAI
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60b26afeaec07/60b26afeaec07.m3u8
+
+#EXTINF:-1 tvg-id="7Star TV" tvg-logo="https://i.imgur.com/EaHWWNl.jpg",7Star TV
+http://media.7starcloud.com:1935/live/7star/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sana Plus" tvg-logo="https://i.imgur.com/6GxuWXT.png",Sana Plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sana TV" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
+http://7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tirumalai TV KARUR",Tirumalai TV KARUR
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Marutam TV" tvg-logo="http://mntv.in/style/images/logo-dark.png" group-title="Tamil;Local",Marutam TV
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+
+#EXTINF:-1, tvg-id="MN MUSIC" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="MN MUSIC"  group-title="TAMIL",MN MUSIC
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608bac6903c24/608bac6903c24.m3u8
+
+#EXTINF:-1 tvg-id="EET TV" tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil;Local",EET TV
+https://eu.streamjo.com/eetlive/eettv.m3u8
+
+#EXTINF:-1 tvg-id="HARI TV" tvg-logo="http://haritv.com/images/logo.png",HARI TV
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sangamam HD" tvg-logo="http://sangamamtv.com/images/logo%20header%20banner.png",Sangamam HD
+http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Santhora Short Flim" tvg-logo="https://i.imgur.com/kKFfLMd.jpg" group-title="Tamil;Local",Santhora Short Flim
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w342316663.m3u8
+
+#EXTINF:-1 tvg-id="Santhora TV" tvg-logo="http://santhora.tv/wp-content/uploads/2019/05/header-logo-anim.gif",Santhora TV
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="JAWAHAR TV" tvg-logo="http://www.jawaharchannel.in/SEPERATE%20FOLDER/01%20HEADER/Leaf%20Logo.png", JAWAHAR TV
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ULTRAMAX TAMIL" tvg-logo="https://static.ultramaxnet.com/images/utv_720p_d2.png", ULTRAMAX TAMIL
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ultramax_low/index.m3u8
+
+#EXTINF:-1 tvg-id="AMMA TV" tvg-logo="https://static.ultramaxnet.com/images/ammatvvdr_logo.jpeg", AMMA TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/ammatvvdr_low/index.m3u8
+
+#EXTINF:-1 tvg-id="JEEVAN TV" tvg-logo="http://site1.ultramaxnet.com/client/ultramax/images/jeevantv.jpg", JEEVAN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/jeevantv123_low/index.m3u8
+
+#EXTINF:-1 tvg-id="KAVIN TV" tvg-logo="https://static.ultramaxnet.com/images/kavin_tv_logo.jpeg", KAVIN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8 
+
+#EXTINF:-1 tvg-id="SIGARAM TV" tvg-logo="https://static.ultramaxnet.com/images/sigaram_tv_logo.png?v=1", SIGARAM TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/sigaramtv_low/index.m3u8
+
+#EXTINF:-1 tvg-id="ASAI TV" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="ASAI TV"  group-title="TAMIL",ASAI TV
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60aaaa746a278/60aaaa746a278.m3u8
+
+#EXTINF:-1 tvg-id="SooriyanTV" tvg-name="Sooriyan TV" tvg-country="LK" tvg-language="Sinhala" tvg-logo="https://i.imgur.com/nqAvA6W.png" group-title="",Sooriyan TV (360p)
+https://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8
+
+#EXTINF:-1 tvg-id="NANBAN TV" tvg-logo="https://static.ultramaxnet.com/images/nanban_tv_logo.png?v=1", NANBAN TV
+https://secure.ultramaxnet.com/client/hls/ultramax-app-v1975/nanbantv_low/index.m3u8
+
+#EXTINF:-1 tvg-id="SRI KRISHNA TV" tvg-logo="http://www.erodesrikrishnatv.com/images/logo.png",SRI KRISHNA TV
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MK Six" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_SIX.png",MK Six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-id="MK Tunes" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/MK_TUNES.png",MK Tunes
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-id="MK TV" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/mk_tv_in.png",MK TV
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="MEENAKSHI TV" tvg-logo="https://www.meenakshitv.in/images/logo.png",MEENAKSHI TV
+https://stream.meenakshitv.com/LiveApp/streams/737506415855638572426221.m3u8
+
+#EXTINF:-1 tvg-id="VANAVIL"tvg-logo="http://www.moontvlive.com/images/logo.png" group-title="Tamil;Local",Moon TV
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="VANAVIL" tvg-logo="https://vaanavil.live/wp-content/uploads/2019/10/Vaanavil-Logo-GIF.gif" group-title="Tamil;Local",VANAVIL
+https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Vanavil Plus TV" tvg-logo="http://www.vanaviltv.in/images/PLUS1_001_00299.png",Vanavil Plus TV
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Akaram Kidzl" tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil;Local",Akaram Kidzl
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Kalaignar TV" tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="Tamil;Local",Kalaignar TV 
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:-1 tvg-id="Raj TV"  tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="Tamil;Local",Raj TV
+http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-id="Thanthi TV" tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="Tamil;Local",Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Velicham TV" tvg-logo="https://i.imgur.com/YeR3mm9.png" group-title="Tamil;Local",Velicham TV
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SD Media" tvg-logo="https://i.imgur.com/FigDbPo.png" group-title="Tamil;Local",SD Media
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Prive HD" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="& Prive HD"  group-title="IPL",& Prive HD
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60700fde84b1b/60700fde84b1b.m3u8
+
+#EXTINF:-1 tvg-id="THIRUMALAI Tv" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="THIRUMALAI Tv"  group-title="TAMIL",THIRUMALAI Tv
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60aaa52b73495/60aaa52b73495.m3u8
+
+#EXTINF:-1 tvg-id="GARUDA MOVIES TAMIL" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="GARUDA MOVIES TAMIL"  group-title="ROOT",GARUDA MOVIES TAMIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60700ffcecfd0/60700ffcecfd0.m3u8
+
+#EXTINF:-1 tvg-id="7S MUSIC TV" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/1493.7SMusic.in/en/1x1/208x208/test_pic1552384462173.jpg", 7S MUSIC TV 
+https://m-c049-j2apps.s.llnwi.net/hls/1493.7SMusic.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="ISAIARUVI" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg", ISAIARUVI
+https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8
+
+#EXTINF:-1 tvg-id="CAPTAIN TV" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/0680.CaptainTV.in/en/1x1/208x208/test_pic1535463113447.jpg", CAPTAIN TV
+https://m-c29-j2apps.s.llnwi.net/hls/0680.CaptainTV.in_288p/index.m3u8
+
+#EXTINF:-1 tvg-id="VENDHAR TV" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/7077.VendarTV.in/en/1x1/208x208/test_pic1596109828563.jpg", VENDHAR TV
+https://m-c06-j2apps.s.llnwi.net/hls/7077.VendarTV.in_288p/index.m3u8
+
+#EXTINF:-1 tvg-id="TUNE 6" tvg-logo="https://j2apps.s.llnwi.net/isa1/pic/3731.Tunes6.in/en/1x1/208x208/test_pic1552387113014.jpg", TUNE 6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-id="DHEERAN TV" tvg-logo="https://dheeran.tv/img/1.png", DHEERAN TV
+https://5c75277727cd1.streamlock.net/dheeran/dheeran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="News 18 TAMIL" tvg-logo="https://static.tamil.news18.com/tamil/uploads/2020/03/tamil-1.png",News 18 TAMIL
+https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="MadhaTV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Madha_TV-black.png",Madha TV
+http://103.109.45.5:1935/madhatv/madhatv.stream_HDp/chunklist_w67072347.m3u8
+
+#EXTINF:-1 tvg-id="Aasirvadham" tvg-logo="https://www.blessingtv.tv/images/all_images/14579702231.png",Aasirvadham TV
+http://199.168.96.106:1935/blessingtv-tamillive/mystream/chunklist_w365086533.m3u8
+
+#EXTINF:-1 tvg-id="Malaimurasu" tvg-logo="https://i.imgur.com/uFiHtQX.png",Malaimurasu
+https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8
+
+#EXTINF:1 group-title="Peppers TV" tvg-logo="https://i.imgur.com/XMAqb0H.png",Peppers TV
+https://live.wmncdn.net/peppers/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="VIJAY MUSIC" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="VIJAY MUSIC"  group-title="TAMIL",VIJAY MUSIC
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/607718a62673d/607718a62673d.m3u8
+
+#EXTINF:-1 tvg-id="VIJAY SUPER" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="VIJAY SUPER"  group-title="TAMIL",VIJAY SUPER
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/607718a62673d/607718a62673d.m3u8
+
+#EXTINF:-1 tvg-id="SUN TV" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="SUN TV"  group-title="TAMIL",SUN TV
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60733112f28dd/60733112f28dd.m3u8
+
+#EXTINF:-1 tvg-id="KTV HD LOW" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="KTV HD LOW"  group-title="TAMIL",KTV HD LOW
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60aa909f39481/60aa909f39481.m3u8
+
+
+#EXTINF:-1 tvg-id="SUN NEWS" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="SUN NEWS"  group-title="TAMIL",SUN NEWS
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608980b35450f/608980b35450f.m3u8
+
+#EXTINF:-1 tvg-id="JAYA HD" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="JAYA HD"  group-title="TAMIL",JAYA HD
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608981303569d/608981303569d.m3u8
+
+#EXTINF:-1 tvg-id="ADITHYA TV" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="ADITHYA"  group-title="TAMIL",ADITHYA
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/60898152d1a6f/60898152d1a6f.m3u8
+
+#EXTINF:-1 tvg-id="ZEE TAMIL" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="ZEE TAMIL"  group-title="TAMIL",ZEE TAMIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/608981748ea1d/608981748ea1d.m3u8
+
+#EXTINF:-1 tvg-id="SUN LIFE" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="SUN LIFE"  group-title="TAMIL",SUN LIFE
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/6075e5c94564a/6075e5c94564a.m3u8
+
+#EXTINF:-1 tvg-id="SunTv.in" tvg-logo="https://iptv.garuda-cdn.xyz/storage/" tvg-name="HD TAMIL"  group-title="TAMIL",HD TAMIL
+https://iptv.garuda-cdn.xyz/live/606ffcb5820d2/123/6079431a8adaf/6079431a8adaf.m3u8
+
+
+
+
+
+
+
+

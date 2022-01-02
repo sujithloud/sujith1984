@@ -1,0 +1,35 @@
+#EXTM3U
+#Credits Goto = https://t.me/livetvtamil
+
+
+
+
+http://singamcloud.in:1935/rasinetwork/cookings/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",SILVERSATTV
+http://7starcloud.com:1935/silversat/silversattv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",SILVERSATMUSIC
+http://7starcloud.com:1935/sangamagold/sangamagold/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",Sevenstar
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",Sevenstarplus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",Sharvesh
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV
+http://singamcloud.in:1935/rasinetworks/rasitv/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TAMIL
+http://singamcloud.in:1935/rasinetworks/rasitamil/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MUSIC
+http://singamcloud.in:1935/rasinetworks/rasimusic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI MOVIES
+http://singamcloud.in:1935/rasinetworks/rasimovies/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI HOLLYWOOD
+http://singamcloud.in:1935/rasinetworks/rasihollywood/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI CASSIC
+http://singamcloud.in:1935/rasinetworks/rasiclassic/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI tamil1
+http://singamcloud.in:1935/rasinetworks/rasitamil/chunklist_w442012745.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI TV1
+http://singamcloud.in:1935/rasinetworks/rasitv/chunklist_w766878936.m3u8
+#EXTINF:-1 tvg-id="1" tvg-logo="" group-title="RASI NETWORKS",RASI movies1
+http://singamcloud.in:1935/rasinetworks/rasimovies/chunklist_w37448986.m3u8
