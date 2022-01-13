@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
 http://mallutv.co.in/snxt.php?id=14020&e=.m3u8
 #EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Sneh SunNXT",Sun Music HD
-http://mallutv.co.in/sun.php?id=9013&e=.m3u8
+http://mallutv.co.in/snxt.php?id=9013&e=.m3u8
 #EXTINF:-1 tvg-id="38926" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Sneh SunNXT",Sun News
 http://mallutv.co.in/snxt.php?id=38926&e=.m3u8
 #EXTINF:-1 tvg-id="75117" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="Sneh SunNXT",Sun Bangla
