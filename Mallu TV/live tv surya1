@@ -1,0 +1,1140 @@
+<!DOCTYPE html>
+<html dir='ltr' lang='en'>
+<head><title>@htmlcoding_html_coding_free</title>
+<meta charset='UTF-8' />
+<meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport' />
+<meta content='IE=edge' http-equiv='X-UA-Compatible' />
+<meta content='max-image-preview:large' name='robots' />
+<link href="https://dl.dropbox.com/s/rsebdt7wkpuh7u2/style.css" rel="stylesheet">
+<script src="https://code.iconify.design/2/2.1.0/iconify.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+<link href='https://use.fontawesome.com/releases/v5.3.1/css/all.css' rel='stylesheet' /></head>
+<body class='oneGrd MN-2 mobS hdMn bD onIndx onHm' id='mainCont'>
+<script>/*<![CDATA[*/ (localStorage.getItem('mode')) === 'darkmode' ? document.querySelector('#mainCont').classList.add('drK') : document.querySelector('#mainCont').classList.remove('drK') /*]]>*/</script>
+<script src='https://dl.dropbox.com/s/jis9n8umoaev16p/xscript.js'></script>
+<style>
+
+       
+     .container { display: flex; flex-direction: row; background: url('#') no-repeat center center/cover; height: 100vh; align-items: center; justify-content: center; text-align: center; } .animated { font-family: 'charm', ; margin: 200; padding:20; font-size: 20px; background: url('https://i.ibb.co/dfWx4q6/tenor.gif') no-repeat; background-clip: text; -webkit-background-clip: text; color: transparent ; animation: moveBg 40s linear infinite; -webkit-animation: moveBg 40s linear infinite; } @keyframes moveBg { 0% { background-position: 0% 30%; } 100% { background-position: 100% 50%; } }
+    
+    
+     div.scrollmenu {background-color: white;overflow: auto;white-space: wrap;font-weight:bold;font-size:15px;margin-bottom:10px;margin-top:4px;}div.scrollmenu a {display: inline-block;text-align: center;padding: 7px;text-decoration: none;}div.scrollmenu a:hover 
+
+      </style>
+
+
+
+
+
+
+<input class='prfI hidden' id='offPrf' type='checkbox' />
+<input class='navI hidden' id='offNav' type='checkbox' />
+<div class='mainWrp'>
+<div class='no-items section' id='notif-widget'></div>
+<header class='header' id='header'>
+<div class='headCn'>
+<div class='headD headL'>
+<div class='headIc'>
+<label class='tNav tIc bIc' for='offNav'>
+<svg class='line' viewBox='0 0 24 24'><line x1='3' x2='21' y1='12' y2='12'></line><line x1='3' x2='21' y1='5' y2='5'></line><line x1='3' x2='21' y1='19' y2='19'></line></svg>
+</label></div>
+<div class='headN section' id='header-title'><div class='widget Header' data-version='2' id='Header1'>
+<div class='headInnr'>
+
+ 
+<h1 style="img-align: center"
+ class="animated">TN MASS TV</h1>
+</div></div></div>
+<div class='headD headR'>
+<div class='headI'>
+<div class='headS section' id='header-search'><div class='widget BlogSearch' data-version='2' id='BlogSearch1'>
+</div></div>
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+<div class='headP section' id='header-icon'><div class='widget TextList' data-version='2' id='TextList000'>
+<ul class='headIc'>
+<li class='isDrk'>
+<span aria-label='Dark' class='tDark tIc tDL bIc' onclick='darkMode()' role='button'>
+<svg class='line' viewBox='0 0 24 24'>
+<g class='d1'><path d='M183.72453,170.371a10.4306,10.4306,0,0,1-.8987,3.793,11.19849,11.19849,0,0,1-5.73738,5.72881,10.43255,10.43255,0,0,1-3.77582.89138,1.99388,1.99388,0,0,0-1.52447,3.18176,10.82936,10.82936,0,1,0,15.118-15.11819A1.99364,1.99364,0,0,0,183.72453,170.371Z' transform='translate(-169.3959 -166.45548)'></path></g>
+<g class='d2'><path class='f' d='M12 18.5C15.5899 18.5 18.5 15.5899 18.5 12C18.5 8.41015 15.5899 5.5 12 5.5C8.41015 5.5 5.5 8.41015 5.5 12C5.5 15.5899 8.41015 18.5 12 18.5Z'></path><path d='M19.14 19.14L19.01 19.01M19.01 4.99L19.14 4.86L19.01 4.99ZM4.86 19.14L4.99 19.01L4.86 19.14ZM12 2.08V2V2.08ZM12 22V21.92V22ZM2.08 12H2H2.08ZM22 12H21.92H22ZM4.99 4.99L4.86 4.86L4.99 4.99Z' stroke-width='2'></path></g></svg>
+</span></li></ul></div>
+<div class='widget Profile' data-version='2' id='Profile1'><div class='wPrf tm'></div></div></div></div></div></div></header>
+<div class='mainIn'>
+<div class='blogMn'>
+<div class='mnBr'>
+<div class='mnBrs'>
+<div class='mnH'>
+<label aria-label='Close' class='c' data-text='Close' for='offNav'></label></div>
+
+<div class='mnMen section' id='nav-widget-2'><div class='widget HTML' data-version='2' id='HTML000'>
+<ul class='mnMn' itemscope='itemscope' itemtype=''>
+<li class='drp br'></li>
+
+
+<img src="https://i.postimg.cc/7P0BWm5c/Screenshot-20220123-064839-1.jpg">
+
+
+
+<li><a class='a' href='go:HOME' itemprop='url'>
+<span class="iconify" data-icon="entypo:home" data-width="24" data-height="24"></span>
+<h1 style="img-align: center" class="animated">Home</h1>
+</a></li>
+
+<a class='a' href='go:LOCAL' itemprop='url'>
+<span class="iconify" data-icon="ic:outline-live-tv" data-width="24" data-height="24"></span>
+<h1 style="img-align: center" class="animated">Local tv</h1>
+</a></li>
+
+<a class='a' href='go:MOVIES' itemprop='url'>
+<span class="iconify" data-icon="bx:bxs-film" data-width="24" data-height="24"></span>
+<h1 style="img-align: center" class="animated">Movies</h1>
+</a></li>
+
+<a class='a' href='' itemprop='url'>
+<span class="iconify" data-icon="ic:baseline-privacy-tip" data-width="24" data-height="24"></span>
+<h1 style="img-align: center" class="animated">privacy policy</h1>
+</a></li></ul>
+</div></div></div></div>
+
+
+<label class='fCls' for='offNav'></label>
+</div>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+	
+
+<html>
+
+	
+
+<head>
+
+<!--------------------------------------@htmlcoding_html_coding_free join telegram channel---------------------> 
+
+<style>
+
+      
+
+div.gallery 
+
+         { 
+
+         border: 0px solid #000; 
+
+         border-radius:20px; 
+
+         margin-top:15px; 
+
+         background-color: #000; 
+
+         }
+
+   .cont {
+
+          font-family: Comfortaa;
+
+          font-style: normal;
+
+          font-size: 0px;
+
+          border-radius: 20px;
+
+          margin-left:15px;
+
+          margin-right:0px;
+
+          margin-bottom:10px;
+
+          
+
+          font-color: black;      
+
+          }
+
+.language { 
+
+         background-color: white ;
+
+         font-size: 12px;
+
+         font-weight: bold;
+
+         font-family: Comfortaa;
+
+         border-radius: 20px;
+
+         color:black; 
+
+         padding-right: 8px;
+
+         Padding-left: 8px;
+
+         Padding-top: 3px;
+
+         Padding-bottom: 3px;
+
+
+
+margin-left: 0px;
+
+         text-align: center; 
+
+         text-decoration: none; 
+
+         display: inline-block;
+
+ box-shadow: 100px 20px 200px rgba(0,0,0, .1);         }
+
+.buttons { 
+
+         background-color: red;
+
+         font-size: 12px;
+
+         font-weight: bold;
+
+         text-shadow: 0px 20px 10px rgba(0,0,0, .3);
+
+         font-family: Comfortaa;
+
+         border-radius: 15px;
+
+         color: white; 
+
+         padding-right: 8px; 
+
+         padding-left: 8px; 
+
+         Padding-top: 3px;
+
+         Padding-bottom: 3px;
+
+         margin-right: 10px;
+         
+         margin-right:10px;
+
+         text-align: center; 
+
+         text-decoration: none; 
+
+         display: inline-block; 
+
+         }
+
+   .desc {
+
+         background-color:black;
+         white-space: nowrap; 
+
+         overflow: hidden; 
+
+         text-overflow: ellipsis; 
+
+         padding: 1000px; 
+
+         text-align: center; 
+
+         color:
+       ; 
+
+         } 
+
+::-webkit-scrollbar 
+
+         { 
+
+         display: none; 
+background-color:black;
+         } 
+
+div.scrollmenu 
+
+         { 
+         background-color:white;
+         overflow: auto; 
+
+         border-radius: 20px;
+
+         white-space: nowrap;
+         
+         padding-right: 8px; 
+
+         padding-left: 8px; 
+
+         Padding-top: 13px;
+
+         Padding-bottom: 3px;
+
+         margin-right: px;
+
+
+         } 
+
+div.scrollmenu a 
+
+         { 
+
+        
+        background-color:;
+        
+         display: inline-block; 
+
+         border-radius: 20px;
+
+         text-align: center
+
+         text-decoration: yes; 
+         
+         padding-right: 8px; 
+
+         padding-left: 8px; 
+
+         Padding-top: 3px;
+
+         Padding-bottom: 3px;
+
+         margin-right: 10px;
+
+
+         } 
+
+div.scrollmenu a:hover 
+
+         { 
+
+         background-color: red;
+
+         border-radius: 20px; 
+         
+         padding-right: 3px; 
+
+         padding-left: 3px; 
+
+         Padding-top: 3px;
+
+         Padding-bottom: 3px;
+
+         margin-right: px;
+
+       
+         
+                 } 
+
+.w3-lobster 
+
+         {
+
+         font-family: "Lobster", serif;
+
+         }
+
+   .navs {
+
+          display: inline;
+
+          }
+
+.containers 
+
+          {
+          position: relative;
+
+          width: 100%;
+
+          }
+
+.images img 
+
+          {
+
+          border-radius: 0px;
+
+          width: 00%;
+
+          height: 4.5in;
+
+          }
+
+  .titles {
+
+          width: 20%;
+
+          position: absolute;
+
+          bottom:0; left: 0;
+
+          }
+
+    .size {
+
+          color:white;
+
+          background-color:white;
+
+          box-shadow:0px 1px;
+
+          border-top-left-radius: 0px;
+
+          padding-left: 0px; padding-right: 0px;
+
+          }
+
+.mySlides {
+
+          display: none;
+
+          }
+
+.w3-left, 
+
+.w3-right, 
+
+.w3-badge {
+
+          cursor:pointer
+
+          }
+
+.w3-badge {
+
+          height:13px;
+
+          width:13px;
+
+          padding:0;
+
+          }
+
+div.gallery 
+
+          {
+
+
+          border: 0px solid green;
+
+          border-radius:0px;
+
+          margin-top:3px;
+
+          padding-top:2px;
+
+          }
+
+div.gallery:hover 
+
+          {
+
+          border-color: #000;
+
+          }
+
+div.gallery img 
+
+          {
+
+          width: 50%;
+
+          height: auto;
+
+          }
+
+ div.desc {
+
+          padding: 5px;
+
+          text-align: center;
+
+          color: white;
+
+          }
+
+        a {  
+
+          text-decoration:none;
+
+          }
+
+        * {
+
+          box-sizing: border-box;
+
+          }
+
+.responsive 
+
+          {
+
+          padding: 0 3px;
+
+          float: left;
+
+          width: 50%;
+
+          }
+
+.clearfix:after 
+
+          {
+
+          display: table;
+
+          clear: both;
+
+
+
+ }
+
+    .menu {
+
+          background-color:;
+
+          box-shadow: 0px 20px 10px rgba(0,0,0, .1);
+
+          margin-right: 1px; 
+
+          margin-left: 1px;
+
+          margin-top: 1px;
+
+          Margin-bottom: 1px;
+
+          padding-left: 1px;
+
+          padding-right: 1px;  
+
+          padding-top: 1px; 
+
+          padding-bottom: 1px; 
+
+          }
+
+.section-title 
+
+          { 
+
+          background-color: blue;
+
+          box-shadow: 0px 20px 10px rgba(0,0,0, .1);
+
+          margin-right: 100px;  
+
+          margin-left: 10px; 
+
+          padding-top: 25px; 
+
+          padding-bottom:25px; 
+
+          text-shadow: 2px 2px 5px black; 
+
+          font-weight: bold; 
+
+          text-align: center;
+
+          }
+
+        * {
+
+          box-sizing:border-box
+
+          }
+
+          }
+
+.mySlides {
+
+          display:none
+
+          }
+
+.slideshow-container 
+
+          {
+background-color: red;
+
+          max-width: 1000px;
+
+          position: relative;
+
+          margin: auto;
+
+          }
+
+    .text {
+
+     
+
+	  
+
+          opacity: 0.5;  
+
+          text-shadow:  10px 10px 10px rgba(0,0,0, .1);
+
+          background-color: black;
+
+          color: white;
+
+          font-size: 13px;
+
+          padding: 8px 10px;
+
+          position: absolute;
+
+          bottom: 3px;
+
+          width: 100%;
+
+          text-align: right;
+
+          }
+
+.numbertext 
+
+          {
+
+          font-family: 'Comfortaa';
+
+          font-style: bold;
+
+	  
+
+          color: white;
+
+          font-size: 12px;
+
+          text-shadow:  2px 2px 2px rgba(0,0,0, .4);
+
+          padding: 8px 12px;
+
+          position: absolute;
+
+          top: 0;
+
+          }
+
+     .dot {
+
+          height: 100px;
+
+          width: 6px;
+
+          margin: 3px;
+
+          background-color: red;
+
+          border-radius: 0%;
+
+          display: inline-block;
+
+          transition: background-color 0.6s ease;
+
+          }
+          
+          
+     body {
+margin: 0 0 55px 0;
+}
+.nav {
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 50px;
+box-shadow: 10px 10px10px rgba(0, 0, 0, 0.2);
+background-color: black;
+display: flex;
+overflow-x: auto;
+}
+.nav__link {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+flex-grow: 10;
+min-width: 50px;
+overflow: hidden;
+white-space: nowrap;
+font-family: sans-serif;
+font-size: 13px;
+color: gold;
+text-decoration: none;
+-webkit-tap-highlight-color: transparent;
+transition: background-color 0.1s ease-in-out;
+}
+.nav__link:hover {
+background-color: white;
+}
+.nav__link--active {
+color: ;}
+.nav__icon {
+font-size: 18px;
+}    
+
+
+
+</style>
+
+
+
+<!--------------------------------------@htmlcoding_html_coding_free join telegram channel--------------------->
+
+	
+
+</head>
+
+<body>
+
+
+
+<center>
+
+<div class="menu" 
+
+style="margin-left: 0px; margin-right: 0px">
+
+<div class="slideshow-container">
+
+<div class="mySlides fade"> 
+
+<img class="" src="" style="width:100%;  height:180px; border-radius: 0px;"> 
+
+
+
+</div> 
+
+
+
+<div class="mySlides fade"> 
+
+<img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="width:100%;  height:180px; border-radius: 0px;"> 
+
+
+
+</div>  
+
+
+
+
+
+<div class="mySlides fade"> 
+
+<img class="" src="https://i.ibb.co/pntqh0X/IMG-20211214-031739-935.jpg" style="width:100%;  height:180px; border-radius: 0px;"> 
+
+
+
+</div>  
+
+
+
+<div class="mySlides fade"> 
+
+<img class="" src="" style="width:100%;  height:180px; border-radius: 0px;"> 
+
+
+
+</div>  
+
+
+
+<!--------------------------------------@htmlcoding_html_coding_free join telegram channel--------------------->
+
+ 
+
+</center>
+
+
+
+<script>
+
+var myIndex = 0;
+
+carousel();
+
+
+
+function carousel() {
+
+  var i;
+
+  var x = document.getElementsByClassName("mySlides");
+
+  for (i = 0; i < x.length; i++) {
+
+    x[i].style.display = "none";  
+
+  }
+
+  myIndex++;
+
+  if (myIndex > x.length) {myIndex = 1}    
+
+  x[myIndex-1].style.display = "block";  
+
+  setTimeout(carousel, 2000); // Change image every 3 seconds
+
+}
+
+</script>
+
+
+
+<style>
+
+
+
+.container,body{
+
+           background:transparent;
+
+     
+
+
+
+
+</style>
+
+
+
+  
+
+<!--------------------------------------Live Tv start here---------------------> 
+
+<br>
+
+
+<div class="cont" style="margin-bottom: 10px;"><a class="language" style="display:inline-block; font-color: white;"><i class="" style="color:#009999;"></i> Live TV </a> <a class="buttons w3-round-xxlarge" href="#" style="float: right; margin-right: 0px;"> See All <i class="fa fa-angle-right"></i></a></div><div class="scrollmenu">
+
+   
+
+
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/yYDTgbP1/download.png" style="height: 100px; width:100px;
+border-color:black;         border-radius:10px">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/G37QpCvg/download.jpg" style="height: 100px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/59RBVmMZ/images.png" style="height: 80px; width:145px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/MK6hCqqs/download-2.jpg" style="height: 80px; width:145px;">
+
+      </a>
+
+      
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/g01pp5Nx/download-1.png" style="height: 80px; width:145px;">
+
+      </a>
+
+
+
+   </div>
+
+   
+
+<!----------------------------------- Live Tv end here----------------------------------->
+
+   
+
+
+
+<!--------------------------------------Movies Start Here---------------------> 
+
+	
+
+<div class="cont" style="margin-bottom: 11px;"><a class="language" style="display:inline-block; font-color: white;"><i class="" style="color:#009999;"></i>Movies</a> <a class="buttons w3-round-xxlarge" href="#" style="float: right; margin-right: 0px;"> See All <i class="fa fa-angle-right"></i></a></div><div class="scrollmenu">
+
+
+
+<a  class="w3-animate-bottom menu" href="http://vidmx.xyz/embed-28shi15f9syl.html">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.postimg.cc/qRCznysw/or-Tjl-Oh-D7-OKVxfd-YI0-Vaxpt-Ab-FR.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+    
+
+   </div>
+
+
+
+<!------------------------------------Movies End Here----------------------------------->
+
+	
+
+
+
+<!--------------------------------------Series Start Here---------------------> 
+
+
+
+
+
+<div class="cont" style="margin-bottom: 11px;"><a class="language" style="display:inline-block;"><i class="" style="color:#000;"></i> Series </a> <a class="buttons w3-round-xxlarge" href="#" style="float: right; margin-right: 0px;"> See All <i class="fa fa-angle-right"></i></a></div><div class="scrollmenu">
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+      
+
+<a  class="w3-animate-bottom menu" href="#">
+
+         <div class="size w3-display-bottomright"></div>
+
+         <img class="" src="https://i.ibb.co/TPzR0S6/20211214-190425.jpg" style="height: 135px; width:100px;">
+
+      </a>
+
+      
+
+ </div>
+</head>
+<body>
+	
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<nav class="nav">
+
+<a href="go:LIVETV" class="nav__link nav__link--active">
+<span class="material-icons">home</span>
+<span class="nav__text">HOME</span></a>
+<a href="#" class="nav__link">
+<i class="material-icons nav__icon">ondemand_video</i>
+<span class="nav__text">LIVE TV</span>
+
+</span>
+</a>
+<a href="go:MOVIES" class="nav__link">
+<i class="material-icons nav__icon">movie</i>
+<span class="nav__text">MOVIES</span>
+
+</span>
+</a>
+<a href="go:SERIES" class="nav__link">
+<i class="material-icons nav__icon">theaters</i>
+<span class="nav__text">TV SERIES</span>
+
+
+<a href="go:WEBSERIES" class="nav__link">
+
+<i class="material-icons nav__icon">theaters</i>
+
+<span class="nav__text">WEBSERIES</span>
+
+
+
+</span>
+</<script src="https://tvurdu.com/assets/js/vendor/jquery-3.6.0.min.js"></script> <script src="https://tvurdu.com/assets/js/jquery.magnific-popup.min.js"></script> <script src="https://tvurdu.com/assets/js/owl.carousel.min.js"></script> <script src="https://tvurdu.com/assets/js/jquery.appear.js"></script> <script src="https://tvurdu.com/assets/js/slick.min.js"></script> <script src="https://tvurdu.com/assets/js/main.js"></script>
+</div>
+
+<script> 
+  $(document).ready(function() {
+      var ddlFilterTableRow = $('select.ddlFilterTableRow'),
+        headerCount = $('#headerCount');
+      headerCount.html('select a filter or use search');
+      ddlFilterTableRow.on('change', function() {
+        ddlFilterTableRow.attr('disabled', 'disabled');
+        var records = $('#livebbtvTable').find('.livebbtv-tem');
+        records.hide();
+        var critriaAttributes = [];
+        ddlFilterTableRow.each(function() {
+          var $this = $(this),
+            $selectedLength = $this.find(':selected').length,
+            $critriaAttribute = '';
+          if ($selectedLength > 0 && $this.val() != '0') {
+            if ($selectedLength == 1) {
+              $critriaAttribute += '[data-' + $this.data('attribute') + '*="' + $this.val() + '"]';
+            } else {
+              var $startDataAttribute = '[data-' + $this.data('attribute') + '*="',
+                $endDataAttribute = '"]',
+                $selectedValues = $this.val().toString();
+
+              $critriaAttribute += $startDataAttribute + $selectedValues.replaceAll(',', ($endDataAttribute + ',' + $startDataAttribute)) + $endDataAttribute;
+            }
+            critriaAttributes.push($critriaAttribute);
+          }
+        });
+        var $showRecords = records;
+        if (critriaAttributes.length > 0) {
+          $.each(critriaAttributes, function(i, filterValue) {
+            $showRecords = $showRecords.filter(filterValue);
+          });
+        }
+        $showRecords.show();
+        headerCount.html($showRecords.length + ' channels filtered');
+        ddlFilterTableRow.removeAttr('disabled');
+        $(".filterinput").val('');
+      });
+      $(".filterinput").keyup(function() {
+        var filter = $(this).val(),
+          count = 0;
+        $('select.ddlFilterTableRow').prop('selectedIndex',0);
+        $(".livebbtv-item").each(function() {
+          if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+            $(this).fadeOut();
+          } else {
+            $(this).show();
+            count++;
+          }
+        });
+      });
+    });
+</script>
+ript>
+
+
+
+
+
+ 
+
+ <!------------------------------------Series End Here----------------------------------->
+
+
+
+   
+
+   
+
+</body> 
+
+<!--------------------------------------@htmlcoding_html_coding_free join telegram channel--------------------->
+
+</html>
+
+
+
+
+
+
+
