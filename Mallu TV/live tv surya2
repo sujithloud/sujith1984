@@ -1,0 +1,264 @@
+ <script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js'></script> <link rel="stylesheet" href="https://tvurdu.com/assets/css/magnific-popup.css" /> <link rel="stylesheet" href="https://tvurdu.com/assets/css/fontawesome-all.min.css" /> <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js'></script> <link href=" https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet" >
+
+
+<style>
+
+
+{ background-color:red; } { padding: 0; margin: 0; position: relative; }  .button2 { background-color: #ff; color: white; border: 5px solid #fff; } .button2 { background-color: #000; color: white; border: 6px solid #fff; } .button2:hover { background-color: #404; color: white; } b background: radial-gradient(#000000, hsl(200,30%,6%) ); } .buttoncontrols1 { display: inline-block; padding: 5px 7px; font-size: 10px; } .buttoncotrols1:hover {background-color: #000} .button:active { background-color: #0000; box-shadow: #666; transform: translateY(2px); }body { font-family: Arial, Helvetica, sans-serif; background: #000; color: #000; } .container { display: flex; flex-direction: row; background: url('#') no-repeat center center/cover; height: 100vh; align-items: center; justify-content: center; text-align: center; } .animated { font-family: 'charm', ; margin: 0; padding: 0; font-size: 20px; background: url('https://i.ibb.co/dfWx4q6/tenor.gif') no-repeat; background-clip: text; -webkit-background-clip: text; color: transparent; animation: moveBg 40s linear infinite; -webkit-animation: moveBg 40s linear infinite; } @keyframes moveBg { 0% { background-position: 0% 30%; } 100% { background-position: 100% 50%; } }
+
+
+.filterinput { background-color:black; 
+
+</style>
+
+
+  <h2 style="text-align: center" class="animated">ANIMALS CHANNELS TAMIL</h2>
+   </div>
+   <div class="row">
+      <div class="col-xs-6">
+         <div style="position: fixed; top: -0px; width: 100%">
+            <center>
+            <video class="afterglow" poster="#" id='videoplayer' preload="none" title='YOUZON TV' data-skin="light" width='16' height='9' data-autoresize="ft"</video>
+ </div>
+ <br>
+ <div class="no-items section" id="search_top" name="Search (Top)"></div><input class="filterinput" placeholder="Search Here..." type="text"></center>
+
+ 
+ <html>
+ <head> 
+  <title>Movie Five App – New Movies</title> 
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> 
+  <style>
+
+
+h1
+{
+background-color:#000;
+margin:0;
+text-align:center;
+padding:5px
+}
+a
+{
+color:#fff;
+text-decoration:none
+}
+#headerCount
+{
+margin-bottom:15px;
+font-size:large
+}
+#livebbtvPlayer
+{
+margin:0 auto!important;
+box-shadow:0 5px 5px #000
+}
+tr th
+{
+font-livebbtv-name:bold;
+background-color:green;
+padding:2px
+}
+*
+{
+box-sizing:border-box
+}
+body
+{
+font-family:sans-serif;
+color:#fff;
+background:#333;
+margin:0
+}
+
+body
+{
+-webkit-animation:.1s ease 0s normal forwards 1 fadein;
+animation:.1s ease 0s normal forwards 1 fadein
+}
+@keyframes fadein
+{0%{opacity:0}
+66%{opacity:0}
+100%{opacity:1}
+
+}
+@-webkit-keyframes fadein{0%{opacity:0}
+66%{opacity:0}
+100%{opacity:1}
+
+}
+.livebbtv-item
+{
+position:relative;
+float:left;
+width:120px;
+height:175px;margin:5px;
+padding:10px;
+background:#000;
+box-shadow:2px 2px 5px #000;
+overflow:hidden;
+border-radius:2px;
+filter:contrast(100%)
+}
+.livebbtv-item>*{margin:0;padding:0}
+.livebbtv-item .livebbtv-thumb{bottom::10px;left:0;position:absolute;right:0}
+.livebbtv-item .livebbtv-thumb img{width:100%;pointer-events:none}
+.livebbtv-item .livebbtv-number{display:none;position:absolute;right:6px;top:4px;color:#000;font-size:13px}
+.livebbtv-item .livebbtv-name
+{
+position:absolute;
+left:0;
+bottom:0;
+font-size: 10px;
+display:block;
+text-align:center;
+width:100%;
+background:black;
+color:white;
+padding: 9px;
+text-transform:uppercase
+border-radius:25px;
+}
+.livebbtv-item:hover .livebbtv-name{box-shadow:0 0 5px #ff0000 inset;background:#ff0000}
+.livebbtv-item:hover{cursor:pointer;filter:contrast(125%)}
+.filterinput,.ddlFilterTableRow
+{
+width:100%;
+margin:1%;
+float:bottom;
+height:35px;
+font-size:medium;
+background:black;border: 1px;
+outline:none;
+text-align:center;
+border-radius:20px;
+font-family:poppins,sans-serif
+}
+.filterinput:hover,.ddlFilterTableRow:hover{background:#fff}
+@media only screen and (max-width:1024px){.livebbtv-item{width:calc(100%/8 - 10px)}
+
+}
+@media only screen and (max-width:890px){.livebbtv-item{width:calc(100%/7 - 10px)}
+
+}
+@media only screen and (max-width:768px){.livebbtv-item{width:calc(100%/6 - 10px)}
+
+}
+@media only screen and (max-width:650px){.livebbtv-item{width:calc(100%/5 - 10px)}
+
+}
+@media only screen and (max-width:550px){.livebbtv-item{width:calc(100%/4 - 10px)}
+
+}
+@media only screen and (max-width:425px){.livebbtv-item{width:calc(100%/3 - 10px)}
+
+}
+@media only screen and (max-width:300px){.livebbtv-item{width:calc(100%/2 - 10px)}
+
+}
+</style>
+
+<br>
+<br>
+  <div>
+  <div id="livebbtvTable"> 
+   <a href="go:T49" rel="nofollow"> 
+    <div class="livebbtv-item" data-genre="Entertainmet" data-id="405667/IAuG27H" data-language="" data-name="Bigg Boss">
+     <div class="livebbtv-thumb" style=" top: 0px; ">
+      <img src="https://i.postimg.cc/bvSXmgpp/download-15.png" alt="Loding...." style="width:100%;height:150px;"> 
+     </div> 
+     <div class="livebbtv-name">
+      ANIMAL PLANET TAMIL
+     </div>
+    </div> </a> 
+   <a href="go:T46" rel="nofollow"> 
+    <div class="livebbtv-item" data-genre="Entertainmet" data-id="405667/IAuG27H" data-language="" data-name="Bigg Boss">
+     <div class="livebbtv-thumb" style=" top: 0px; ">
+      <img src="https://i.postimg.cc/1tKvBVny/download-32.jpg" alt="Loding...." style="width:100%;height:150px;"> 
+     </div> 
+     <div class="livebbtv-name">
+      HISTROY TV 18 TAMIL
+     </div>
+    </div> </a> 
+   <a href="go:T47" rel="nofollow"> 
+    <div class="livebbtv-item" data-genre="Entertainmet" data-id="405667/IAuG27H" data-language="" data-name="Bigg Boss">
+     <div class="livebbtv-thumb" style=" top: 0px; ">
+      <img src="https://i.postimg.cc/sxq743cV/images-5.jpg" alt="Loding...." style="width:100%;height:150px;"> 
+     </div> 
+     <div class="livebbtv-name">
+      SONY BBC EARTH TAMIL 
+     </div>
+    </div> </a> 
+   <a href="go:T48" rel="nofollow"> 
+    <div class="livebbtv-item" data-genre="Entertainmet" data-id="405667/IAuG27H" data-language="" data-name="Bigg Boss">
+     <div class="livebbtv-thumb" style=" top: 0px; border-radius:25px; ">
+      <img src="https://i.postimg.cc/y8q0JYxj/images-6.jpg" alt="Loding...." style="width:100%;height:150px;"> 
+     </div> 
+     <div class="livebbtv-name">
+      TRAVEL XP TAMIL 
+     </div>
+    </div> </a> 
+   
+   
+   
+   
+   
+   
+   <script> 
+  $(document).ready(function() {
+      var ddlFilterTableRow = $('select.ddlFilterTableRow'),
+        headerCount = $('#headerCount');
+      headerCount.html('select a filter or use search');
+      ddlFilterTableRow.on('change', function() {
+        ddlFilterTableRow.attr('disabled', 'disabled');
+        var records = $('#livebbtvTable').find('.livebbtv-item');
+        records.unhide();
+        var critriaAttributes = [];
+        ddlFilterTableRow.each(function() {
+          var $this = $(this),
+            $selectedLength = $this.find(':selected').length,
+            $critriaAttribute = '';
+          if ($selectedLength > 0 && $this.val() != '0') {
+            if ($selectedLength == 1) {
+              $critriaAttribute += '[data-' + $this.data('attribute') + '*="' + $this.val() + '"]';
+            } else {
+              var $startDataAttribute = '[data-' + $this.data('attribute') + '*="',
+                $endDataAttribute = '"]',
+                $selectedValues = $this.val().toString();
+
+              $critriaAttribute += $startDataAttribute + $selectedValues.replaceAll(',', ($endDataAttribute + ',' + $startDataAttribute)) + $endDataAttribute;
+            }
+            critriaAttributes.push($critriaAttribute);
+          }
+        });
+        var $showRecords = records;
+        if (critriaAttributes.length > 0) {
+          $.each(critriaAttributes, function(i, filterValue) {
+            $showRecords = $showRecords.filter(filterValue);
+          });
+        }
+        $showRecords.show();
+        headerCount.html($showRecords.length + ' channels filtered');
+        ddlFilterTableRow.removeAttr('disabled');
+        $(".filterinput").val('');
+      });
+      $(".filterinput").keyup(function() {
+        var filter = $(this).val(),
+          count = 0;
+        $('select.ddlFilterTableRow').prop('selectedIndex',0);
+        $(".livebbtv-item").each(function() {
+          if ($(this).text().search(new RegExp(filter, "i")) < 0) {
+            $(this).fadeOut();
+          } else {
+            $(this).show();
+            count++;
+          }
+        });
+      });
+    });
+</script>
+
+
+  
+
+
