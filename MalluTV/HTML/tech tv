@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+
+<html>
+
+
+
+<head>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <title>Movie Five App</title>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        
+
+
+
+<style>
+
+body {
+
+            background-color: #121212;
+
+            
+
+            }
+
+.container1 {
+
+            width: 100%;
+
+            height: 80px;
+
+            border-radius: 5px; 
+
+            padding: 0px!important;
+
+            background-color: #121212;
+
+            margin-top: 25px;
+
+            white-space: nowrap;
+
+            overflow: hidden;
+
+            text-overflow: ellipsis;
+
+            display: flex;
+
+            box-shadow: 2px 2px 2px 2px rgba(0,0,0, .1);
+
+            }
+
+     .postr {
+
+            height: 50px; 
+
+            width: 50px;
+
+            padding : 5px;
+
+            margin: 8px; 
+
+            border-radius: 5%; 
+
+            background-color: #121212;
+
+            box-shadow: 1px 1px 2px  rgba(0,0,0, .1);
+
+            }
+
+     .name {
+
+            margin-left: 13px;
+
+            margin-top: 15px; 
+
+            color: #DADADA;
+
+            font-family: sans-serif;
+
+            font-size: 15px;
+
+            }
+
+   .details { 
+
+            margin-left: 13px; 
+
+            line-height: 1.5em;
+
+            margin-top: 5px; 
+
+            color: #8E9698;
+
+            font-family: sans-serif;
+
+            font-size: 14px;
+
+            }
+
+     
+
+      
+
+
+
+  /*.border 
+
+            { 
+
+            border-width: 1px;
+
+            border-color: #000;
+
+            border-style: solid;
+
+            padding:6px;
+
+            margin : 0px!important;
+
+            }*/
+
+</style>
+
+
+
+<br>
+
+
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <title>Movie Five App</title>
+
+  <script src="https://content.jwplatform.com/libraries/oH2wJDod.js"></script>
+
+  <style>
+
+    .container {
+
+      max-width: 100%;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <div id="myElement"></div>
+
+  </div>
+<style>
+body {
+  padding: 0;
+  margin: 0;
+  
+}
+
+
+.TechTV {
+width:50px;
+ alignment-adjust:central;
+ height:48px;
+ position:fixed;
+ right:8px;
+ top:198px;
+ }
+<style>
+body {
+  padding: 0;
+  margin: 0;
+  
+}
+
+
+.BalochTV {
+width:100px;
+ alignment-adjust:central;
+ height:30px;
+ position:fixed;
+ Right:10px;
+ top:39px;
+ }
+ </style>
+  <script>
+
+    var playerInstance = jwplayer("myElement");
+
+    var playerElement, logoElement;
+
+
+
+    playerInstance.setup({
+
+         image: "https://i.postimg.cc/MThLnsQ6/Pics-Art-10-05-11-02-02.jpg",
+
+      "file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
+
+      "width": "100%",
+
+      "aspectratio": "16:9",
+
+      "logo": {
+
+        "file": ""
+
+      }
+
+    });
+
+
+
+    playerInstance.on("ready", function() {
+
+      playerElement = document.getElementById(playerInstance.getConfig().id);
+
+      logoElement = playerElement.getElementsByClassName("jw-logo")[0];
+
+      logoElement.style.width = "10%";
+
+      logoElement.style.height = "20.8%";
+
+      logoElement.style.visibility = "visible";
+
+    });
+
+  </script>
+
+  
+
+  
+
+
+
+
+
+    <!--Cannel Info start here-->
+
+
+
+<div class="container1">
+
+<img class="postr" src="https://i.postimg.cc/gkRTxDkY/Picsart-22-02-09-21-00-44-986.jpg"/>
+
+<div class="container1text">     
+
+<div class="name">TECHTV SPORTS</div>
+
+<div class="details">Watching On Tech TV App</div>
+
+</div></div>
+
+  
+
+<!--Cannel Info End here-->
+
+
+
+
+
+</div>
+               <!--- PLAYER BUTTONS --> <!--- FIXED IMAGE ON VIDEO PLAYER --> <!--- IF YOU WANT TO PACE IMAGE ON PLAYER USE COMMENT BOX-->     
+               <div>     <img class='BalochTV' src="https://i.postimg.cc/SNmP39fV/Picsart-22-02-09-20-49-00-721.png"></div>
+               
+               
