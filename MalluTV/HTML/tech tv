@@ -206,7 +206,7 @@ width:100px;
 
          image: "https://i.postimg.cc/MThLnsQ6/Pics-Art-10-05-11-02-02.jpg",
 
-      "file": "https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8",
+      "file": "http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8",
 
       "width": "100%",
 
@@ -270,8 +270,59 @@ width:100px;
 
 
 
+
+
+  
+
+      
+
+
+
+
+
+
+
+
 </div>
                <!--- PLAYER BUTTONS --> <!--- FIXED IMAGE ON VIDEO PLAYER --> <!--- IF YOU WANT TO PACE IMAGE ON PLAYER USE COMMENT BOX-->     
                <div>     <img class='BalochTV' src="https://i.postimg.cc/SNmP39fV/Picsart-22-02-09-20-49-00-721.png"></div>
                
-               
+               </div>
+            <!-- <div style="width:25%; alignment-adjust:central; height:1px; position:fixed; left:1px; top:1%" > <h2 class="animated"> Baloch TV  </h2> </div></div> <!--- FIXED IMAGE ON VIDEO PLAYER --> <!--- Player Controls Script --> <script type='text/javascript' src="https://niazitv.pk/player/script.js"></script> 
+         </div>
+         </div>
+               <!--- PLAYER BUTTONS --> <!--- FIXED IMAGE ON VIDEO PLAYER --> <!--- IF YOU WANT TO PACE IMAGE ON PLAYER USE COMMENT BOX-->     
+               <div>     <img class='TechTV' src="https://i.postimg.cc/gkRTxDkY/Picsart-22-02-09-21-00-44-986.jpg"></div>
+            </div>
+            <!-- <div style="width:25%; alignment-adjust:central; height:1px; position:fixed; left:1px; top:1%" > <h2 class="animated"> Baloch TV  </h2> </div></div> <!--- FIXED IMAGE ON VIDEO PLAYER --> <!--- Player Controls Script --> <script type='text/javascript' src="https://niazitv.pk/player/script.js"></script> 
+    
+</div>
+
+
+
+
+
+
+  <br>
+
+
+
+<br>
+
+<br>
+
+
+
+<center><b><font color="white"><b><p style="font-size:12px">Watching On Tech TV App</p></font>
+
+
+
+<img src="https://i.postimg.cc/mk8CCW7F/Pics-Art-11-27-04-34-01.png"" alt="Movie Five App" width="130" height="30">
+
+
+
+  
+
+</body>
+
+</html>
