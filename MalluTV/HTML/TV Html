@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+ <html> <head> <title>Mallu TV</title> <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> <style> body { background-color: #000000; } .alignleft{ float:left; margin-left:5px; color:silver; font-weight:bold; font-size:15px; } .alignright{ float:right; margin-right:10px; color:skyblue; font-size:15px; font-weight:normal ; } h4{ margin-left:5px; color:silver; font-weight:bold; font-size:15px; } .nta { position:relative ; overflow:hidden ; } div.scrollmenu { background-color: #5b5b5b; overflow: auto; white-space: nowrap; position:relative ; overflow-y:hidden ; } div.scrollmenu a { display: inline-block; color: white; text-align:center; padding: 4px; text-decoration: none; } div.scrollmenu a:hover { background-color: black; } .cen{ position:relative ; text-align:center; color:white; } .centered{ font-size:14px; font-weight:bold; position:absolute ; top:80%; left: 50%; transform:translate(-50%,-50%) } .cent{ font-size:auto; position:absolute ; top:95%; left: 50%; transform:translate(-50%,-50%) } .nt{ width: 105px; border-radius: 5px; height: 120px ; z-index:1; } .mnt{ width: 100px; border-radius: 2px; height: 100px; } </style> 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+body {font-family: Verdana, sans-serif;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  background-color: #262626;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  Right: 0px;
+  bottom: 35px;
+  width: 100%;
+  text-align: left;
+  transparent-background-color: 2.3;
+  
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  height: 10px;
+  width: 10px;
+  margin: -0px 0px;
+  background-color:white;
+  border-radius: 50%;
+  bottom: 100px;
+  display: inline-block;
+
+}
+
+.active {
+  background-color: Red ;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 2.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .text {font-size: 11px}
+}
+
+</style>
+</head>
+<body>
+
+
+</script>
+
+</body>
+</html> 
+
+<div class="nta"> <a href="go:sptv1"><h4 class="alignleft"><img src="https://i.postimg.cc/nVkhDyRT/Pics-Art-12-04-04-43-58.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:sptv1"><img src="https://i.postimg.cc/W3dwWq1t/Pics-Art-12-05-05-35-40.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:sptv1"><img src="https://i.postimg.cc/7ZP7tJBD/Pics-Art-12-05-05-40-43.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:sptv1"><img src="https://i.postimg.cc/k4JkBcsz/images-18.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:sptv1"><img src="https://i.postimg.cc/1XpCBVvw/Pics-Art-12-20-06-23-09.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:sptv1"><img src="https://i.postimg.cc/LXs2rRcJ/download-3.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:airtv1"><h4 class="alignleft"><img src="https://i.imgur.com/1eouqqv.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:airtv1"><img src="https://i.imgur.com/qGCgLFC.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:airtv1"><img src="https://i.ibb.co/t8XH1c8/rsz-img-20191130-195235.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:airtv1"><img src="https://i.ibb.co/Wc5hFmJ/rsz-img-20191130-203724.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:airtv1"><img src="https://i.ibb.co/r7Qv7Ds/rsz-img-20191130-194152.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:airtv1"><img src="https://i.ibb.co/JzFyN09/rsz-4img-20191130-210014.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:ml1"><h4 class="alignleft"><img src="https://i.imgur.com/1sUnbuc.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:ml1"><img src="https://i.ibb.co/Rbmq2fs/rsz-img-20210124-195021.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ml1"><img src="https://i.imgur.com/RKtO3ZS.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ml1"><img src="https://i.imgur.com/abtRdH7.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ml1"><img src="https://i.imgur.com/7b4DiKT.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ml1"><img src="https://i.imgur.com/9Z00fEz.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:mmtv1"><h4 class="alignleft"><img src="https://i.imgur.com/mkXL4JQ.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:mmtv1"><img src="https://i.imgur.com/MFS6fVe.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mmtv1"><img src="https://i.imgur.com/ARZa6fP.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mmtv1"><img src="https://i.imgur.com/etRF74s.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mmtv1"><img src="https://i.imgur.com/9kfzGcv.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mmtv1"><img src="https://i.imgur.com/r7i5MRc.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:ETV1"><h4 class="alignleft"><img src="https://i.imgur.com/n9Y5ekO.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:ETV1"><img src="https://i.imgur.com/rpDu6YV.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ETV1"><img src="https://i.imgur.com/gdywvLj.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ETV1"><img src="https://i.imgur.com/nTByH1T.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ETV1"><img src="https://i.imgur.com/AuoKBDD.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ETV1"><img src="https://i.imgur.com/wObtO7T.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:htv1"><h4 class="alignleft"><img src="https://i.imgur.com/Niv7wIG.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:htv1"><img src="https://i.imgur.com/fb1Y2KN.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:htv1"><img src="https://i.imgur.com/S6ZlxtJ.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:htv1"><img src="https://i.imgur.com/PLCrHOs.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:htv1"><img src="https://i.imgur.com/pU1iM6u.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:htv1"><img src="https://i.imgur.com/Ucg7m0U.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+ </div>
+
+<div class="nta"> <a href="go:ttv1"><h4 class="alignleft"><img src="https://i.postimg.cc/W16vBrB8/Pics-Art-12-04-04-41-57.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:ttv1"><img src="https://i.postimg.cc/nc8dC23z/Pics-Art-12-20-03-08-41.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv1"><img src="https://i.postimg.cc/VLcRY6N0/Screenshot-20211220-174834-Picsart.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv1"><img src="https://i.postimg.cc/vTxSCS3R/Pics-Art-12-20-06-03-39.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv1"><img src="https://i.postimg.cc/0jG76YNM/Pics-Art-12-20-05-53-17.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv1"><img src="https://i.postimg.cc/hGJx8Wjq/Pics-Art-12-20-05-56-49.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:ttv2"><h4 class="alignleft"><img src="https://i.imgur.com/5T9GlvL.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:ttv2"><img src="https://i.imgur.com/mlSBAWN.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv2"><img src="https://i.imgur.com/I3wMViM.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv2"><img src="https://i.imgur.com/lYgnxJf.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv2"><img src="https://i.imgur.com/MCqKexy.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ttv2"><img src="https://i.imgur.com/vbrJORY.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:KC1"><h4 class="alignleft"><img src="https://i.postimg.cc/s2dTFydk/Pics-Art-12-30-01-00-42.jpg" width="120" height="30"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:KC1"><img src="https://i.postimg.cc/T2Ns7yQn/download-6.png" alt="Snow" width="100" height="100">
+<a href="go:KC1"><img src="https://i.postimg.cc/cLqv9xyY/download-22.jpg" alt="Snow" width="100" height="100">
+<a href="go:KC1"><img src="https://i.postimg.cc/XNptjFXf/download-11.png" alt="Snow" width="100" height="100">
+<a href="go:KC1"><img src="https://i.postimg.cc/RZrkbFSc/images-36.jpg" alt="Snow" width="100" height="100">
+<a href="go:KC1"><img src="https://i.postimg.cc/3wb51Zdw/download-25.jpg" alt="Snow" width="100" height="100">
+</div>
+
+<div class="nta"> <a href="go:gt1"><h4 class="alignleft"><img src="https://i.postimg.cc/zGjfn9Gq/Pics-Art-12-04-04-42-18.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:gt1"><img src="https://i.postimg.cc/dVh1z3fD/download-5.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:gt1"><img src="https://i.postimg.cc/vmwvd4gD/download-16.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:gt1"><img src="https://i.postimg.cc/QMDcyvwT/images-24.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:gt1"><img src="https://i.postimg.cc/507vjy0B/images-25.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:gt1"><img src="https://i.postimg.cc/nVWBJXNZ/images-27.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:mar1"><h4 class="alignleft"><img src="https://i.imgur.com/RxoxCrL.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:mar1"><img src="https://i.imgur.com/IMnSL6I.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mar1"><img src="https://i.imgur.com/FqRIiRP.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mar1"><img src="https://i.imgur.com/FFVSi92.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mar1"><img src="https://i.imgur.com/TgOwm2N.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mar1"><img src="https://i.imgur.com/WLaxdpY.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:ptv1"><h4 class="alignleft"><img src="https://i.imgur.com/UF7tEWA.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:ptv1"><img src="https://i.imgur.com/nhhJfgU.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ptv1"><img src="https://i.imgur.com/5zENv5I.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ptv1"><img src="https://i.imgur.com/PiUc059.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ptv1"><img src="https://i.imgur.com/GzjvzL8.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:ptv1"><img src="https://i.imgur.com/iEScVJq.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:bang"><h4 class="alignleft"><img src="https://i.imgur.com/mdr8vl1.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:bang"><img src="https://i.imgur.com/gPvWoYc.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:bang"><img src="https://i.imgur.com/43ih71B.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:bang"><img src="https://i.imgur.com/BUapmcm.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:bang"><img src="https://i.imgur.com/SHhFglQ.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:bang"><img src="https://i.imgur.com/eTkuvUV.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:odia"><h4 class="alignleft"><img src="https://i.imgur.com/8Py6ULW.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:odia"><img src="https://i.imgur.com/ZSNyMxf.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:odia"><img src="https://i.imgur.com/WataUHM.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:odia"><img src="https://i.imgur.com/AC0hFTh.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:odia"><img src="https://i.imgur.com/XHaBOko.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:odia"><img src="https://i.imgur.com/Wc5xj1c.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:guja"><h4 class="alignleft"><img src="https://i.imgur.com/nTFPKgw.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:guja"><img src="https://i.imgur.com/d40tOH5.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:guja"><img src="https://i.imgur.com/wlQKEA8.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:guja"><img src="https://i.imgur.com/892h2Ar.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:guja"><img src="https://i.imgur.com/tYCgc5P.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:guja"><img src="https://i.imgur.com/CcpUDaH.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:mutv1"><h4 class="alignleft"><img src="https://i.imgur.com/cDM2a0W.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:mutv1"><img src="https://i.imgur.com/gKYi6bn.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mutv1"><img src="https://i.imgur.com/fWytToz.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mutv1"><img src="https://i.imgur.com/3LYBRZU.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mutv1"><img src="https://i.imgur.com/eGj8XoO.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:mutv1"><img src="https://i.imgur.com/kmehEI2.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:kdtv"><h4 class="alignleft"><img src="https://i.postimg.cc/4ym2XKWm/Pics-Art-12-04-04-42-47.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div> <div class="scrollmenu"> 
+<a href="go:kdtv"><img src="https://i.postimg.cc/W43Hv2YK/unnamed-2.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:kdtv"><img src="https://i.postimg.cc/PrQ3vLB9/unnamed-1.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:kdtv"><img src="https://i.postimg.cc/5yq3zGkL/download-12.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:kdtv"><img src="https://i.postimg.cc/26xBdbqQ/download-4.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:kdtv"><img src="https://i.postimg.cc/tgBjh9q1/download-18.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:info"><h4 class="alignleft"><img src="https://i.imgur.com/OLPal54.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:info"><img src="https://i.imgur.com/tbZmZo5.jpg" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:info"><img src="https://i.imgur.com/4dcA3fy.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:info"><img src="https://i.imgur.com/9BF95ic.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:info"><img src="https://i.imgur.com/Gvq3ulo.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:info"><img src="https://i.imgur.com/gGcbyka.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<div class="nta"> <a href="go:Astro1"><h4 class="alignleft"><img src="https://i.imgur.com/sFN3cvi.jpg" width="120" height="30"style="border: 5px solid #ffffff"></h4><h4 class="alignright"><button style="background-color: Red; border-color:Red; color:white">More ></button></h4></a>
+</div>
+ <div class="scrollmenu"> 
+<a href="go:Astro1"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:Astro1"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Astro_Warna_NEW.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:Astro1"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:Astro1"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+<a href="go:Astro1"><img src="https://i.imgur.com/CPe4Gue.png" alt="Snow" width="100" height="100"style="border: 5px solid #ffffff">
+</div>
+
+<head>
+<meta name="viewport" content="width=device- width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="utf-8">
+<style>
+body {
+margin: 0 0 55px 0;
+}
+.nav {
+position: fixed;
+bottom: 0;
+width: 100%;
+height: 55px;
+box-shadow: 10px 10px10px rgba(0, 0, 0, 0.2);
+background-color: #000;
+display: flex;
+overflow-x: auto;
+}
+.nav__link {
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+flex-grow: 1;
+min-width: 50px;
+overflow: hidden;
+white-space: nowrap;
+font-family: sans-serif;
+font-size: 13px;
+color: #fff;
+text-decoration: none;
+-webkit-tap-highlight-color: transparent;
+transition: background-color 0.1s ease-in-out;
+}
+.nav__link:hover {
+background-color: ;
+}
+.nav__link--active {
+color: ;}
+.nav__icon {
+font-size: 18px;
+}
+</style>
+</head>
+<body>
+	
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+<nav class="nav">
+
+<a href="go:Home" class="nav__link nav__link--active">
+<span class="material-icons">home</span>
+<span class="nav__text">Home</span></a>
+<a href="go:livetv" class="nav__link">
+<i class="material-icons nav__icon">ondemand_video</i>
+<span class="nav__text">Live TV</span>
+
+</span>
+</a>
+<a href="go:Movies@" class="nav__link">
+<i class="material-icons nav__icon">movie</i>
+<span class="nav__text">Movie</span>
+
+</span>
+</a>
+<a href="go:webs" class="nav__link">
+<i class="material-icons nav__icon">theaters</i>
+<span class="nav__text">Webseries</span>
+
+</span>
+</a>
+<a href="go:radio1" class="nav__link">
+<i class="material-icons nav__icon">radio</i>
+<span class="nav__text">Radio</span>
+
+
+</body>
+</body>
+</html>
