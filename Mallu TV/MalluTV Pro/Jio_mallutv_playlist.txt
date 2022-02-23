@@ -1,2229 +1,2229 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Avi JioTV",Colors Cineplex HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Cineplex_HD
+https://mallutv.co.in/play.php?c=Colors_Cineplex_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Avi JioTV",DD National
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_National
+https://mallutv.co.in/play.php?c=DD_National
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="Avi JioTV",Sony HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_HD
+https://mallutv.co.in/play.php?c=Sony_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Avi JioTV",Sony SAB HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_SAB_HD
+https://mallutv.co.in/play.php?c=Sony_SAB_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Avi JioTV",Sony SAB
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_SAB
+https://mallutv.co.in/play.php?c=Sony_SAB
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Avi JioTV",And TV HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=And_TV_HD
+https://mallutv.co.in/play.php?c=And_TV_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Avi JioTV",mallutv.co.in HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_TV_HD
+https://mallutv.co.in/play.php?c=Zee_TV_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Avi JioTV",Colors HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_HD
+https://mallutv.co.in/play.php?c=Colors_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Avi JioTV",Zee Anmol
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Anmol
+https://mallutv.co.in/play.php?c=Zee_Anmol
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Avi JioTV",Rishtey
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rishtey
+https://mallutv.co.in/play.php?c=Rishtey
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Avi JioTV",Sony Pal
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Pal
+https://mallutv.co.in/play.php?c=Sony_Pal
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" group-title="Avi JioTV",Investigation Discovery
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ID
+https://mallutv.co.in/play.php?c=ID
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png" group-title="Avi JioTV",Arre HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Arre
+https://mallutv.co.in/play.php?c=Arre
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png" group-title="Avi JioTV",Dangal
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dangal
+https://mallutv.co.in/play.php?c=Dangal
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kisan.png" group-title="Avi JioTV",DD Kisan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Kisan
+https://mallutv.co.in/play.php?c=DD_Kisan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Avi JioTV",Colors Infinity HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Infinity_HD
+https://mallutv.co.in/play.php?c=Colors_Infinity_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Avi JioTV",Comedy Central HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Comedy_Central_HD
+https://mallutv.co.in/play.php?c=Comedy_Central_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Movies.png" group-title="Avi JioTV",Housefull Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Housefull_Movies
+https://mallutv.co.in/play.php?c=Housefull_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png" group-title="Avi JioTV",India Science
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_Science
+https://mallutv.co.in/play.php?c=India_Science
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Avi JioTV",Jio Football HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Football
+https://mallutv.co.in/play.php?c=Jio_Football
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png" group-title="Avi JioTV",Jio Cricket English HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Cricket
+https://mallutv.co.in/play.php?c=Jio_Cricket
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png" group-title="Avi JioTV",Gyan Brikshya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Gyan_Brikshya
+https://mallutv.co.in/play.php?c=Gyan_Brikshya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Avi JioTV",Jio Cricket 1 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Cricket_1_HD
+https://mallutv.co.in/play.php?c=Jio_Cricket_1_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Avi JioTV",Sony Max HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Max_HD
+https://mallutv.co.in/play.php?c=Sony_Max_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Avi JioTV",Zee Cinema HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Cinema_HD
+https://mallutv.co.in/play.php?c=Zee_Cinema_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Avi JioTV",Zee Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Cinema
+https://mallutv.co.in/play.php?c=Zee_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Avi JioTV",Jio Football 1 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Football_1
+https://mallutv.co.in/play.php?c=Jio_Football_1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Avi JioTV",Jio Football 2 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Football_2
+https://mallutv.co.in/play.php?c=Jio_Football_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Avi JioTV",Jio Football 3 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Football_3
+https://mallutv.co.in/play.php?c=Jio_Football_3
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="Avi JioTV",Zee Bollywood
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Classic
+https://mallutv.co.in/play.php?c=Zee_Classic
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Avi JioTV",And Pictures HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=And_Pictures_HD
+https://mallutv.co.in/play.php?c=And_Pictures_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="Avi JioTV",Zee Action
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Action
+https://mallutv.co.in/play.php?c=Zee_Action
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Avi JioTV",B4U Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=B4U_Movies
+https://mallutv.co.in/play.php?c=B4U_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Avi JioTV",Sony MAX2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_MAX2
+https://mallutv.co.in/play.php?c=Sony_MAX2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png" group-title="Avi JioTV",Enterr 10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Enterr_10
+https://mallutv.co.in/play.php?c=Enterr_10
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Avi JioTV",Colors Cineplex
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Cineplex
+https://mallutv.co.in/play.php?c=Colors_Cineplex
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="Avi JioTV",Zee Anmol Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Anmol_Cinema
+https://mallutv.co.in/play.php?c=Zee_Anmol_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BOX_CINEMA.png" group-title="Avi JioTV",Box Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Box_Cinema
+https://mallutv.co.in/play.php?c=Box_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Avi JioTV",Maha Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Maha_Movies
+https://mallutv.co.in/play.php?c=Maha_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png" group-title="Avi JioTV",Sony Pix HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Pix_HD
+https://mallutv.co.in/play.php?c=Sony_Pix_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HBO_HD.png" group-title="Avi JioTV",HBO HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=HBO_HD
+https://mallutv.co.in/play.php?c=HBO_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/WB.png" group-title="Avi JioTV",WB
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=WB
+https://mallutv.co.in/play.php?c=WB
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hi_Dost.png" group-title="Avi JioTV",Hi Dost!
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hi_Dost
+https://mallutv.co.in/play.php?c=Hi_Dost
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_One_News.png" group-title="Avi JioTV",Channel One News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Channel_One_News
+https://mallutv.co.in/play.php?c=Channel_One_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/K_News_India.png" group-title="Avi JioTV",K News India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=K_News_India
+https://mallutv.co.in/play.php?c=K_News_India
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DNN.png" group-title="Avi JioTV",DNN
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DNN
+https://mallutv.co.in/play.php?c=DNN
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png" group-title="Avi JioTV",DD Sports
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Sports
+https://mallutv.co.in/play.php?c=DD_Sports
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="Avi JioTV",Ten 1 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten_HD
+https://mallutv.co.in/play.php?c=Ten_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Avi JioTV",Ten 1
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten_1
+https://mallutv.co.in/play.php?c=Ten_1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Avi JioTV",Ten 2 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten2_HD
+https://mallutv.co.in/play.php?c=Ten2_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Avi JioTV",Ten 2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten_2
+https://mallutv.co.in/play.php?c=Ten_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="Avi JioTV",Ten 3 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten3_HD
+https://mallutv.co.in/play.php?c=Ten3_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="Avi JioTV",Ten 3
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ten_3
+https://mallutv.co.in/play.php?c=Ten_3
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Avi JioTV",Sony Six HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Six_HD
+https://mallutv.co.in/play.php?c=Six_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Avi JioTV",Sony Six SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Six_SD
+https://mallutv.co.in/play.php?c=Sony_Six_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Avi JioTV",Eurosport
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dsports
+https://mallutv.co.in/play.php?c=Dsports
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Avi JioTV",Eurosport HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dsports_HD
+https://mallutv.co.in/play.php?c=Dsports_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png" group-title="Avi JioTV",Manjari TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manjari_TV
+https://mallutv.co.in/play.php?c=Manjari_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png" group-title="Avi JioTV",HHDL
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=HHDL
+https://mallutv.co.in/play.php?c=HHDL
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png" group-title="Avi JioTV",Top Tutor
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Top_Tutor
+https://mallutv.co.in/play.php?c=Top_Tutor
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png" group-title="Avi JioTV",RT TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=RT_TV
+https://mallutv.co.in/play.php?c=RT_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png" group-title="Avi JioTV",Reporter TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Reporter_TV
+https://mallutv.co.in/play.php?c=Reporter_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png" group-title="Avi JioTV",Jio KIDS
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_KIDS
+https://mallutv.co.in/play.php?c=Jio_KIDS
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png" group-title="Avi JioTV",Utkarsh Primary
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Utkarsh_Primary
+https://mallutv.co.in/play.php?c=Utkarsh_Primary
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png" group-title="Avi JioTV",Utkarsh HSBTE
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Utkarsh_Middle
+https://mallutv.co.in/play.php?c=Utkarsh_Middle
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png" group-title="Avi JioTV",Utkarsh Secondary
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Utkarsh_Secondary
+https://mallutv.co.in/play.php?c=Utkarsh_Secondary
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png" group-title="Avi JioTV",Utkarsh Higher
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Utkarsh_Higher
+https://mallutv.co.in/play.php?c=Utkarsh_Higher
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png" group-title="Avi JioTV",Shiksha TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shiksha_TV
+https://mallutv.co.in/play.php?c=Shiksha_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Avi JioTV",Janapriyam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Janapriyam_News
+https://mallutv.co.in/play.php?c=Janapriyam_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png" group-title="Avi JioTV",Shree Ganesh - Moti Doongri Jaipur
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Moti_Doongri
+https://mallutv.co.in/play.php?c=Moti_Doongri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png" group-title="Avi JioTV",Daijiworld TV 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Daijiworld_TV_24X7
+https://mallutv.co.in/play.php?c=Daijiworld_TV_24X7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png" group-title="Avi JioTV",News J
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_J
+https://mallutv.co.in/play.php?c=News_J
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Avi JioTV",DD News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_News
+https://mallutv.co.in/play.php?c=DD_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png" group-title="Avi JioTV",ABP News India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_News_India
+https://mallutv.co.in/play.php?c=ABP_News_India
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="Avi JioTV",Aaj Tak
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aaj_Tak
+https://mallutv.co.in/play.php?c=Aaj_Tak
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png" group-title="Avi JioTV",Zee News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_News
+https://mallutv.co.in/play.php?c=Zee_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png" group-title="Avi JioTV",India TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_TV
+https://mallutv.co.in/play.php?c=India_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png" group-title="Avi JioTV",News 24
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_24
+https://mallutv.co.in/play.php?c=News_24
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png" group-title="Avi JioTV",News 18 India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=IBN_7
+https://mallutv.co.in/play.php?c=IBN_7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_SANGAM.png" group-title="Avi JioTV",Zee Hindustan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_SANGAM
+https://mallutv.co.in/play.php?c=Zee_SANGAM
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png" group-title="Avi JioTV",India news
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_news
+https://mallutv.co.in/play.php?c=India_news
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ganga.png" group-title="Avi JioTV",ABP Ganga
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_Ganga
+https://mallutv.co.in/play.php?c=ABP_Ganga
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="Avi JioTV",News Nation
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_Nation
+https://mallutv.co.in/play.php?c=News_Nation
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Euro_News.png" group-title="Avi JioTV",Euro News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Euro_News
+https://mallutv.co.in/play.php?c=Euro_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_TV.png" group-title="Avi JioTV",Total TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Total_TV
+https://mallutv.co.in/play.php?c=Total_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Live_Today.png" group-title="Avi JioTV",Live Today
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Live_Today
+https://mallutv.co.in/play.php?c=Live_Today
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png" group-title="Avi JioTV",Sahara Samay Rastriya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sahara_Samay_Rastriya
+https://mallutv.co.in/play.php?c=Sahara_Samay_Rastriya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Haryana.png" group-title="Avi JioTV",India News Haryana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_News_Haryana
+https://mallutv.co.in/play.php?c=India_News_Haryana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png" group-title="Avi JioTV",Taaza TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Taaza_TV
+https://mallutv.co.in/play.php?c=Taaza_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_India_News.png" group-title="Avi JioTV",Living India News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Living_India_News
+https://mallutv.co.in/play.php?c=Living_India_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sudarshan.png" group-title="Avi JioTV",Sudarshan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sudarshan
+https://mallutv.co.in/play.php?c=Sudarshan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png" group-title="Avi JioTV",Kashish News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kashish_News
+https://mallutv.co.in/play.php?c=Kashish_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SMBC_TV.png" group-title="Avi JioTV",SMBC TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SMBC_TV
+https://mallutv.co.in/play.php?c=SMBC_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png" group-title="Avi JioTV",SAHARA SAMAY MP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SAHARA_SAMAY_MP
+https://mallutv.co.in/play.php?c=SAHARA_SAMAY_MP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png" group-title="Avi JioTV",SAHARA SAMAY UP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SAHARA_SAMAY_UP
+https://mallutv.co.in/play.php?c=SAHARA_SAMAY_UP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_News_Plus.png" group-title="Avi JioTV",Sadhna News Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sadhna_News_Plus
+https://mallutv.co.in/play.php?c=Sadhna_News_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png" group-title="Avi JioTV",Sahara Samay Bihar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sahara_Samay_Bihar
+https://mallutv.co.in/play.php?c=Sahara_Samay_Bihar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samay_Rajasthan.png" group-title="Avi JioTV",Samay Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Samay_Rajasthan
+https://mallutv.co.in/play.php?c=Samay_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JK_24x7_News.png" group-title="Avi JioTV",JK 24x7 News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JK_24x7_News
+https://mallutv.co.in/play.php?c=JK_24x7_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png" group-title="Avi JioTV",Prime Time News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Pratidin_News
+https://mallutv.co.in/play.php?c=Pratidin_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mh_One_News.png" group-title="Avi JioTV",Mh One News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mh_One_News
+https://mallutv.co.in/play.php?c=Mh_One_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_UP.png" group-title="Avi JioTV",India News UP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_News_UP
+https://mallutv.co.in/play.php?c=India_News_UP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png" group-title="Avi JioTV",News State UK UP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_State_UK_UP
+https://mallutv.co.in/play.php?c=News_State_UK_UP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_MP.png" group-title="Avi JioTV",India News MP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_News_MP
+https://mallutv.co.in/play.php?c=India_News_MP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" group-title="Avi JioTV",India News Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_News_Rajasthan
+https://mallutv.co.in/play.php?c=India_News_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png" group-title="Avi JioTV",Zee UP UK
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Living_Foodz
+https://mallutv.co.in/play.php?c=Living_Foodz
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="Avi JioTV",Lokshahi News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Lokshahi_News
+https://mallutv.co.in/play.php?c=Lokshahi_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Voice.png" group-title="Avi JioTV",India Voice
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_Voice
+https://mallutv.co.in/play.php?c=India_Voice
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_12.png" group-title="Avi JioTV",PM e Vidya 12
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_12
+https://mallutv.co.in/play.php?c=evidya_12
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindi_Khabar.png" group-title="Avi JioTV",Hindi Khabar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hindi_Khabar
+https://mallutv.co.in/play.php?c=Hindi_Khabar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jan_TV.png" group-title="Avi JioTV",Jan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jan_TV
+https://mallutv.co.in/play.php?c=Jan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_India_24_X_7.png" group-title="Avi JioTV",News India 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_India_24_X_7
+https://mallutv.co.in/play.php?c=News_India_24_X_7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png" group-title="Avi JioTV",Tez
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tez
+https://mallutv.co.in/play.php?c=Tez
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="Avi JioTV",Zee Business
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Business
+https://mallutv.co.in/play.php?c=Zee_Business
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png" group-title="Avi JioTV",CNBC Awaaz
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNBC_Awaaz
+https://mallutv.co.in/play.php?c=CNBC_Awaaz
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Loksabha_TV.png" group-title="Avi JioTV",Loksabha TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Loksabha_TV
+https://mallutv.co.in/play.php?c=Loksabha_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajyasabha.png" group-title="Avi JioTV",DD Rajyasabha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Rajyasabha
+https://mallutv.co.in/play.php?c=DD_Rajyasabha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png" group-title="Avi JioTV",India Today
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=India_Today
+https://mallutv.co.in/play.php?c=India_Today
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png" group-title="Avi JioTV",CNN NEWS 18
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNN_NEWS_18
+https://mallutv.co.in/play.php?c=CNN_NEWS_18
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_X.png" group-title="Avi JioTV",News X
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_X
+https://mallutv.co.in/play.php?c=News_X
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wion.png" group-title="Avi JioTV",Wion
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Wion
+https://mallutv.co.in/play.php?c=Wion
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png" group-title="Avi JioTV",Republic TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Republic_TV
+https://mallutv.co.in/play.php?c=Republic_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png" group-title="Avi JioTV",DD India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_India
+https://mallutv.co.in/play.php?c=DD_India
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png" group-title="Avi JioTV",CNBC Tv18 Prime HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNBC_Tv18_Prime_HD
+https://mallutv.co.in/play.php?c=CNBC_Tv18_Prime_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="Avi JioTV",CNBC Tv 18
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNBC_Tv_18
+https://mallutv.co.in/play.php?c=CNBC_Tv_18
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_9.png" group-title="Avi JioTV",News 9
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_9
+https://mallutv.co.in/play.php?c=News_9
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNN.png" group-title="Avi JioTV",CNN
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNN
+https://mallutv.co.in/play.php?c=CNN
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png" group-title="Avi JioTV",BBC World News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=BBC_World_News
+https://mallutv.co.in/play.php?c=BBC_World_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Avi JioTV",Sonic Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=sonic_Hindi
+https://mallutv.co.in/play.php?c=sonic_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AL_Jazeera.png" group-title="Avi JioTV",AL Jazeera
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AL_Jazeera
+https://mallutv.co.in/play.php?c=AL_Jazeera
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_News_Asia_International.png" group-title="Avi JioTV",Channel News Asia International
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Channel_News_Asia_International
+https://mallutv.co.in/play.php?c=Channel_News_Asia_International
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/France_24.png" group-title="Avi JioTV",France 24
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=France_24
+https://mallutv.co.in/play.php?c=France_24
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Monde.png" group-title="Avi JioTV",TV5 Monde
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV_5_Monde
+https://mallutv.co.in/play.php?c=TV_5_Monde
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/dw.png" group-title="Avi JioTV",dw
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=dw
+https://mallutv.co.in/play.php?c=dw
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Avi JioTV",Discovery Kids 2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Kids_2
+https://mallutv.co.in/play.php?c=Discovery_Kids_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png" group-title="Avi JioTV",Sonic Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Kannada
+https://mallutv.co.in/play.php?c=Sonic_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png" group-title="Avi JioTV",Sonic Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Telugu
+https://mallutv.co.in/play.php?c=Sonic_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Avi JioTV",Nick Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Malayalam
+https://mallutv.co.in/play.php?c=Nick_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Avi JioTV",Nick Bangla
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Bangla
+https://mallutv.co.in/play.php?c=Nick_Bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Avi JioTV",Nick Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Marathi
+https://mallutv.co.in/play.php?c=Nick_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Gujarati.png" group-title="Avi JioTV",Nick Gujarati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Gujarati
+https://mallutv.co.in/play.php?c=Nick_Gujarati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Tamil.png" group-title="Avi JioTV",CN HD+ Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CN_HD_Tamil
+https://mallutv.co.in/play.php?c=CN_HD_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png" group-title="Avi JioTV",Cartoon Network Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Cartoon_Network_Tamil
+https://mallutv.co.in/play.php?c=Cartoon_Network_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png" group-title="Avi JioTV",Pogo Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Pogo_Tamil
+https://mallutv.co.in/play.php?c=Pogo_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png" group-title="Avi JioTV",Nick Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Tamil
+https://mallutv.co.in/play.php?c=Nick_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png" group-title="Avi JioTV",sonic Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=sonic_Tamil
+https://mallutv.co.in/play.php?c=sonic_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png" group-title="Avi JioTV",Sony Yay Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Yay_Tamil
+https://mallutv.co.in/play.php?c=Sony_Yay_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png" group-title="Avi JioTV",Discovery Kids Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Kids_Tamil
+https://mallutv.co.in/play.php?c=Discovery_Kids_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png" group-title="Avi JioTV",Nick Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Kannada
+https://mallutv.co.in/play.php?c=Nick_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png" group-title="Avi JioTV",CN HD+ Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CN_HD_Telugu
+https://mallutv.co.in/play.php?c=CN_HD_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png" group-title="Avi JioTV",Cartoon Network Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Cartoon_Network_Telugu
+https://mallutv.co.in/play.php?c=Cartoon_Network_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png" group-title="Avi JioTV",Nick Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Telugu
+https://mallutv.co.in/play.php?c=Nick_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Avi JioTV",Nick Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Hindi
+https://mallutv.co.in/play.php?c=Nick_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png" group-title="Avi JioTV",Sony Yay Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Yay_Telugu
+https://mallutv.co.in/play.php?c=Sony_Yay_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png" group-title="Avi JioTV",CN HD+ English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CN_HD_English
+https://mallutv.co.in/play.php?c=CN_HD_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Avi JioTV",Cartoon Network Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Cartoon_Network_Hindi
+https://mallutv.co.in/play.php?c=Cartoon_Network_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Avi JioTV",Nick HD+
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_HD_Plus
+https://mallutv.co.in/play.php?c=Nick_HD_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Avi JioTV",Pogo Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Pogo_Hindi
+https://mallutv.co.in/play.php?c=Pogo_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png" group-title="Avi JioTV",Nickelodeon
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nickelodeon
+https://mallutv.co.in/play.php?c=Nickelodeon
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Malayalam.png" group-title="Avi JioTV",Sonic Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Malayalam
+https://mallutv.co.in/play.php?c=Sonic_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Avi JioTV",Sonic Bangla
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Bangla
+https://mallutv.co.in/play.php?c=Sonic_Bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="Avi JioTV",Sonic Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Marathi
+https://mallutv.co.in/play.php?c=Sonic_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Gujarati.png" group-title="Avi JioTV",Sonic Gujarati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sonic_Gujarati
+https://mallutv.co.in/play.php?c=Sonic_Gujarati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Avi JioTV",Nick Junior
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nick_Junior
+https://mallutv.co.in/play.php?c=Nick_Junior
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon_Jr.png" group-title="Avi JioTV",Nickelodeon Jr.
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nickelodeon_Jr
+https://mallutv.co.in/play.php?c=Nickelodeon_Jr
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Avi JioTV",Sony Yay Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Yay_Hindi
+https://mallutv.co.in/play.php?c=Sony_Yay_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Avi JioTV",Discovery HD World
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_HD_World
+https://mallutv.co.in/play.php?c=Discovery_HD_World
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" group-title="Avi JioTV",Discovery
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery
+https://mallutv.co.in/play.php?c=Discovery
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" group-title="Avi JioTV",D Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Channel_Tamil
+https://mallutv.co.in/play.php?c=Discovery_Channel_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" group-title="Avi JioTV",Animal Planet HD World
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Animal_Planet_HD
+https://mallutv.co.in/play.php?c=Animal_Planet_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" group-title="Avi JioTV",Animal Planet English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Animal_Planet_English
+https://mallutv.co.in/play.php?c=Animal_Planet_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Avi JioTV",Discovery Science
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Science
+https://mallutv.co.in/play.php?c=Discovery_Science
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="Avi JioTV",History TV18 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=History_HD
+https://mallutv.co.in/play.php?c=History_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Avi JioTV",History TV18 HD Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=History_18_Hindi
+https://mallutv.co.in/play.php?c=History_18_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="Avi JioTV",Sony BBC Earth HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_BBC_Earth_HD
+https://mallutv.co.in/play.php?c=Sony_BBC_Earth_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Avi JioTV",Epic
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Epic_HD
+https://mallutv.co.in/play.php?c=Epic_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png" group-title="Avi JioTV",TLC HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TLC_HD_World
+https://mallutv.co.in/play.php?c=TLC_HD_World
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png" group-title="Avi JioTV",TLC English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TLC_English
+https://mallutv.co.in/play.php?c=TLC_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Avi JioTV",TLC Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TLC_Hindi
+https://mallutv.co.in/play.php?c=TLC_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png" group-title="Avi JioTV",Sadhguru Television HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sadhguru_Television
+https://mallutv.co.in/play.php?c=Sadhguru_Television
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" group-title="Avi JioTV",Discovery Turbo
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Turbo
+https://mallutv.co.in/play.php?c=Discovery_Turbo
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_10th_English.png" group-title="Avi JioTV",Dnyanganga 10th English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mahawani_10th_English
+https://mallutv.co.in/play.php?c=Mahawani_10th_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="Avi JioTV",Travel XP HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Travel_XP_HD
+https://mallutv.co.in/play.php?c=Travel_XP_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" group-title="Avi JioTV",TV Teacher
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV_Teacher
+https://mallutv.co.in/play.php?c=TV_Teacher
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Avi JioTV",Travel XP HD Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Travel_XP
+https://mallutv.co.in/play.php?c=Travel_XP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" group-title="Avi JioTV",Food Food
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Food_Food
+https://mallutv.co.in/play.php?c=Food_Food
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" group-title="Avi JioTV",Care World
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Care_World
+https://mallutv.co.in/play.php?c=Care_World
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" group-title="Avi JioTV",Animal Planet HD Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Animal_Planet_HD_Tamil
+https://mallutv.co.in/play.php?c=Animal_Planet_HD_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_English_Medium.png" group-title="Avi JioTV",Dnyanganga 9th English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_9_English_Medium
+https://mallutv.co.in/play.php?c=Dnyanganga_9_English_Medium
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_Urdhu_Medium.png" group-title="Avi JioTV",Dnyanganga 9th Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_9_Urdhu_Medium
+https://mallutv.co.in/play.php?c=Dnyanganga_9_Urdhu_Medium
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_10_Urdhu_Medium.png" group-title="Avi JioTV",Dnyanganga 10th Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_10_Urdhu_Medium
+https://mallutv.co.in/play.php?c=Dnyanganga_10_Urdhu_Medium
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Parmarth_TV.png" group-title="Avi JioTV",Parmarth TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Parmarth_TV
+https://mallutv.co.in/play.php?c=Parmarth_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png" group-title="Avi JioTV",Jio Events HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Events
+https://mallutv.co.in/play.php?c=Jio_Events
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Exclusive.png" group-title="Avi JioTV",Jio Exclusive HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Exclusive
+https://mallutv.co.in/play.php?c=Jio_Exclusive
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Avi JioTV",MTV HD Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MTV_HD_Plus
+https://mallutv.co.in/play.php?c=MTV_HD_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Avi JioTV",MTV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MTV
+https://mallutv.co.in/play.php?c=MTV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="Avi JioTV",9XM
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=9XM
+https://mallutv.co.in/play.php?c=9XM
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Avi JioTV",E 24
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=E_24
+https://mallutv.co.in/play.php?c=E_24
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" group-title="Avi JioTV",Sony BBC Earth HD English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_BBC_Earth_HD_English
+https://mallutv.co.in/play.php?c=Sony_BBC_Earth_HD_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Avi JioTV",MTV Beats HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MTV_Beats_HD
+https://mallutv.co.in/play.php?c=MTV_Beats_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Avi JioTV",B4U Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=B4U_Music
+https://mallutv.co.in/play.php?c=B4U_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png" group-title="Avi JioTV",Zee etc
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=etc
+https://mallutv.co.in/play.php?c=etc
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Avi JioTV",Mastiii
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mastiii
+https://mallutv.co.in/play.php?c=Mastiii
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png" group-title="Avi JioTV",Zing
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zing
+https://mallutv.co.in/play.php?c=Zing
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Avi JioTV",Music India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Music_India
+https://mallutv.co.in/play.php?c=Music_India
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" group-title="Avi JioTV",9X Jalwa
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=9X_Jalwa
+https://mallutv.co.in/play.php?c=9X_Jalwa
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Avi JioTV",Animal Planet Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Animal_Planet_Hindi
+https://mallutv.co.in/play.php?c=Animal_Planet_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Avi JioTV",Discovery Channel Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Channel_Hindi
+https://mallutv.co.in/play.php?c=Discovery_Channel_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Avi JioTV",Bflix Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bflix_Movies
+https://mallutv.co.in/play.php?c=Bflix_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" group-title="Avi JioTV",Manoranjan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manoranjan_TV
+https://mallutv.co.in/play.php?c=Manoranjan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Avi JioTV",B4U Kadak
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=B4U_Kadak
+https://mallutv.co.in/play.php?c=B4U_Kadak
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" group-title="Avi JioTV",B4U Bhojpuri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=B4U_Bhojpuri
+https://mallutv.co.in/play.php?c=B4U_Bhojpuri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MI_TV.png" group-title="Avi JioTV",MI TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MI_TV
+https://mallutv.co.in/play.php?c=MI_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png" group-title="Avi JioTV",Raj Pariwar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Pariwar
+https://mallutv.co.in/play.php?c=Raj_Pariwar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Orange_TV.png" group-title="Avi JioTV",Orange TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Orange_TV
+https://mallutv.co.in/play.php?c=Orange_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png" group-title="Avi JioTV",Insync
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Insync
+https://mallutv.co.in/play.php?c=Insync
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png" group-title="Avi JioTV",iLove
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=iLove
+https://mallutv.co.in/play.php?c=iLove
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png" group-title="Avi JioTV",ANB News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ANB_News
+https://mallutv.co.in/play.php?c=ANB_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png" group-title="Avi JioTV",Prarthana Bhawan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prarthana_Bhawan
+https://mallutv.co.in/play.php?c=Prarthana_Bhawan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png" group-title="Avi JioTV",Shubhsandesh TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shubhsandesh_TV
+https://mallutv.co.in/play.php?c=Shubhsandesh_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Darshan_24.png" group-title="Avi JioTV",Darshan 24
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Darshan_24
+https://mallutv.co.in/play.php?c=Darshan_24
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png" group-title="Avi JioTV",Divya TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Divya_TV
+https://mallutv.co.in/play.php?c=Divya_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/School_Education_Nagaland.png" group-title="Avi JioTV",School Education Nagaland
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=School_Education_Nagaland
+https://mallutv.co.in/play.php?c=School_Education_Nagaland
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Birla_Brainiacs.png" group-title="Avi JioTV",Birla Brainiacs
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Birla_Brainiacs
+https://mallutv.co.in/play.php?c=Birla_Brainiacs
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png" group-title="Avi JioTV",Network 10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Network_10
+https://mallutv.co.in/play.php?c=Network_10
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Avi JioTV",Sony Pix SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Pix_SD
+https://mallutv.co.in/play.php?c=Sony_Pix_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_1.png" group-title="Avi JioTV",Gyanvani 1
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Gyanvani_1
+https://mallutv.co.in/play.php?c=Gyanvani_1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardham_Darshan.png" group-title="Avi JioTV",Chardham Darshan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Chardham_Darshan
+https://mallutv.co.in/play.php?c=Chardham_Darshan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png" group-title="Avi JioTV",Tute
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tute
+https://mallutv.co.in/play.php?c=Tute
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png" group-title="Avi JioTV",Himshiksha Elementary
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Himshiksha_Elementary
+https://mallutv.co.in/play.php?c=Himshiksha_Elementary
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png" group-title="Avi JioTV",Himshiksha Higher
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Himshiksha_Higher
+https://mallutv.co.in/play.php?c=Himshiksha_Higher
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png" group-title="Avi JioTV",Himshiksha Vocational
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Himshiksha_Vocational
+https://mallutv.co.in/play.php?c=Himshiksha_Vocational
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png" group-title="Avi JioTV",AP-BIE-ARTS
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AP_BIE_ARTS
+https://mallutv.co.in/play.php?c=AP_BIE_ARTS
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png" group-title="Avi JioTV",AP-BIE-SCIENCE
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AP_BIE_SCIENCE
+https://mallutv.co.in/play.php?c=AP_BIE_SCIENCE
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png" group-title="Avi JioTV",AP-CIE-SIVE
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AP_CIE_SIVE
+https://mallutv.co.in/play.php?c=AP_CIE_SIVE
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" group-title="Avi JioTV",Colors Infinity SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Infinity_SD
+https://mallutv.co.in/play.php?c=Colors_Infinity_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" group-title="Avi JioTV",Comedy Central SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Comedy_Central_SD
+https://mallutv.co.in/play.php?c=Comedy_Central_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Avi JioTV",Sony Wah
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Wah
+https://mallutv.co.in/play.php?c=Sony_Wah
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png" group-title="Avi JioTV",Sony SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_SD
+https://mallutv.co.in/play.php?c=Sony_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png" group-title="Avi JioTV",SongDew TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SongDew_TV
+https://mallutv.co.in/play.php?c=SongDew_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Avi JioTV",1Sports
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=1Sports
+https://mallutv.co.in/play.php?c=1Sports
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png" group-title="Avi JioTV",Santvani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Santvani
+https://mallutv.co.in/play.php?c=Santvani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="Avi JioTV",Nandighosha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nandighosha
+https://mallutv.co.in/play.php?c=Nandighosha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png" group-title="Avi JioTV",Velukkudi Discourses
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Velukkudi_Discourses
+https://mallutv.co.in/play.php?c=Velukkudi_Discourses
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_Marathi.png" group-title="Avi JioTV",Dnyanganga 10th Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mahawani_Marathi
+https://mallutv.co.in/play.php?c=Mahawani_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_English.png" group-title="Avi JioTV",Dnyanganga 12th Science
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mahawani_English
+https://mallutv.co.in/play.php?c=Mahawani_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/M_lead.png" group-title="Avi JioTV",M-LEAD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=M_lead
+https://mallutv.co.in/play.php?c=M_lead
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Avi JioTV",Rishtey Cineplex
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rishtey_Cineplex
+https://mallutv.co.in/play.php?c=Rishtey_Cineplex
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Avi JioTV",Balle Balle TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Balle_Balle_TV
+https://mallutv.co.in/play.php?c=Balle_Balle_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_3_4_Mar_Eng_Urdhu.png" group-title="Avi JioTV",Dnyanganga 3rd-4th Mar-Eng-Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_3_4_Mar_Eng_Urdhu
+https://mallutv.co.in/play.php?c=Dnyanganga_3_4_Mar_Eng_Urdhu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_5_Mar_Eng_Urdhu.png" group-title="Avi JioTV",Dnyanganga 5th Mar-Eng-Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_5_Mar_Eng_Urdhu
+https://mallutv.co.in/play.php?c=Dnyanganga_5_Mar_Eng_Urdhu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_6_Mar_Eng_Urdhu.png" group-title="Avi JioTV",Dnyanganga 6th Mar-Eng-Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_6_Mar_Eng_Urdhu
+https://mallutv.co.in/play.php?c=Dnyanganga_6_Mar_Eng_Urdhu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_7_Mar_Eng_Urdhu.png" group-title="Avi JioTV",Dnyanganga 7th Mar-Eng-Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_7_Mar_Eng_Urdhu
+https://mallutv.co.in/play.php?c=Dnyanganga_7_Mar_Eng_Urdhu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_8_Mar_Eng_Urdhu.png" group-title="Avi JioTV",Dnyanganga 8th Mar-Eng-Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_8_Mar_Eng_Urdhu
+https://mallutv.co.in/play.php?c=Dnyanganga_8_Mar_Eng_Urdhu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dnyanganga_9_Marathi_Medium.png" group-title="Avi JioTV",Dnyanganga 9th Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dnyanganga_9_Marathi_Medium
+https://mallutv.co.in/play.php?c=Dnyanganga_9_Marathi_Medium
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png" group-title="Avi JioTV",History TV18 SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=History_TV18_SD
+https://mallutv.co.in/play.php?c=History_TV18_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png" group-title="Avi JioTV",Surya Bhojpuri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Surya_Bhojpuri
+https://mallutv.co.in/play.php?c=Surya_Bhojpuri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png" group-title="Avi JioTV",RadheKrishna TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=RadheKrishna_TV
+https://mallutv.co.in/play.php?c=RadheKrishna_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png" group-title="Avi JioTV",Subharti
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Subharti
+https://mallutv.co.in/play.php?c=Subharti
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png" group-title="Avi JioTV",Shiksha Darshan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shiksha_Darshan
+https://mallutv.co.in/play.php?c=Shiksha_Darshan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_School_TV.png" group-title="Avi JioTV",Punjab School TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Punjab_School_TV
+https://mallutv.co.in/play.php?c=Punjab_School_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png" group-title="Avi JioTV",News First
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_First
+https://mallutv.co.in/play.php?c=News_First
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png" group-title="Avi JioTV",ABP Sanjha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_Sanjha
+https://mallutv.co.in/play.php?c=ABP_Sanjha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="Avi JioTV",IBN Lokmat
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=IBN_Lokmat
+https://mallutv.co.in/play.php?c=IBN_Lokmat
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png" group-title="Avi JioTV",Aastha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aastha
+https://mallutv.co.in/play.php?c=Aastha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Siddhivinayak.png" group-title="Avi JioTV",Shree Siddhivinayak
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Siddhivinayak
+https://mallutv.co.in/play.php?c=Siddhivinayak
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png" group-title="Avi JioTV",Sanskar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sanskar
+https://mallutv.co.in/play.php?c=Sanskar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Disha_tv.png" group-title="Avi JioTV",Disha tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Disha_tv
+https://mallutv.co.in/play.php?c=Disha_tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png" group-title="Avi JioTV",Paras tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Paras_tv
+https://mallutv.co.in/play.php?c=Paras_tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png" group-title="Avi JioTV",mh1 Shraddha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=mh1_Shraddha
+https://mallutv.co.in/play.php?c=mh1_Shraddha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png" group-title="Avi JioTV",Sadhna
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sadhna
+https://mallutv.co.in/play.php?c=Sadhna
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png" group-title="Avi JioTV",Peace of Mind
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Peace_of_Mind
+https://mallutv.co.in/play.php?c=Peace_of_Mind
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png" group-title="Avi JioTV",Jinvani TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jinvani_TV
+https://mallutv.co.in/play.php?c=Jinvani_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png" group-title="Avi JioTV",Arihant TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Arihant_TV
+https://mallutv.co.in/play.php?c=Arihant_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_TV.png" group-title="Avi JioTV",Ishwar TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ishwar_TV
+https://mallutv.co.in/play.php?c=Ishwar_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png" group-title="Avi JioTV",Satsang TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Satsang_TV
+https://mallutv.co.in/play.php?c=Satsang_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png" group-title="Avi JioTV",Shubh TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shubh_TV
+https://mallutv.co.in/play.php?c=Shubh_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png" group-title="Avi JioTV",Aastha Bhajan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aastha_Bhajan
+https://mallutv.co.in/play.php?c=Aastha_Bhajan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vedic_TV.png" group-title="Avi JioTV",Vedic TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vedic_TV
+https://mallutv.co.in/play.php?c=Vedic_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png" group-title="Avi JioTV",News18 UP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_UP
+https://mallutv.co.in/play.php?c=ETV_UP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png" group-title="Avi JioTV",News18 BIHAR
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_BIHAR
+https://mallutv.co.in/play.php?c=ETV_BIHAR
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png" group-title="Avi JioTV",Dabangg
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dabangg
+https://mallutv.co.in/play.php?c=Dabangg
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Avi JioTV",Sangeet Bhojpuri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sangeet_Bhojpuri
+https://mallutv.co.in/play.php?c=Sangeet_Bhojpuri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Avi JioTV",Oscar Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Oscar_Movies
+https://mallutv.co.in/play.php?c=Oscar_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png" group-title="Avi JioTV",Bhojpuri Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bhojpuri_Cinema
+https://mallutv.co.in/play.php?c=Bhojpuri_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dishum_TV.png" group-title="Avi JioTV",Dishum TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dishum_TV
+https://mallutv.co.in/play.php?c=Dishum_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png" group-title="Avi JioTV",News18 RAJASTHAN
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_RAJASTHAN
+https://mallutv.co.in/play.php?c=ETV_RAJASTHAN
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Rajasthan.png" group-title="Avi JioTV",Zee Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Rajasthan
+https://mallutv.co.in/play.php?c=Zee_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/First_India_News.png" group-title="Avi JioTV",First India News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=First_India_News
+https://mallutv.co.in/play.php?c=First_India_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png" group-title="Avi JioTV",News18 MP
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_MP
+https://mallutv.co.in/play.php?c=ETV_MP
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IBC-24.png" group-title="Avi JioTV",IBC24
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=IBC-24
+https://mallutv.co.in/play.php?c=IBC-24
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News_MP_Chattisgarh.png" group-title="Avi JioTV",Zee News MP Chattisgarh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_News_MP_Chattisgarh
+https://mallutv.co.in/play.php?c=Zee_News_MP_Chattisgarh
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bansal_News.png" group-title="Avi JioTV",Bansal News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bansal_News
+https://mallutv.co.in/play.php?c=Bansal_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png" group-title="Avi JioTV",News18 Urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Urdu
+https://mallutv.co.in/play.php?c=ETV_Urdu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="Avi JioTV",Zee Salaam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Salaam
+https://mallutv.co.in/play.php?c=Zee_Salaam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Channel_Win.png" group-title="Avi JioTV",Channel Win
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Channel_Win
+https://mallutv.co.in/play.php?c=Channel_Win
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gulistan_News.png" group-title="Avi JioTV",Gulistan News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Gulistan_News
+https://mallutv.co.in/play.php?c=Gulistan_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_bharati.png" group-title="Avi JioTV",DD bharati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_bharati
+https://mallutv.co.in/play.php?c=DD_bharati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png" group-title="Avi JioTV",DD Bihar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Bihar
+https://mallutv.co.in/play.php?c=DD_Bihar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png" group-title="Avi JioTV",DD Madhya Pradesh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Madhya_Pradesh
+https://mallutv.co.in/play.php?c=DD_Madhya_Pradesh
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png" group-title="Avi JioTV",DD Rajasthan (Jaipur)
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Rajasthan_Jaipur
+https://mallutv.co.in/play.php?c=DD_Rajasthan_Jaipur
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Barker.png" group-title="Avi JioTV",Jio Promo HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Barker
+https://mallutv.co.in/play.php?c=Barker
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Avi JioTV",Colors Marathi HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Marathi_HD
+https://mallutv.co.in/play.php?c=Colors_Marathi_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="Avi JioTV",Zee Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Marathi
+https://mallutv.co.in/play.php?c=Zee_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="Avi JioTV",ABP Majha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_Majha
+https://mallutv.co.in/play.php?c=ABP_Majha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="Avi JioTV",Zee 24 Taas
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_24_Taas
+https://mallutv.co.in/play.php?c=Zee_24_Taas
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="Avi JioTV",Zee Yuva
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Yuva
+https://mallutv.co.in/play.php?c=Zee_Yuva
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Avi JioTV",Zee Talkies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Talkies
+https://mallutv.co.in/play.php?c=Zee_Talkies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="Avi JioTV",Sony Marathi SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_Marathi_SD
+https://mallutv.co.in/play.php?c=Sony_Marathi_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Avi JioTV",Saam Tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Saam_Tv
+https://mallutv.co.in/play.php?c=Saam_Tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="Avi JioTV",9x Jhakaas
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=9x_Jhakaas
+https://mallutv.co.in/play.php?c=9x_Jhakaas
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="Avi JioTV",Maiboli
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Maiboli
+https://mallutv.co.in/play.php?c=Maiboli
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="Avi JioTV",TV9 Maharashtra
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV9_Maharashtra
+https://mallutv.co.in/play.php?c=TV9_Maharashtra
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="Avi JioTV",Sangeet Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sangeet_Marathi
+https://mallutv.co.in/play.php?c=Sangeet_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="Avi JioTV",Fakt Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Fakt_Marathi
+https://mallutv.co.in/play.php?c=Fakt_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="Avi JioTV",MKN
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MK_News
+https://mallutv.co.in/play.php?c=MK_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png" group-title="Avi JioTV",Amaar Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Amaar_Cinema
+https://mallutv.co.in/play.php?c=Amaar_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna_Aryan_News.png" group-title="Avi JioTV",Sadhna News TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sadhna_Aryan_News
+https://mallutv.co.in/play.php?c=Sadhna_Aryan_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Avi JioTV",Discovery Channel Bengali
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Channel_Bengali
+https://mallutv.co.in/play.php?c=Discovery_Channel_Bengali
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="Avi JioTV",DD Sahayadri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Sahayadri
+https://mallutv.co.in/play.php?c=DD_Sahayadri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png" group-title="Avi JioTV",ABP Ananda
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_Ananda
+https://mallutv.co.in/play.php?c=ABP_Ananda
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Avi JioTV",Colors Bengali HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Bengali_HD
+https://mallutv.co.in/play.php?c=Colors_Bengali_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Avi JioTV",Zee Bangla
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Bangla
+https://mallutv.co.in/play.php?c=Zee_Bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Avi JioTV",Aakash Aath
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aakaash_bangla
+https://mallutv.co.in/play.php?c=Aakaash_bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="Avi JioTV",24 Ghanta TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=24_Ghanta_TV
+https://mallutv.co.in/play.php?c=24_Ghanta_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Avi JioTV",Sony aath
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_aath
+https://mallutv.co.in/play.php?c=Sony_aath
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Avi JioTV",Sangeet Bangla
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sangeet_Bangla
+https://mallutv.co.in/play.php?c=Sangeet_Bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Avi JioTV",Zee Bangla Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Bangla_Cinema
+https://mallutv.co.in/play.php?c=Zee_Bangla_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png" group-title="Avi JioTV",News18 Bangla News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Bangla_News
+https://mallutv.co.in/play.php?c=ETV_Bangla_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png" group-title="Avi JioTV",News Time TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_Time_TV
+https://mallutv.co.in/play.php?c=News_Time_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png" group-title="Avi JioTV",Sakshi tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sakshi_tv
+https://mallutv.co.in/play.php?c=Sakshi_tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="Avi JioTV",Zee Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Telugu
+https://mallutv.co.in/play.php?c=Zee_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png" group-title="Avi JioTV",Studio One
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Studio_One
+https://mallutv.co.in/play.php?c=Studio_One
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" group-title="Avi JioTV",ETV Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Telugu
+https://mallutv.co.in/play.php?c=ETV_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png" group-title="Avi JioTV",ETV Andhra pradesh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Andhra_pradesh
+https://mallutv.co.in/play.php?c=ETV_Andhra_pradesh
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Avi JioTV",Jaya TV HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jaya_TV_HD
+https://mallutv.co.in/play.php?c=Jaya_TV_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png" group-title="Avi JioTV",TV 5 News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV_5_News
+https://mallutv.co.in/play.php?c=TV_5_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png" group-title="Avi JioTV",TV9 Telugu News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV9_Telugu_News
+https://mallutv.co.in/play.php?c=TV9_Telugu_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png" group-title="Avi JioTV",NTV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=NTV
+https://mallutv.co.in/play.php?c=NTV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png" group-title="Avi JioTV",ABN Andhra Jyothi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABN_Andhra_Jyothi
+https://mallutv.co.in/play.php?c=ABN_Andhra_Jyothi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png" group-title="Avi JioTV",T News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=T_News
+https://mallutv.co.in/play.php?c=T_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png" group-title="Avi JioTV",Puthu Yugam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Puthu_Yugam
+https://mallutv.co.in/play.php?c=Puthu_Yugam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png" group-title="Avi JioTV",V6 News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=V6_News
+https://mallutv.co.in/play.php?c=V6_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png" group-title="Avi JioTV",MK TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MK_TV
+https://mallutv.co.in/play.php?c=MK_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png" group-title="Avi JioTV",Bhakti TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bhakti_TV
+https://mallutv.co.in/play.php?c=Bhakti_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png" group-title="Avi JioTV",Subhavartha TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Subhavartha_TV
+https://mallutv.co.in/play.php?c=Subhavartha_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png" group-title="Avi JioTV",Nireekshana TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nireekshana_TV
+https://mallutv.co.in/play.php?c=Nireekshana_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png" group-title="Avi JioTV",ETV Telangana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Telangana
+https://mallutv.co.in/play.php?c=ETV_Telangana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png" group-title="Avi JioTV",HM TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=HM_TV
+https://mallutv.co.in/play.php?c=HM_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" group-title="Avi JioTV",ETV Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Cinema
+https://mallutv.co.in/play.php?c=ETV_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" group-title="Avi JioTV",ETV Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Plus
+https://mallutv.co.in/play.php?c=ETV_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png" group-title="Avi JioTV",ETV Life
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Life
+https://mallutv.co.in/play.php?c=ETV_Life
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png" group-title="Avi JioTV",ETV Abhiruchi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Abhiruchi
+https://mallutv.co.in/play.php?c=ETV_Abhiruchi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Avi JioTV",Zee Cinemalu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Cinemalu
+https://mallutv.co.in/play.php?c=Zee_Cinemalu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="Avi JioTV",Raj News&nbsp;24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_News_24x7
+https://mallutv.co.in/play.php?c=Raj_News_24x7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_English.png" group-title="Avi JioTV",CVR English
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CVR_English
+https://mallutv.co.in/play.php?c=CVR_English
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png" group-title="Avi JioTV",CVR News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CVR_News
+https://mallutv.co.in/play.php?c=CVR_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png" group-title="Avi JioTV",CVR Health
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CVR_Health
+https://mallutv.co.in/play.php?c=CVR_Health
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png" group-title="Avi JioTV",CVR OM Spiritual
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CVR_OM_Spiritual
+https://mallutv.co.in/play.php?c=CVR_OM_Spiritual
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png" group-title="Avi JioTV",Raj News Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_News_Telugu
+https://mallutv.co.in/play.php?c=Raj_News_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" group-title="Avi JioTV",Vissa TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vissa_TV
+https://mallutv.co.in/play.php?c=Vissa_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png" group-title="Avi JioTV",10 TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=10_TV
+https://mallutv.co.in/play.php?c=10_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png" group-title="Avi JioTV",Aradhana TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aradhana_TV
+https://mallutv.co.in/play.php?c=Aradhana_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Avi JioTV",Vanitha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vanitha
+https://mallutv.co.in/play.php?c=Vanitha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" group-title="Avi JioTV",Raj Music Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Music_Telugu
+https://mallutv.co.in/play.php?c=Raj_Music_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV1.png" group-title="Avi JioTV",TV1
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV1
+https://mallutv.co.in/play.php?c=TV1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png" group-title="Avi JioTV",I News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=I_News
+https://mallutv.co.in/play.php?c=I_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png" group-title="Avi JioTV",MK Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MK_Music
+https://mallutv.co.in/play.php?c=MK_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="Avi JioTV",History TV18 HD Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=History_18_Tamil
+https://mallutv.co.in/play.php?c=History_18_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png" group-title="Avi JioTV",Sony BBC Earth HD Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_BBC_Earth_HD_Tamil
+https://mallutv.co.in/play.php?c=Sony_BBC_Earth_HD_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Avi JioTV",DD Saptagiri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Saptagiri
+https://mallutv.co.in/play.php?c=DD_Saptagiri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Avi JioTV",Zee Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Tamil
+https://mallutv.co.in/play.php?c=Zee_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Avi JioTV",Kalaignar TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kalaignar_TV
+https://mallutv.co.in/play.php?c=Kalaignar_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Avi JioTV",Raj TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_TV
+https://mallutv.co.in/play.php?c=Raj_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png" group-title="Avi JioTV",Puthiya Thalimurai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Puthiya_Thalimurai
+https://mallutv.co.in/play.php?c=Puthiya_Thalimurai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png" group-title="Avi JioTV",Vasanth TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vasanth_TV
+https://mallutv.co.in/play.php?c=Vasanth_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Avi JioTV",Jaya Max
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jaya_Max
+https://mallutv.co.in/play.php?c=Jaya_Max
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Avi JioTV",Polimer TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Polimer_TV
+https://mallutv.co.in/play.php?c=Polimer_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png" group-title="Avi JioTV",Thanthi TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Thanthi_TV
+https://mallutv.co.in/play.php?c=Thanthi_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Avi JioTV",Makkal TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Makkal_TV
+https://mallutv.co.in/play.php?c=Makkal_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="Avi JioTV",Jaya Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jaya_Plus
+https://mallutv.co.in/play.php?c=Jaya_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Avi JioTV",J Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=J_Movies
+https://mallutv.co.in/play.php?c=J_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="Avi JioTV",News7 Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News7_Tamil
+https://mallutv.co.in/play.php?c=News7_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="Avi JioTV",Polimer News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Polimer_News
+https://mallutv.co.in/play.php?c=Polimer_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png" group-title="Avi JioTV",News 18 Tamilnadu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_18_Tamilnadu
+https://mallutv.co.in/play.php?c=News_18_Tamilnadu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="Avi JioTV",Kalaignar Seithigal 
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kalaignar_Seithigal_
+https://mallutv.co.in/play.php?c=Kalaignar_Seithigal_
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Avi JioTV",Raj Digital Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Digital_Plus
+https://mallutv.co.in/play.php?c=Raj_Digital_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Avi JioTV",Raj Musix
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Musix
+https://mallutv.co.in/play.php?c=Raj_Musix
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Avi JioTV",Colors Tamil HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Tamil_HD
+https://mallutv.co.in/play.php?c=Colors_Tamil_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png" group-title="Avi JioTV",Dighvijay TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dighvijay_TV
+https://mallutv.co.in/play.php?c=Dighvijay_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png" group-title="Avi JioTV",Sathiyam TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sathiyam
+https://mallutv.co.in/play.php?c=Sathiyam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_News.png" group-title="Avi JioTV",Captain News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Captain_News
+https://mallutv.co.in/play.php?c=Captain_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png" group-title="Avi JioTV",Malai Murasu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Malai_Murasu
+https://mallutv.co.in/play.php?c=Malai_Murasu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png" group-title="Avi JioTV",Captain tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Captain_tv
+https://mallutv.co.in/play.php?c=Captain_tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Avi JioTV",Sahana Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sahana_Music
+https://mallutv.co.in/play.php?c=Sahana_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png" group-title="Avi JioTV",Nambikkai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nambikkai
+https://mallutv.co.in/play.php?c=Nambikkai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png" group-title="Avi JioTV",Travel XP Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Travel_XP_Tamil
+https://mallutv.co.in/play.php?c=Travel_XP_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png" group-title="Avi JioTV",Vendhar TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vendhar_TV
+https://mallutv.co.in/play.php?c=Vendhar_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png" group-title="Avi JioTV",DD5 Podhigai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD5_Podhigai
+https://mallutv.co.in/play.php?c=DD5_Podhigai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png" group-title="Avi JioTV",Colors Kannada HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Kannada_HD
+https://mallutv.co.in/play.php?c=Colors_Kannada_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png" group-title="Avi JioTV",TV9 Karnataka
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV9_Karnataka
+https://mallutv.co.in/play.php?c=TV9_Karnataka
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="Avi JioTV",Zee Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Kannada
+https://mallutv.co.in/play.php?c=Zee_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png" group-title="Avi JioTV",Kasturi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kasturi
+https://mallutv.co.in/play.php?c=Kasturi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png" group-title="Avi JioTV",Public TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Public_TV
+https://mallutv.co.in/play.php?c=Public_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png" group-title="Avi JioTV",News18 Kannada News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Kannada_News
+https://mallutv.co.in/play.php?c=ETV_Kannada_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" group-title="Avi JioTV",Colors Super
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Super
+https://mallutv.co.in/play.php?c=Colors_Super
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png" group-title="Avi JioTV",Raj Music Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Music_Kannada
+https://mallutv.co.in/play.php?c=Raj_Music_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png" group-title="Avi JioTV",Sri Sankara
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sri_Sankara
+https://mallutv.co.in/play.php?c=Sri_Sankara
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png" group-title="Avi JioTV",Public Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Public_Music
+https://mallutv.co.in/play.php?c=Public_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png" group-title="Avi JioTV",Raj News Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_News_Kannada
+https://mallutv.co.in/play.php?c=Raj_News_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maha_News.png" group-title="Avi JioTV",Maha News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Maha_News
+https://mallutv.co.in/play.php?c=Maha_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" group-title="Avi JioTV",History TV18 HD Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=History_18_Telugu
+https://mallutv.co.in/play.php?c=History_18_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" group-title="Avi JioTV",Sony BBC Earth HD Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_BBC_Earth_HD_Telugu
+https://mallutv.co.in/play.php?c=Sony_BBC_Earth_HD_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" group-title="Avi JioTV",Discovery Channel Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Discovery_Channel_Telugu
+https://mallutv.co.in/play.php?c=Discovery_Channel_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png" group-title="Avi JioTV",Sri Venkateshwar Bhakti
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sri_Venkateshwar_Bhakti
+https://mallutv.co.in/play.php?c=Sri_Venkateshwar_Bhakti
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png" group-title="Avi JioTV",Divya Vani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Divya_Vani
+https://mallutv.co.in/play.php?c=Divya_Vani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png" group-title="Avi JioTV",DD9 chandana (kannada)
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD9_chandana_kannada
+https://mallutv.co.in/play.php?c=DD9_chandana_kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png" group-title="Avi JioTV",Colors Gujarati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Gujarati
+https://mallutv.co.in/play.php?c=Colors_Gujarati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png" group-title="Avi JioTV",Tv 9 Gujarat
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tv_9_Gujarat
+https://mallutv.co.in/play.php?c=Tv_9_Gujarat
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png" group-title="Avi JioTV",GS TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GS_TV
+https://mallutv.co.in/play.php?c=GS_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sandesh_News.png" group-title="Avi JioTV",Sandesh News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sandesh_News
+https://mallutv.co.in/play.php?c=Sandesh_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Bazaar_MNO.png" group-title="Avi JioTV",CNBC Bazaar (MNO)
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=CNBC_Bazaar_MNO
+https://mallutv.co.in/play.php?c=CNBC_Bazaar_MNO
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png" group-title="Avi JioTV",News18 Gujarati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_News_Gujarati
+https://mallutv.co.in/play.php?c=ETV_News_Gujarati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png" group-title="Avi JioTV",ABP Asmita
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABP_Asmita
+https://mallutv.co.in/play.php?c=ABP_Asmita
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/VTV_Gujarati.png" group-title="Avi JioTV",VTV Gujarati
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=VTV_Gujarati
+https://mallutv.co.in/play.php?c=VTV_Gujarati
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="Avi JioTV",Zee 24 Kalak
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_24_Kalak
+https://mallutv.co.in/play.php?c=Zee_24_Kalak
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png" group-title="Avi JioTV",DD Girnar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Girnar
+https://mallutv.co.in/play.php?c=DD_Girnar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png" group-title="Avi JioTV",Colors Oriya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Colors_Oriya
+https://mallutv.co.in/play.php?c=Colors_Oriya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_TV.png" group-title="Avi JioTV",Tarang TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tarang_TV
+https://mallutv.co.in/play.php?c=Tarang_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tarang_Music.png" group-title="Avi JioTV",Tarang Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tarang_Music
+https://mallutv.co.in/play.php?c=Tarang_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/OTV_Odisha_TV.png" group-title="Avi JioTV",OTV (Odisha TV)
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=OTV_Odisha_TV
+https://mallutv.co.in/play.php?c=OTV_Odisha_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png" group-title="Avi JioTV",Zee Odisha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sarthak_TV
+https://mallutv.co.in/play.php?c=Sarthak_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prathana_TV.png" group-title="Avi JioTV",Prathana TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prathana_TV
+https://mallutv.co.in/play.php?c=Prathana_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png" group-title="Avi JioTV",Zee Kalinga
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Kalinga
+https://mallutv.co.in/play.php?c=Zee_Kalinga
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png" group-title="Avi JioTV",Kanak News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kanak_TV
+https://mallutv.co.in/play.php?c=Kanak_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kalinga_TV.png" group-title="Avi JioTV",Kalinga TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kalinga_TV
+https://mallutv.co.in/play.php?c=Kalinga_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prameya_News_7.png" group-title="Avi JioTV",Prameya News 7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prameya_News_7
+https://mallutv.co.in/play.php?c=Prameya_News_7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png" group-title="Avi JioTV",News18 Oriya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_News_Oriya
+https://mallutv.co.in/play.php?c=ETV_News_Oriya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Alankar_TV.png" group-title="Avi JioTV",Alankar TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Alankar_TV
+https://mallutv.co.in/play.php?c=Alankar_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MBC.png" group-title="Avi JioTV",MBC
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=MBC
+https://mallutv.co.in/play.php?c=MBC
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png" group-title="Avi JioTV",Naxatra News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Naxatra_News
+https://mallutv.co.in/play.php?c=Naxatra_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png" group-title="Avi JioTV",DD Oriya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Oriya
+https://mallutv.co.in/play.php?c=DD_Oriya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_SD.png" group-title="Avi JioTV",Asianet
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Asianet_SD
+https://mallutv.co.in/play.php?c=Asianet_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Avi JioTV",Amrita TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Amrita_TV
+https://mallutv.co.in/play.php?c=Amrita_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-title="Avi JioTV",Mazavali Manorama HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mazavali_Manorama_HD
+https://mallutv.co.in/play.php?c=Mazavali_Manorama_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Avi JioTV",Mazhavil Manorama
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mazhavil_Manorama
+https://mallutv.co.in/play.php?c=Mazhavil_Manorama
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Avi JioTV",Kairali TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kairali_TV
+https://mallutv.co.in/play.php?c=Kairali_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Avi JioTV",mh1 (Music)
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=mh1_Music
+https://mallutv.co.in/play.php?c=mh1_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.PNG" group-title="Avi JioTV",Kairali News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kairali_People_TV
+https://mallutv.co.in/play.php?c=Kairali_People_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png" group-title="Avi JioTV",Manorama News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manorama_News
+https://mallutv.co.in/play.php?c=Manorama_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png" group-title="Avi JioTV",Mathrubhumi News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mathrubhumi_News
+https://mallutv.co.in/play.php?c=Mathrubhumi_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="Avi JioTV",Jaihind tv
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jaihind_tv
+https://mallutv.co.in/play.php?c=Jaihind_tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Avi JioTV",Jeevan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jeevan_TV
+https://mallutv.co.in/play.php?c=Jeevan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Avi JioTV",Kappa TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kappa_TV
+https://mallutv.co.in/play.php?c=Kappa_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" group-title="Avi JioTV",Flower TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Flower_TV
+https://mallutv.co.in/play.php?c=Flower_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GoodNews_Channel.png" group-title="Avi JioTV",GoodNews Channel
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GoodNews_Channel
+https://mallutv.co.in/play.php?c=GoodNews_Channel
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="Avi JioTV",Janam TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Janam_TV
+https://mallutv.co.in/play.php?c=Janam_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shalom.png" group-title="Avi JioTV",Shalom
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shalom
+https://mallutv.co.in/play.php?c=Shalom
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png" group-title="Avi JioTV",Kaumudy TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kaumudy_TV
+https://mallutv.co.in/play.php?c=Kaumudy_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="Avi JioTV",Kairali WE TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kairali_WE_TV
+https://mallutv.co.in/play.php?c=Kairali_WE_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png" group-title="Avi JioTV",News 18 Kerala
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_18_Kerala
+https://mallutv.co.in/play.php?c=News_18_Kerala
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Malayalam.png" group-title="Avi JioTV",Raj Music Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_Music_Malayalam
+https://mallutv.co.in/play.php?c=Raj_Music_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="Avi JioTV",Raj News Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Raj_News_Malayalam
+https://mallutv.co.in/play.php?c=Raj_News_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png" group-title="Avi JioTV",Dillagi TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dillagi_TV
+https://mallutv.co.in/play.php?c=Dillagi_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png" group-title="Avi JioTV",Dhamaal TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dhamaal_TV
+https://mallutv.co.in/play.php?c=Dhamaal_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Andy_Haryana.png" group-title="Avi JioTV",Andy Haryana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Andy_Haryana
+https://mallutv.co.in/play.php?c=Andy_Haryana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png" group-title="Avi JioTV",Manoranjan Grand
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manoranjan_Grand
+https://mallutv.co.in/play.php?c=Manoranjan_Grand
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Purvaiya.png" group-title="Avi JioTV",Zee Purvaiya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Purvaiya
+https://mallutv.co.in/play.php?c=Zee_Purvaiya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Punjabi_HP_Haryana.png" group-title="Avi JioTV",Zee Punjabi HP Haryana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Zee_Punjabi_HP_Haryana
+https://mallutv.co.in/play.php?c=Zee_Punjabi_HP_Haryana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_News.png" group-title="Avi JioTV",PTC News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_News
+https://mallutv.co.in/play.php?c=PTC_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png" group-title="Avi JioTV",News18 Haryana and HP News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ETV_Haryana_and_HP_News
+https://mallutv.co.in/play.php?c=ETV_Haryana_and_HP_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" group-title="Avi JioTV",PTC Punjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_Punjabi
+https://mallutv.co.in/play.php?c=PTC_Punjabi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png" group-title="Avi JioTV",PTC Chak De
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_Chak_De
+https://mallutv.co.in/play.php?c=PTC_Chak_De
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png" group-title="Avi JioTV",9X Tashan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=9X_Tashan
+https://mallutv.co.in/play.php?c=9X_Tashan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Chardikla_Time_TV.png" group-title="Avi JioTV",Chardikla Time TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Chardikla_Time_TV
+https://mallutv.co.in/play.php?c=Chardikla_Time_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" group-title="Avi JioTV",Pitaara
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Pitaara
+https://mallutv.co.in/play.php?c=Pitaara
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Avi JioTV",Manoranjan Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manoranjan_Movies
+https://mallutv.co.in/play.php?c=Manoranjan_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png" group-title="Avi JioTV",Khushboo TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Khusboo_TV
+https://mallutv.co.in/play.php?c=Khusboo_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" group-title="Avi JioTV",DD Punjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Punjabi
+https://mallutv.co.in/play.php?c=DD_Punjabi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png" group-title="Avi JioTV",DY 365
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DY_365
+https://mallutv.co.in/play.php?c=DY_365
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png" group-title="Avi JioTV",Nepal one
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nepal_one
+https://mallutv.co.in/play.php?c=Nepal_one
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png" group-title="Avi JioTV",Rang
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rang
+https://mallutv.co.in/play.php?c=Rang
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png" group-title="Avi JioTV",Jonack
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jonack
+https://mallutv.co.in/play.php?c=Jonack
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png" group-title="Avi JioTV",News 18 Assam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_18_Assam
+https://mallutv.co.in/play.php?c=News_18_Assam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png" group-title="Avi JioTV",Ramdhenu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ramdhenu
+https://mallutv.co.in/play.php?c=Ramdhenu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Assam_Talks.png" group-title="Avi JioTV",Assam Talks
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Assam_Talks
+https://mallutv.co.in/play.php?c=Assam_Talks
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png" group-title="Avi JioTV",Rengoni
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rengoni
+https://mallutv.co.in/play.php?c=Rengoni
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/North_East_Live.png" group-title="Avi JioTV",North East Live
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=North_East_Live
+https://mallutv.co.in/play.php?c=North_East_Live
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="Avi JioTV",Twenty Four News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Twenty_Four_News
+https://mallutv.co.in/play.php?c=Twenty_Four_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_BHARATVARSH.png" group-title="Avi JioTV",TV9 Bharatvarsh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV9_Bharatvarsh
+https://mallutv.co.in/play.php?c=TV9_Bharatvarsh
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" group-title="Avi JioTV",Tehzeeb TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tehzeeb_TV
+https://mallutv.co.in/play.php?c=Tehzeeb_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png" group-title="Avi JioTV",Kolkata Live
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kolkata_Live
+https://mallutv.co.in/play.php?c=Kolkata_Live
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png" group-title="Avi JioTV",Aastha Telugu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aastha_Telugu
+https://mallutv.co.in/play.php?c=Aastha_Telugu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png" group-title="Avi JioTV",Aastha Tamil
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aastha_Tamil
+https://mallutv.co.in/play.php?c=Aastha_Tamil
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png" group-title="Avi JioTV",Aastha Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Aastha_Kannada
+https://mallutv.co.in/play.php?c=Aastha_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png" group-title="Avi JioTV",Surya Samachar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Surya_Samachar
+https://mallutv.co.in/play.php?c=Surya_Samachar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png" group-title="Avi JioTV",Surya Cinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Surya_Cinema
+https://mallutv.co.in/play.php?c=Surya_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png" group-title="Avi JioTV",Surya Bhakti
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Surya_Bhakti
+https://mallutv.co.in/play.php?c=Surya_Bhakti
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png" group-title="Avi JioTV",Ctvn Akd Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ctvn_Akd_Plus
+https://mallutv.co.in/play.php?c=Ctvn_Akd_Plus
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png" group-title="Avi JioTV",Calcutta News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Calcutta_News
+https://mallutv.co.in/play.php?c=Calcutta_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png" group-title="Avi JioTV",Total Tv Haryana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Total_Tv_Haryana
+https://mallutv.co.in/play.php?c=Total_Tv_Haryana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Avi JioTV",Kolkata TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kolkata_TV
+https://mallutv.co.in/play.php?c=Kolkata_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" group-title="Avi JioTV",Sony Max SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SET_MAX
+https://mallutv.co.in/play.php?c=SET_MAX
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" group-title="Avi JioTV",Sony BBC Earth SD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sony_BBC_Earth_SD
+https://mallutv.co.in/play.php?c=Sony_BBC_Earth_SD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="Avi JioTV",BBC Marathi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=BBC_Marathi
+https://mallutv.co.in/play.php?c=BBC_Marathi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Millionlights.png" group-title="Avi JioTV",Millionlights
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Millionlights
+https://mallutv.co.in/play.php?c=Millionlights
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png" group-title="Avi JioTV",Swayam Prabha 01
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_01
+https://mallutv.co.in/play.php?c=Swayam_Prabha_01
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png" group-title="Avi JioTV",Swayam Prabha 02
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_02
+https://mallutv.co.in/play.php?c=Swayam_Prabha_02
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png" group-title="Avi JioTV",Swayam Prabha 03
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_03
+https://mallutv.co.in/play.php?c=Swayam_Prabha_03
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cinema.png" group-title="Avi JioTV",JioCinema
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jio_Cinema
+https://mallutv.co.in/play.php?c=Jio_Cinema
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png" group-title="Avi JioTV",BTV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=BTV
+https://mallutv.co.in/play.php?c=BTV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png" group-title="Avi JioTV",Newslive
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Newslive
+https://mallutv.co.in/play.php?c=Newslive
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png" group-title="Avi JioTV",PTC Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_Music
+https://mallutv.co.in/play.php?c=PTC_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png" group-title="Avi JioTV",Samara News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Samara_News
+https://mallutv.co.in/play.php?c=Samara_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png" group-title="Avi JioTV",Ayush TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ayush_TV
+https://mallutv.co.in/play.php?c=Ayush_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png" group-title="Avi JioTV",Desi Channel
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Desi_Channel
+https://mallutv.co.in/play.php?c=Desi_Channel
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png" group-title="Avi JioTV",Sai TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SaiTV
+https://mallutv.co.in/play.php?c=SaiTV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png" group-title="Avi JioTV",Lakshya TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Lakshya_TV
+https://mallutv.co.in/play.php?c=Lakshya_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png" group-title="Avi JioTV",Angel TV HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Angel_TV_HD
+https://mallutv.co.in/play.php?c=Angel_TV_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png" group-title="Avi JioTV",PTC Simran
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_Simran
+https://mallutv.co.in/play.php?c=PTC_Simran
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png" group-title="Avi JioTV",Sai Leela
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sai_Leela
+https://mallutv.co.in/play.php?c=Sai_Leela
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png" group-title="Avi JioTV",Hindu Dharmam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hindu_Dharmam
+https://mallutv.co.in/play.php?c=Hindu_Dharmam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png" group-title="Avi JioTV",Mercy TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rujumargam_TV
+https://mallutv.co.in/play.php?c=Rujumargam_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png" group-title="Avi JioTV",Calvary
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Calvary
+https://mallutv.co.in/play.php?c=Calvary
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png" group-title="Avi JioTV",Swayam Prabha 04
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_04
+https://mallutv.co.in/play.php?c=Swayam_Prabha_04
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png" group-title="Avi JioTV",Swayam Prabha 05
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_05
+https://mallutv.co.in/play.php?c=Swayam_Prabha_05
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png" group-title="Avi JioTV",Swayam Prabha 06
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_06
+https://mallutv.co.in/play.php?c=Swayam_Prabha_06
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png" group-title="Avi JioTV",Swayam Prabha 07
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_07
+https://mallutv.co.in/play.php?c=Swayam_Prabha_07
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png" group-title="Avi JioTV",Swayam Prabha 08
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_08
+https://mallutv.co.in/play.php?c=Swayam_Prabha_08
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png" group-title="Avi JioTV",Swayam Prabha 09
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_09
+https://mallutv.co.in/play.php?c=Swayam_Prabha_09
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png" group-title="Avi JioTV",Swayam Prabha 10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_10
+https://mallutv.co.in/play.php?c=Swayam_Prabha_10
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png" group-title="Avi JioTV",Swayam Prabha 11
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_11
+https://mallutv.co.in/play.php?c=Swayam_Prabha_11
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png" group-title="Avi JioTV",Swayam Prabha 12
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_12
+https://mallutv.co.in/play.php?c=Swayam_Prabha_12
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png" group-title="Avi JioTV",Swayam Prabha 13
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_13
+https://mallutv.co.in/play.php?c=Swayam_Prabha_13
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png" group-title="Avi JioTV",Swayam Prabha 14
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_14
+https://mallutv.co.in/play.php?c=Swayam_Prabha_14
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png" group-title="Avi JioTV",Swayam Prabha 15
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_15
+https://mallutv.co.in/play.php?c=Swayam_Prabha_15
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png" group-title="Avi JioTV",Swayam Prabha 16
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_16
+https://mallutv.co.in/play.php?c=Swayam_Prabha_16
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png" group-title="Avi JioTV",Swayam Prabha 17
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_17
+https://mallutv.co.in/play.php?c=Swayam_Prabha_17
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png" group-title="Avi JioTV",Swayam Prabha 18
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_18
+https://mallutv.co.in/play.php?c=Swayam_Prabha_18
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png" group-title="Avi JioTV",Swayam Prabha 19
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_19
+https://mallutv.co.in/play.php?c=Swayam_Prabha_19
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png" group-title="Avi JioTV",Swayam Prabha 20
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_20
+https://mallutv.co.in/play.php?c=Swayam_Prabha_20
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png" group-title="Avi JioTV",Swayam Prabha 21
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_21
+https://mallutv.co.in/play.php?c=Swayam_Prabha_21
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png" group-title="Avi JioTV",Swayam Prabha 22
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Swayam_Prabha_22
+https://mallutv.co.in/play.php?c=Swayam_Prabha_22
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png" group-title="Avi JioTV",PM e Vidya 01
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_1
+https://mallutv.co.in/play.php?c=evidya_1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png" group-title="Avi JioTV",PM e Vidya 02
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_2
+https://mallutv.co.in/play.php?c=evidya_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png" group-title="Avi JioTV",PM e Vidya 03
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_3
+https://mallutv.co.in/play.php?c=evidya_3
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png" group-title="Avi JioTV",PM e Vidya 04
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_4
+https://mallutv.co.in/play.php?c=evidya_4
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png" group-title="Avi JioTV",PM e Vidya 05
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_5
+https://mallutv.co.in/play.php?c=evidya_5
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png" group-title="Avi JioTV",PM e Vidya 06
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_6
+https://mallutv.co.in/play.php?c=evidya_6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png" group-title="Avi JioTV",PM e Vidya 07
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_7
+https://mallutv.co.in/play.php?c=evidya_7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png" group-title="Avi JioTV",DD Uttar Pradesh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Uttar_Pradesh
+https://mallutv.co.in/play.php?c=DD_Uttar_Pradesh
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png" group-title="Avi JioTV",Sanjha TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sanjha_TV
+https://mallutv.co.in/play.php?c=Sanjha_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png" group-title="Avi JioTV",Anjan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Anjan_TV
+https://mallutv.co.in/play.php?c=Anjan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png" group-title="Avi JioTV",Garv Punjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GarvPunjabi
+https://mallutv.co.in/play.php?c=GarvPunjabi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png" group-title="Avi JioTV",JUSPunjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JUSPunjabi
+https://mallutv.co.in/play.php?c=JUSPunjabi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png" group-title="Avi JioTV",Peppers TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Peppers_TV
+https://mallutv.co.in/play.php?c=Peppers_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png" group-title="Avi JioTV",DD Bangla
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Bangla
+https://mallutv.co.in/play.php?c=DD_Bangla
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Avi JioTV",DD Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Malayalam
+https://mallutv.co.in/play.php?c=DD_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png" group-title="Avi JioTV",DD urdu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_urdu
+https://mallutv.co.in/play.php?c=DD_urdu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png" group-title="Avi JioTV",DD Kashir
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD_Kashir
+https://mallutv.co.in/play.php?c=DD_Kashir
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png" group-title="Avi JioTV",DD13 Guwahati NE
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DD13_Guwahati_NE
+https://mallutv.co.in/play.php?c=DD13_Guwahati_NE
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/QYOUHD.png" group-title="Avi JioTV",The Q India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TheQIndia
+https://mallutv.co.in/play.php?c=TheQIndia
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png" group-title="Avi JioTV",Namma TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Namma_TV
+https://mallutv.co.in/play.php?c=Namma_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="Avi JioTV",Rangamanch
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rangamanch
+https://mallutv.co.in/play.php?c=Rangamanch
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png" group-title="Avi JioTV",PTC Punjabi Gold 
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_Punjabi_Gold
+https://mallutv.co.in/play.php?c=PTC_Punjabi_Gold
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png" group-title="Avi JioTV",Indradhanu
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Indradhanu
+https://mallutv.co.in/play.php?c=Indradhanu
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png" group-title="Avi JioTV",Prag News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prag_News
+https://mallutv.co.in/play.php?c=Prag_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png" group-title="Avi JioTV",TV 5 Kannada
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV_5_Kannada
+https://mallutv.co.in/play.php?c=TV_5_Kannada
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Avi JioTV",Tunes 6
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tunes_6
+https://mallutv.co.in/play.php?c=Tunes_6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png" group-title="Avi JioTV",PTC DHOL TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PTC_DHOL_TV
+https://mallutv.co.in/play.php?c=PTC_DHOL_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png" group-title="Avi JioTV",Only Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Only_Music
+https://mallutv.co.in/play.php?c=Only_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png" group-title="Avi JioTV",PBN Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PBN_Music
+https://mallutv.co.in/play.php?c=PBN_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png" group-title="Avi JioTV",Brit Asia
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Brit_Asia
+https://mallutv.co.in/play.php?c=Brit_Asia
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PEACE_MUSIC.png" group-title="Avi JioTV",PEACE MUSIC
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PEACE_MUSIC
+https://mallutv.co.in/play.php?c=PEACE_MUSIC
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Avi JioTV",Steelbird Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Steelbird_Music
+https://mallutv.co.in/play.php?c=Steelbird_Music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prajaa_TV.png" group-title="Avi JioTV",Prajaa TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prajaa_TV
+https://mallutv.co.in/play.php?c=Prajaa_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bangla_Time.png" group-title="Avi JioTV",Bangla Time
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bangla_Time
+https://mallutv.co.in/play.php?c=Bangla_Time
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Media_One_TV.png" group-title="Avi JioTV",Media One TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Media_One_TV
+https://mallutv.co.in/play.php?c=Media_One_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InGoa24x7.png" group-title="Avi JioTV",In Goa 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=InGoa24x7
+https://mallutv.co.in/play.php?c=InGoa24x7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Boogle_Bollywood.png" group-title="Avi JioTV",Boogle Bollywood
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Boogle_Bollywood
+https://mallutv.co.in/play.php?c=Boogle_Bollywood
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Propex_TV.png" group-title="Avi JioTV",Propex TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Propex_TV
+https://mallutv.co.in/play.php?c=Propex_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png" group-title="Avi JioTV",testii
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sakhi_TV
+https://mallutv.co.in/play.php?c=Sakhi_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhaktisagar_2.png" group-title="Avi JioTV",Bhaktisagar 2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bhaktisagar_2
+https://mallutv.co.in/play.php?c=Bhaktisagar_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Harekrsna.png" group-title="Avi JioTV",Hare krsna
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Harekrsna
+https://mallutv.co.in/play.php?c=Harekrsna
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Garv_Swaminarayan.png" group-title="Avi JioTV",Swar Shree
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Garv_Swaminarayan
+https://mallutv.co.in/play.php?c=Garv_Swaminarayan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Katyayani.png" group-title="Avi JioTV",Katyayani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Katyayani
+https://mallutv.co.in/play.php?c=Katyayani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tulja_Bhavani.png" group-title="Avi JioTV",Tulja Bhavani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tulja_Bhavani
+https://mallutv.co.in/play.php?c=Tulja_Bhavani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarv_Dharam_Sangam.png" group-title="Avi JioTV",Sarv Dharam Sangam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sarv_Dharam_Sangam
+https://mallutv.co.in/play.php?c=Sarv_Dharam_Sangam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lord_Buddha.png" group-title="Avi JioTV",Lord Buddha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Lord_Buddha
+https://mallutv.co.in/play.php?c=Lord_Buddha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GarvGurbani.jpg" group-title="Avi JioTV",Garv Punjabi Gurbani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GarvGurbani
+https://mallutv.co.in/play.php?c=GarvGurbani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Fateh_TV.png" group-title="Avi JioTV",Fateh TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Fateh_TV
+https://mallutv.co.in/play.php?c=Fateh_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Valambhakti.png" group-title="Avi JioTV",Valam TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Valambhakti
+https://mallutv.co.in/play.php?c=Valambhakti
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Om_Shanti.png" group-title="Avi JioTV",Om Shanti
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Om_Shanti
+https://mallutv.co.in/play.php?c=Om_Shanti
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kartavya_Tv.png" group-title="Avi JioTV",Kartavya TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kartavya_Tv
+https://mallutv.co.in/play.php?c=Kartavya_Tv
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hamari_Sanskruti_TV.png" group-title="Avi JioTV",Hamari Sanskruti
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hamari_Sanskruti_TV
+https://mallutv.co.in/play.php?c=Hamari_Sanskruti_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUSOne.png" group-title="Avi JioTV",JUSOne
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JUSOne
+https://mallutv.co.in/play.php?c=JUSOne
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Soham_TV.png" group-title="Avi JioTV",Soham TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Soham_TV
+https://mallutv.co.in/play.php?c=Soham_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Awakening.png" group-title="Avi JioTV",Awakening
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Awakening
+https://mallutv.co.in/play.php?c=Awakening
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SRMD.png" group-title="Avi JioTV",SRMD HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SRMD
+https://mallutv.co.in/play.php?c=SRMD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_music.png" group-title="Avi JioTV",Hare Krsna Music
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hare_Krsna_music
+https://mallutv.co.in/play.php?c=Hare_Krsna_music
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_8.png" group-title="Avi JioTV",PM e Vidya 08
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=_evidya_8
+https://mallutv.co.in/play.php?c=_evidya_8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/_evidya_9.png" group-title="Avi JioTV",PM e Vidya 09
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=_evidya_9
+https://mallutv.co.in/play.php?c=_evidya_9
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_10.png" group-title="Avi JioTV",PM e Vidya 10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_10
+https://mallutv.co.in/play.php?c=evidya_10
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/evidya_11.png" group-title="Avi JioTV",PM e Vidya 11
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=evidya_11
+https://mallutv.co.in/play.php?c=evidya_11
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_1.png" group-title="Avi JioTV",Vande Gujarat 1
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_1
+https://mallutv.co.in/play.php?c=Vande_Gujarat_1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_2.png" group-title="Avi JioTV",Vande Gujarat 2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_2
+https://mallutv.co.in/play.php?c=Vande_Gujarat_2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_3.png" group-title="Avi JioTV",Vande Gujarat 3
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_3
+https://mallutv.co.in/play.php?c=Vande_Gujarat_3
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_4.png" group-title="Avi JioTV",Vande Gujarat 4
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_4
+https://mallutv.co.in/play.php?c=Vande_Gujarat_4
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_5.png" group-title="Avi JioTV",Vande Gujarat 5
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_5
+https://mallutv.co.in/play.php?c=Vande_Gujarat_5
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_6.png" group-title="Avi JioTV",Vande Gujarat 6
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_6
+https://mallutv.co.in/play.php?c=Vande_Gujarat_6
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_7.png" group-title="Avi JioTV",Vande Gujarat 7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_7
+https://mallutv.co.in/play.php?c=Vande_Gujarat_7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_8.png" group-title="Avi JioTV",Vande Gujarat 8
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_8
+https://mallutv.co.in/play.php?c=Vande_Gujarat_8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_9.png" group-title="Avi JioTV",Vande Gujarat 9
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_9
+https://mallutv.co.in/play.php?c=Vande_Gujarat_9
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_10.png" group-title="Avi JioTV",Vande Gujarat 10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_10
+https://mallutv.co.in/play.php?c=Vande_Gujarat_10
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_11.png" group-title="Avi JioTV",Vande Gujarat 11
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_11
+https://mallutv.co.in/play.php?c=Vande_Gujarat_11
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_12.png" group-title="Avi JioTV",Vande Gujarat 12
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_12
+https://mallutv.co.in/play.php?c=Vande_Gujarat_12
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_13.png" group-title="Avi JioTV",Vande Gujarat 13
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_13
+https://mallutv.co.in/play.php?c=Vande_Gujarat_13
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_14.png" group-title="Avi JioTV",Vande Gujarat 14
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_14
+https://mallutv.co.in/play.php?c=Vande_Gujarat_14
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_15.png" group-title="Avi JioTV",Vande Gujarat 15
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_15
+https://mallutv.co.in/play.php?c=Vande_Gujarat_15
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vande_Gujarat_16.png" group-title="Avi JioTV",Vande Gujarat 16
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vande_Gujarat_16
+https://mallutv.co.in/play.php?c=Vande_Gujarat_16
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GSB_Worldwide.png" group-title="Avi JioTV",G S B Worldwide
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GSB_Worldwide
+https://mallutv.co.in/play.php?c=GSB_Worldwide
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak.png" group-title="Avi JioTV",Ashtavinayak
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ashtavinayak
+https://mallutv.co.in/play.php?c=Ashtavinayak
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Toonami.png" group-title="Avi JioTV",Testton
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Toonami
+https://mallutv.co.in/play.php?c=Toonami
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News11.png" group-title="Avi JioTV",News11
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News11
+https://mallutv.co.in/play.php?c=News11
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RPLUS.png" group-title="Avi JioTV",R Plus
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=RPLUS
+https://mallutv.co.in/play.php?c=RPLUS
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Lotus_News.png" group-title="Avi JioTV",Lotus News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Lotus_News
+https://mallutv.co.in/play.php?c=Lotus_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST1_HD.png" group-title="Avi JioTV",TEST1 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST1_HD
+https://mallutv.co.in/play.php?c=TEST1_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST2_HD.png" group-title="Avi JioTV",TEST2 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST2_HD
+https://mallutv.co.in/play.php?c=TEST2_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bharat_Samachar.png" group-title="Avi JioTV",Bharat Samachar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bharat_Samachar
+https://mallutv.co.in/play.php?c=Bharat_Samachar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Madhimugam_TV.png" group-title="Avi JioTV",Madhimugam TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Madhimugam_TV
+https://mallutv.co.in/play.php?c=Madhimugam_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png" group-title="Avi JioTV",Win TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Win_TV
+https://mallutv.co.in/play.php?c=Win_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mantavya_News.png" group-title="Avi JioTV",Mantavya News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mantavya_News
+https://mallutv.co.in/play.php?c=Mantavya_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/4_TV.png" group-title="Avi JioTV",4 TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=4_TV
+https://mallutv.co.in/play.php?c=4_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_1_India.png" group-title="Avi JioTV",News 1 India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_1_India
+https://mallutv.co.in/play.php?c=News_1_India
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png" group-title="Avi JioTV",APN News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=APN_News
+https://mallutv.co.in/play.php?c=APN_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_100.png" group-title="Avi JioTV",TV 100
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TV_100
+https://mallutv.co.in/play.php?c=TV_100
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png" group-title="Avi JioTV",A1 TV Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=A1_TV_Rajasthan
+https://mallutv.co.in/play.php?c=A1_TV_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/INH_24x7.png" group-title="Avi JioTV",INH 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=INH_24x7
+https://mallutv.co.in/play.php?c=INH_24x7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Goa365.png" group-title="Avi JioTV",GOA 365
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Goa365
+https://mallutv.co.in/play.php?c=Goa365
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prime_News.png" group-title="Avi JioTV",Prime News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prime_News
+https://mallutv.co.in/play.php?c=Prime_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png" group-title="Avi JioTV",Prudent
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=PrudentHD
+https://mallutv.co.in/play.php?c=PrudentHD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="Avi JioTV",Khabar Fast
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Khabar_Fast
+https://mallutv.co.in/play.php?c=Khabar_Fast
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JUS24x7.png" group-title="Avi JioTV",JUS 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JUS24x7
+https://mallutv.co.in/play.php?c=JUS24x7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/RDX_News.png" group-title="Avi JioTV",RDX Goa
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=RDX_News
+https://mallutv.co.in/play.php?c=RDX_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/HNN_24x7.png" group-title="Avi JioTV",HNN 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=HNN_24x7
+https://mallutv.co.in/play.php?c=HNN_24x7
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jantantra.png" group-title="Avi JioTV",Jantantra
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jantantra
+https://mallutv.co.in/play.php?c=Jantantra
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Insight.png" group-title="Avi JioTV",Insight
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Insight
+https://mallutv.co.in/play.php?c=Insight
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-title="Avi JioTV",Asianet HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Asianet
+https://mallutv.co.in/play.php?c=Asianet
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Avi JioTV",Jalsha Movies HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jalsa_Movies_HD
+https://mallutv.co.in/play.php?c=Jalsa_Movies_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Digishala.png" group-title="Avi JioTV",Digishala
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Digishala
+https://mallutv.co.in/play.php?c=Digishala
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manipur_Educational_Channel.png" group-title="Avi JioTV",Lairik
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Manipur_Educational_Channel
+https://mallutv.co.in/play.php?c=Manipur_Educational_Channel
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Meluha.png" group-title="Avi JioTV",Meluha
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Meluha
+https://mallutv.co.in/play.php?c=Meluha
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vidya.png" group-title="Avi JioTV",Vidya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vidya
+https://mallutv.co.in/play.php?c=Vidya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nipuna.png" group-title="Avi JioTV",Nipuna
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nipuna
+https://mallutv.co.in/play.php?c=Nipuna
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Home_Learning_Gujarat1.png" group-title="Avi JioTV",Home Learning Gujarat Standard-10
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Home_Learning_Gujarat1
+https://mallutv.co.in/play.php?c=Home_Learning_Gujarat1
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Avi JioTV",KITE VICTERS
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=KITE_Victers
+https://mallutv.co.in/play.php?c=KITE_Victers
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png" group-title="Avi JioTV",Akal Academy Group
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Akal_Academy_Group
+https://mallutv.co.in/play.php?c=Akal_Academy_Group
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/IMS_School.png" group-title="Avi JioTV",IMS Schools Grade 1 - 8
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=IMS_School
+https://mallutv.co.in/play.php?c=IMS_School
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amma.png" group-title="Avi JioTV",AMMA TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Amma
+https://mallutv.co.in/play.php?c=Amma
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vedant_TV.png" group-title="Avi JioTV",Vedant TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vedant_TV
+https://mallutv.co.in/play.php?c=Vedant_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Haryanvi_Hits.png" group-title="Avi JioTV",Haryanvi Hits
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Haryanvi_Hits
+https://mallutv.co.in/play.php?c=Haryanvi_Hits
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AAS_Vidyalaya.png" group-title="Avi JioTV",AAS Vidyalaya
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AAS_Vidyalaya
+https://mallutv.co.in/play.php?c=AAS_Vidyalaya
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Khandoba_Majha_Jejuri.png" group-title="Avi JioTV",Khandoba Majha, Jejuri
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Khandoba_Majha_Jejuri
+https://mallutv.co.in/play.php?c=Khandoba_Majha_Jejuri
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DharmaGranth_TV.png" group-title="Avi JioTV",Dharm Granth TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=DharmaGranth_TV
+https://mallutv.co.in/play.php?c=DharmaGranth_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/P_News.png" group-title="Avi JioTV",P News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=P_News
+https://mallutv.co.in/play.php?c=P_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Malnadu_TV.png" group-title="Avi JioTV",Malanadu TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Malnadu_TV
+https://mallutv.co.in/play.php?c=Malnadu_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABSTAR_News.png" group-title="Avi JioTV",AB Star News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABSTAR_News
+https://mallutv.co.in/play.php?c=ABSTAR_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sanatan_TV.png" group-title="Avi JioTV",Sanatan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sanatan_TV
+https://mallutv.co.in/play.php?c=Sanatan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV.png" group-title="Avi JioTV",Express TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Express_TV
+https://mallutv.co.in/play.php?c=Express_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV_Shikshana.png" group-title="Avi JioTV",Express Shikshana
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Express_TV_Shikshana
+https://mallutv.co.in/play.php?c=Express_TV_Shikshana
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png" group-title="Avi JioTV",Jigyasa TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Jigyasa_TV
+https://mallutv.co.in/play.php?c=Jigyasa_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/35mm.png" group-title="Avi JioTV",35mm
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=35mm
+https://mallutv.co.in/play.php?c=35mm
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Avi JioTV",Sristi TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sristi_TV
+https://mallutv.co.in/play.php?c=Sristi_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Atmadarshan_TV.png" group-title="Avi JioTV",Aatmadarshan TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Atmadarshan_TV
+https://mallutv.co.in/play.php?c=Atmadarshan_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST3_HD.png" group-title="Avi JioTV",TEST3 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST3_HD
+https://mallutv.co.in/play.php?c=TEST3_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST4_HD.png" group-title="Avi JioTV",TEST4 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST4_HD
+https://mallutv.co.in/play.php?c=TEST4_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST5_HD.png" group-title="Avi JioTV",TEST5 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST5_HD
+https://mallutv.co.in/play.php?c=TEST5_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST6_HD.png" group-title="Avi JioTV",TEST6 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST6_HD
+https://mallutv.co.in/play.php?c=TEST6_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST7_HD.png" group-title="Avi JioTV",TEST7 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST7_HD
+https://mallutv.co.in/play.php?c=TEST7_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST8_HD.png" group-title="Avi JioTV",TEST8 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST8_HD
+https://mallutv.co.in/play.php?c=TEST8_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hare_Krsna_Pravachan.png" group-title="Avi JioTV",Hare Krsna Pravachan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hare_Krsna_Pravachan
+https://mallutv.co.in/play.php?c=Hare_Krsna_Pravachan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Shows.png" group-title="Avi JioTV",JioCinema Shows
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JioCinema_Shows
+https://mallutv.co.in/play.php?c=JioCinema_Shows
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Action.png" group-title="Avi JioTV",JioCinema Action
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JioCinema_Action
+https://mallutv.co.in/play.php?c=JioCinema_Action
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/JioCinema_Comedy.png" group-title="Avi JioTV",JioCinema Comedy
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=JioCinema_Comedy
+https://mallutv.co.in/play.php?c=JioCinema_Comedy
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png" group-title="Avi JioTV",Highbrow
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Highbrow
+https://mallutv.co.in/play.php?c=Highbrow
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/LordShri_Vitthal.png" group-title="Avi JioTV",Lord Shri Vitthal Rukmini
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=LordShri_Vitthal
+https://mallutv.co.in/play.php?c=LordShri_Vitthal
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_TV.png" group-title="Avi JioTV",Rajyoga TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rajyoga_TV
+https://mallutv.co.in/play.php?c=Rajyoga_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rajyoga_Malayalam.png" group-title="Avi JioTV",Rajyoga Malayalam
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Rajyoga_Malayalam
+https://mallutv.co.in/play.php?c=Rajyoga_Malayalam
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GovindDevji_Jaipur.png" group-title="Avi JioTV",Mandir Shri Govinddevji-Jaipur
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=GovindDevji_Jaipur
+https://mallutv.co.in/play.php?c=GovindDevji_Jaipur
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Dagdusheth_Pune.png" group-title="Avi JioTV",Dagdusheth Ganpati - Pune
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Dagdusheth_Pune
+https://mallutv.co.in/play.php?c=Dagdusheth_Pune
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nimbark.png" group-title="Avi JioTV",Nimbark TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nimbark
+https://mallutv.co.in/play.php?c=Nimbark
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Click_Life.png" group-title="Avi JioTV",Click Life
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Click_Life
+https://mallutv.co.in/play.php?c=Click_Life
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ambabai_Temple.png" group-title="Avi JioTV",Ambabai Temple-Kolhapur
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ambabai_Temple
+https://mallutv.co.in/play.php?c=Ambabai_Temple
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST9_HD.png" group-title="Avi JioTV",TEST9 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST9_HD
+https://mallutv.co.in/play.php?c=TEST9_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST10_HD.png" group-title="Avi JioTV",TEST10 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST10_HD
+https://mallutv.co.in/play.php?c=TEST10_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/God_TV.png" group-title="Avi JioTV",God TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=God_TV
+https://mallutv.co.in/play.php?c=God_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Tripura_News.png" group-title="Avi JioTV",Headlines Tripura
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Tripura_News
+https://mallutv.co.in/play.php?c=Tripura_News
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png" group-title="Avi JioTV",Global Sanjh
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sanjh_TV
+https://mallutv.co.in/play.php?c=Sanjh_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png" group-title="Avi JioTV",ABZY Dhakad
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABZY_Dhakad
+https://mallutv.co.in/play.php?c=ABZY_Dhakad
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png" group-title="Avi JioTV",ABZY Cool
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABZY_Cool
+https://mallutv.co.in/play.php?c=ABZY_Cool
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png" group-title="Avi JioTV",ABZY Movies
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=ABZY_Movies
+https://mallutv.co.in/play.php?c=ABZY_Movies
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png" group-title="Avi JioTV",Sh Krishna Matta Adamaru Paryaya UDUPI
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Udupi_Krishna_Temple
+https://mallutv.co.in/play.php?c=Udupi_Krishna_Temple
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" group-title="Avi JioTV",Sugran
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sugran
+https://mallutv.co.in/play.php?c=Sugran
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png" group-title="Avi JioTV",Mahavir Mandir Patna
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Hanuman_Mahavir_Temple
+https://mallutv.co.in/play.php?c=Hanuman_Mahavir_Temple
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG" group-title="Avi JioTV",Vignesh TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Vignesh_TV
+https://mallutv.co.in/play.php?c=Vignesh_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png" group-title="Avi JioTV",Shri Omkareshwar Mandir
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Omkareshwar_Temple
+https://mallutv.co.in/play.php?c=Omkareshwar_Temple
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png" group-title="Avi JioTV",Stars Tell
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=StarTell
+https://mallutv.co.in/play.php?c=StarTell
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png" group-title="Avi JioTV",Wellness
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Wellness_TV
+https://mallutv.co.in/play.php?c=Wellness_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png" group-title="Avi JioTV",ISKCON Darshan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Iskon_Temples_New
+https://mallutv.co.in/play.php?c=Iskon_Temples_New
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png" group-title="Avi JioTV",Takht Sri Patna Sahib - Patna
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sri_Patna_Sahib
+https://mallutv.co.in/play.php?c=Sri_Patna_Sahib
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png" group-title="Avi JioTV",Shani Shingnapur
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Shani_Shingnapur
+https://mallutv.co.in/play.php?c=Shani_Shingnapur
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png" group-title="Avi JioTV",Prati Shirdi Saibaba
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Prati_Shirdi_Saibaba
+https://mallutv.co.in/play.php?c=Prati_Shirdi_Saibaba
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png" group-title="Avi JioTV",Ganga Darshan Varanasi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ganga_Darshan_Varanasi
+https://mallutv.co.in/play.php?c=Ganga_Darshan_Varanasi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png" group-title="Avi JioTV",Ashtavinayak Ozar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ashtavinayak_Ozar
+https://mallutv.co.in/play.php?c=Ashtavinayak_Ozar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png" group-title="Avi JioTV",SVBC2
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=SVBC2
+https://mallutv.co.in/play.php?c=SVBC2
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png" group-title="Avi JioTV",Ichhapuran Balaji Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ichhapuran_Balaji_Rajasthan
+https://mallutv.co.in/play.php?c=Ichhapuran_Balaji_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png" group-title="Avi JioTV",Iskon Girgaon
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Iskon_Girgaon
+https://mallutv.co.in/play.php?c=Iskon_Girgaon
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png" group-title="Avi JioTV",Ashtavinayak Ranjangaon
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Ashtavinayak_Ranjangaon
+https://mallutv.co.in/play.php?c=Ashtavinayak_Ranjangaon
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png" group-title="Avi JioTV",Karani Mata Rajasthan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Karani_Mata_Rajasthan
+https://mallutv.co.in/play.php?c=Karani_Mata_Rajasthan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png" group-title="Avi JioTV",Mahalaxmi Mumbai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mahalaxmi_Mumbai
+https://mallutv.co.in/play.php?c=Mahalaxmi_Mumbai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png" group-title="Avi JioTV",Babulnaath Mumbai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Babulnaath_Mumbai
+https://mallutv.co.in/play.php?c=Babulnaath_Mumbai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png" group-title="Avi JioTV",Mumbadevi Mumbai
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Mumbadevi_Mumbai
+https://mallutv.co.in/play.php?c=Mumbadevi_Mumbai
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png" group-title="Avi JioTV",BBC News Hindi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=BBC_Hindi
+https://mallutv.co.in/play.php?c=BBC_Hindi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png" group-title="Avi JioTV",TIME8
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TIME8
+https://mallutv.co.in/play.php?c=TIME8
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png" group-title="Avi JioTV",Krishna Vani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Krishna_Vani
+https://mallutv.co.in/play.php?c=Krishna_Vani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png" group-title="Avi JioTV",Wah Punjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Wah_Punjabi
+https://mallutv.co.in/play.php?c=Wah_Punjabi
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png" group-title="Avi JioTV",YTV India
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=YTV_INDIA
+https://mallutv.co.in/play.php?c=YTV_INDIA
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png" group-title="Avi JioTV",9 Bharat Samachar
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=9_Bharat_Samachar
+https://mallutv.co.in/play.php?c=9_Bharat_Samachar
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png" group-title="Avi JioTV",News Only
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=News_Only
+https://mallutv.co.in/play.php?c=News_Only
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png" group-title="Avi JioTV",Gurkibani
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Gurkebaani
+https://mallutv.co.in/play.php?c=Gurkebaani
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST11_HD.png" group-title="Avi JioTV",TEST11 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST11_HD
+https://mallutv.co.in/play.php?c=TEST11_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST12_HD.png" group-title="Avi JioTV",TEST12 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST12_HD
+https://mallutv.co.in/play.php?c=TEST12_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png" group-title="Avi JioTV",Shri Jain Nakoda Parshwanath Tirth
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Nakoda_Temple
+https://mallutv.co.in/play.php?c=Nakoda_Temple
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Argus_TV.png" group-title="Avi JioTV",Argus News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Argus_TV
+https://mallutv.co.in/play.php?c=Argus_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Braj_Darshan.png" group-title="Avi JioTV",Braj Darshan
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Braj_Darshan
+https://mallutv.co.in/play.php?c=Braj_Darshan
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png" group-title="Avi JioTV",BHOOMI 24x7
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Bhoomi_TV
+https://mallutv.co.in/play.php?c=Bhoomi_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png" group-title="Avi JioTV",Kannur One
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Kannur_one
+https://mallutv.co.in/play.php?c=Kannur_one
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png" group-title="Avi JioTV",TEST13 HD
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=TEST13_HD
+https://mallutv.co.in/play.php?c=TEST13_HD
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png" group-title="Avi JioTV",World  Punjabi
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=World_Punjab
+https://mallutv.co.in/play.php?c=World_Punjab
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png" group-title="Avi JioTV",Samachar Today
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Samachar_Today
+https://mallutv.co.in/play.php?c=Samachar_Today
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png" group-title="Avi JioTV",Sangat TV
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sangat_TV
+https://mallutv.co.in/play.php?c=Sangat_TV
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sarvamangala.png" group-title="Avi JioTV",Sarvamangala
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=Sarvamangala
+https://mallutv.co.in/play.php?c=Sarvamangala
 
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png" group-title="Avi JioTV",AB News
-https://mallutv.co.in/mallu/jtv/jioplay.php?c=AB_News
+https://mallutv.co.in/play.php?c=AB_News
