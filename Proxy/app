@@ -1,0 +1,55 @@
+sniffer blocker codes
+
+
+{
+
+"apps":[
+
+   "com.adlock",
+   "com.guoshi.httpcanary",
+   "com.minhui.networkcapture",
+   "app.greyshirts.sslcapture",
+   "com.evbadroid.proxymon",
+   "com.packagesniffer.frtparlak",
+   "com.dans.apps.webd",
+   "jp.co.taosoftware.android.packetcapture",
+   "org.proxydroid",
+   "com.zimperium.zanti",
+   "com.njlabs.showjava",
+   "com.rahulmarne.easyandroid",
+   "uk.co.opticiancms.wifiprobe",
+   "org.csploit.android",
+   "com.devadvance.rootcloak",
+   "com.devadvance.rootcloakplus",
+   "com.koushikdutta.superuser",
+   "com.thirdparty.superuser",
+   "com.kingroot.kinguser",
+   "eu.chainfire.supersu",
+   "com.topjohnwu.magisk",
+   "de.robv.android.xposed.installer",
+   "org.blokada.alarm.dnschanger",
+   "com.adguard.android",
+    "dev.tuantv.android.dnschanger",
+    "com.burakgon.dnschanger",
+    "com.anythingintellect.freednschanger",
+    "jp.co.taosoftware.android.packetcapture",
+    "com.minhui.networkcapture.pro",
+    "com.minhui.wifianalyzer",
+    "com.evbadroid.wicapdemo",
+    "com.evbadroid.proxymon",
+    "com.packagesniffer.frtparlak",
+    "com.emanuelef.remote_capture"
+  ]
+}
+
+
+ad blocker
+
+
+{
+    "dns":[
+        "dns.adguard.com",
+    "176-103-130-130.dns.adguard.com",
+        "176-103-130-131.dns.adguard.com"
+    ]
+}
