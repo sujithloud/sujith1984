@@ -1,0 +1,259 @@
+
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Zee5",Zee TV HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeetvhd&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="Zee5",Zee TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeetv&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="Zee5",&TV HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-tvhd_0&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Zee5",&xplorHD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-209&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Zee5",Zee Cinema HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeecinemahd&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="Zee5",Zee Cinema
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeecinema&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Zee5",&Pictures HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-tvpictureshd&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png" group-title="Zee5",Zing
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zing&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/386x386/09zeeyuvazeeyuva.png" group-title="Zee5",Zee Yuva
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeeyuva&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Zee5",Zee Thirai
+https://mallutvapp.co.in/sas/z5.php?c=0-9-224&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title="Zee5",Zee Telugu
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeetelugu&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee5",Zee Tamil
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeetamil&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/386x386/09zeetalkieszeetalkies.png" group-title="Zee5",Zee Talkies
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeetalkies&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/386x386/09zeesalaamzeesalaam.png" group-title="Zee5",Zee Salaam
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeesalaam&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeerajasthannews/list/386x386/09zeerajasthannewszeerajas.png" group-title="Zee5",Zee Rajasthan News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeerajasthannews&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/386x386/09215zeepunjabi.png" group-title="Zee5",Zee Punjabi
+https://mallutvapp.co.in/sas/z5.php?c=0-9-215&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/386x386/09zeepunjabharyanahimazeep.png" group-title="Zee5",Zee Punjab Haryana Himachal Pradesh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeepunjabharyanahima&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-241/list/386x386/09241zeepicchar.png" group-title="Zee5",Zee Picchar
+https://mallutvapp.co.in/sas/z5.php?c=0-9-241&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_265145625/list/386x386/09channel_265145625zeenews.png" group-title="Zee5",Zee News Uttar Pradesh Uttrakhand
+https://mallutvapp.co.in/sas/z5.php?c=0-9-channel_265145625&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Zee5",Zee News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeenews&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png" group-title="Zee5",Zee Marathi HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeemarathi&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/386x386/09zeemadhyapradeshchatzeem.png" group-title="Zee5",Zee Madhya Pradesh Chhattisgarh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeemadhyapradeshchat&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-129/list/386x386/09129zeekeralam.png" group-title="Zee5",Zee Keralam
+https://mallutvapp.co.in/sas/z5.php?c=0-9-129&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekannada/list/386x386/09zeekannadazeekannada.png" group-title="Zee5",Zee Kannada
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeekannada&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/386x386/09zeehindustanzeehindustan.png" group-title="Zee5",Zee Hindustan
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeehindustan&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-etc/list/386x386/09etczeeetcbollywood.png" group-title="Zee5",Zee ETC Bollywood
+https://mallutvapp.co.in/sas/z5.php?c=0-9-etc&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="Zee5",Zee Classic
+https://mallutvapp.co.in/sas/z5.php?c=0-9-176&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/386x386/09zeecinemaluzeecinemalu.png" group-title="Zee5",Zee Cinemalu
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeecinemalu&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Zee5",Zee Café HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeecafehd&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" group-title="Zee5",Zee Business
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeebusiness&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Zee5",Zee Bollywood
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeeclassic&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-216/list/386x386/1170x658_zeebio_1600608309.png" group-title="Zee5",Zee Biskope
+https://mallutvapp.co.in/sas/z5.php?c=0-9-216&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebiharjharkhand/list/386x386/09zeebiharjharkhandzeebiha.png" group-title="Zee5",Zee Bihar Jharkhand
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeebiharjharkhand&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/386x386/09zeebanglacinemazeebangla.png" group-title="Zee5",Zee Bangla Cinema
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeebanglacinema&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebangla/list/386x386/09zeebanglazeebangla.png" group-title="Zee5",Zee Bangla
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeebangla&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Zee5",Zee Anmol Cinema
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeeanmolcinema&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Zee5",Zee Anmol
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeeanmol&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Zee5",Zee Action
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zeeaction&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title="Zee5",Zee 24 Taas
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zee24taas&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24kalak/list/386x386/1170x658_1038153274.png" group-title="Zee5",Zee 24 Kalak
+https://mallutvapp.co.in/sas/z5.php?c=0-9-zee24kalak&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="Zee5",WION
+https://mallutvapp.co.in/sas/z5.php?c=0-9-wion&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-306/list/386x386/1170x658psd_1968564726.png" group-title="Zee5",Vendhar TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-306&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-258/list/386x386/09258tv9telugu.png" group-title="Zee5",TV9 Telugu
+https://mallutvapp.co.in/sas/z5.php?c=0-9-258&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Zee5",TV9 Marathi
+https://mallutvapp.co.in/sas/z5.php?c=0-9-257&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-259/list/386x386/09259tv9kannada.png" group-title="Zee5",TV9 Kannada
+https://mallutvapp.co.in/sas/z5.php?c=0-9-259&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-260/list/386x386/09260tv9gujarati.png" group-title="Zee5",TV9 Gujarati
+https://mallutvapp.co.in/sas/z5.php?c=0-9-260&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" group-title="Zee5",TV9 Bharatvarsh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-251&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="Zee5",TV5 News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-222&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-227/list/386x386/1170x658_1957432816.png" group-title="Zee5",TV5 Kannada
+https://mallutvapp.co.in/sas/z5.php?c=0-9-227&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-317/list/386x386/1170x658psd_1932866204.png" group-title="Zee5",Time8
+https://mallutvapp.co.in/sas/z5.php?c=0-9-317&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png" group-title="Zee5",The Q India HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-181&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-255/list/386x386/09255tez.png" group-title="Zee5",Tez
+https://mallutvapp.co.in/sas/z5.php?c=0-9-255&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-201/list/386x386/09201suvarnanews.png" group-title="Zee5",Suvarna News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-201&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-271/list/386x386/sugrantv.png" group-title="Zee5",Sugran TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-271&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-185/list/386x386/09185sportsflasheshindi.png" group-title="Zee5",Sports Flashes - Hindi
+https://mallutvapp.co.in/sas/z5.php?c=0-9-185&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-301/list/386x386/1170x658psd_899351993.png" group-title="Zee5",Sounds of ZEE5 - Romance
+https://mallutvapp.co.in/sas/z5.php?c=0-9-301&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-300/list/386x386/1170x658psd_1825414407.png" group-title="Zee5",Sounds of ZEE5 - Punjabi Beats
+https://mallutvapp.co.in/sas/z5.php?c=0-9-300&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-299/list/386x386/1170x658psd_1477247939.png" group-title="Zee5",Sounds of ZEE5 - Originals
+https://mallutvapp.co.in/sas/z5.php?c=0-9-299&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-298/list/386x386/1170x658psd_1468258188.png" group-title="Zee5",Sounds of ZEE5 - Local Vocal
+https://mallutvapp.co.in/sas/z5.php?c=0-9-298&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-302/list/386x386/1170x658psd_1116886297.png" group-title="Zee5",Sounds of ZEE5 - EDM
+https://mallutvapp.co.in/sas/z5.php?c=0-9-302&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-219/list/386x386/09219showbox.png" group-title="Zee5",Showbox
+https://mallutvapp.co.in/sas/z5.php?c=0-9-219&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-163/list/386x386/1170x658_shikshatv.png" group-title="Zee5",Shiksha TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-163&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1565694979/list/386x386/09channel_1565694979satsan.png" group-title="Zee5",Satsang TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-channel_1565694979&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/386x386/09channel_1144658965sanska.png" group-title="Zee5",Sanskar TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-channel_1144658965&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-284/list/386x386/sadhnatv.png" group-title="Zee5",Sadhna TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-284&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-313/list/386x386/1170x658psd_120976450.png" group-title="Zee5",Sadhna Plus News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-313&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-319/list/386x386/" group-title="Zee5",Sadhna News MP/CG
+https://mallutvapp.co.in/sas/z5.php?c=0-9-319&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title="Zee5",Saam TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-270&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1422341819/list/386x386/09channel_1422341819republ.png" group-title="Zee5",Republic TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-channel_1422341819&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png" group-title="Zee5",Republic Bharat
+https://mallutvapp.co.in/sas/z5.php?c=0-9-162&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-220/list/386x386/09220putiyathalamurai.png" group-title="Zee5",Putiya Thalamurai
+https://mallutvapp.co.in/sas/z5.php?c=0-9-220&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-221/list/386x386/09221puthyugamtv.png" group-title="Zee5",Puthyugam TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-221&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" group-title="Zee5",Polimer News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-203&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-296/list/386x386/1170x658_419268810.png" group-title="Zee5",Non-stop EDM
+https://mallutvapp.co.in/sas/z5.php?c=0-9-296&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" group-title="Zee5",News24
+https://mallutvapp.co.in/sas/z5.php?c=0-9-206&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-273/list/386x386/newsx.png" group-title="Zee5",News X
+https://mallutvapp.co.in/sas/z5.php?c=0-9-273&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="Zee5",News State Uttar Pradesh Uttrakhand
+https://mallutvapp.co.in/sas/z5.php?c=0-9-171&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-172/list/386x386/09172newsstatemadhyaprades.png" group-title="Zee5",News State Madhya Pradesh Chhattisgarh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-172&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" group-title="Zee5",News Nation
+https://mallutvapp.co.in/sas/z5.php?c=0-9-170&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-261/list/386x386/09261news9.png" group-title="Zee5",News 9
+https://mallutvapp.co.in/sas/z5.php?c=0-9-261&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-280/list/386x386/nenews_176594625.png" group-title="Zee5",NE News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-280&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-makkaltv/list/386x386/09makkaltvmakkaltv.png" group-title="Zee5",Makkal TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-makkaltv&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-305/list/386x386/1170x658psd_69203595.png" group-title="Zee5",Living India
+https://mallutvapp.co.in/sas/z5.php?c=0-9-305&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Zee5",Living Foodz
+https://mallutvapp.co.in/sas/z5.php?c=0-9-livingfoodz&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-166/list/386x386/09166krishnavani.png" group-title="Zee5",Krishna Vani
+https://mallutvapp.co.in/sas/z5.php?c=0-9-166&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-285/list/386x386/ishwartv.png" group-title="Zee5",Ishwar  TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-285&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-282/list/386x386/indiatv.png" group-title="Zee5",India TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-282&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-indiatoday/list/386x386/09indiatodayindiatoday.png" group-title="Zee5",India Today
+https://mallutvapp.co.in/sas/z5.php?c=0-9-indiatoday&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-275/list/386x386/indianewsup_1043438544.png" group-title="Zee5",India News UP
+https://mallutvapp.co.in/sas/z5.php?c=0-9-275&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-276/list/386x386/indianewsrajasthan.png" group-title="Zee5",India News Rajasthan
+https://mallutvapp.co.in/sas/z5.php?c=0-9-276&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-274/list/386x386/1170x658_1666427088.png" group-title="Zee5",India News Punjabi Himachal
+https://mallutvapp.co.in/sas/z5.php?c=0-9-274&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-277/list/386x386/indianews_mp.png" group-title="Zee5",India News MP
+https://mallutvapp.co.in/sas/z5.php?c=0-9-277&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-278/list/386x386/indianewsharyana.png" group-title="Zee5",India News Haryana
+https://mallutvapp.co.in/sas/z5.php?c=0-9-278&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-279/list/386x386/indianewsgujarati.png" group-title="Zee5",India News Gujarat
+https://mallutvapp.co.in/sas/z5.php?c=0-9-279&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-272/list/386x386/indianews.png" group-title="Zee5",India News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-272&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/386x386/09183harekrsna.png" group-title="Zee5",Hare Krsna
+https://mallutvapp.co.in/sas/z5.php?c=0-9-183&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-229/list/386x386/09229epictv.png" group-title="Zee5",Epic TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-229&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-207/list/386x386/09207e24.png" group-title="Zee5",E24
+https://mallutvapp.co.in/sas/z5.php?c=0-9-207&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-divyatv/list/386x386/09divyatvdivyatv.png" group-title="Zee5",Divya TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-divyatv&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-245/list/386x386/09245dishpositive.png" group-title="Zee5",Dish Positive
+https://mallutvapp.co.in/sas/z5.php?c=0-9-245&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png" group-title="Zee5",DD Yadagiri
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddyadagiri&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-dduttarpradesh/list/386x386/09dduttarpradeshdduttarpra.png" group-title="Zee5",DD Uttar Pradesh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-dduttarpradesh&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddurdu/list/386x386/09ddurduddurdu.png" group-title="Zee5",DD Urdu
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddurdu&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddsahyadri/list/386x386/09ddsahyadriddsahyadri.png" group-title="Zee5",DD Sahyadri
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddsahyadri&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddrajasthanjaipur/list/386x386/09ddrajasthanjaipurddrajas.png" group-title="Zee5",DD Rajasthan
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddrajasthanjaipur&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddpunjabi/list/386x386/09ddpunjabiddpunjabi.png" group-title="Zee5",DD Punjabi
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddpunjabi&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddpodhigai/list/386x386/09ddpodhigaiddpodhigai.png" group-title="Zee5",DD Podhigai
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddpodhigai&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddnews/list/386x386/09ddnewsddnews.png" group-title="Zee5",DD News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddnews&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png" group-title="Zee5",DD National HD
+https://mallutvapp.co.in/sas/z5.php?c=0-9-250&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddmalayalam/list/386x386/09ddmalayalamddmalayalam.png" group-title="Zee5",DD Malayalam
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddmalayalam&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddmadhyapradesh/list/386x386/09ddmadhyapradeshddmadhyap.png" group-title="Zee5",DD Madhya Pradesh
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddmadhyapradesh&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddkisan/list/386x386/09ddkisanddkisan.png" group-title="Zee5",DD Kisan
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddkisan&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddindia/list/386x386/09ddindiaddindia.png" group-title="Zee5",DD India
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddindia&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddgirnar/list/386x386/09ddgirnarddgirnar.png" group-title="Zee5",DD Girnar
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddgirnar&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddchandana/list/386x386/09ddchandanaddchandana.png" group-title="Zee5",DD Chandana
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddchandana&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbihar/list/386x386/09ddbiharddbihar.png" group-title="Zee5",DD Bihar
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddbihar&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbharati/list/386x386/09ddbharatiddbharati.png" group-title="Zee5",DD Bharati
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddbharati&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbangla/list/386x386/09ddbangladdbangla.png" group-title="Zee5",DD Bangla
+https://mallutvapp.co.in/sas/z5.php?c=0-9-ddbangla&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-chardiklatimetvtimet/list/386x386/09chardiklatimetvtimetchar.png" group-title="Zee5",Chardikla Time TV
+https://mallutvapp.co.in/sas/z5.php?c=0-9-chardiklatimetvtimet&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Zee5",Big Magic
+https://mallutvapp.co.in/sas/z5.php?c=0-9-bigmagic_1786965389&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="Zee5",Big Ganga
+https://mallutvapp.co.in/sas/z5.php?c=0-9-bigganga&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-200/list/386x386/09200asianetnews.png" group-title="Zee5",Asianet News
+https://mallutvapp.co.in/sas/z5.php?c=0-9-200&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/386x386/09aajtakaajtak.png" group-title="Zee5",Aaj Tak
+https://mallutvapp.co.in/sas/z5.php?c=0-9-aajtak&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png" group-title="Zee5",9XM
+https://mallutvapp.co.in/sas/z5.php?c=0-9-131&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-132/list/386x386/091329xtashan.png" group-title="Zee5",9X Tashan
+https://mallutvapp.co.in/sas/z5.php?c=0-9-132&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-134/list/386x386/091349xjhakaas.png" group-title="Zee5",9X Jhakaas
+https://mallutvapp.co.in/sas/z5.php?c=0-9-134&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-133/list/386x386/091339xjalwa.png" group-title="Zee5",9X Jalwa
+https://mallutvapp.co.in/sas/z5.php?c=0-9-133&e=.m3u8
+#EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-24ghantatv/list/386x386/0924ghantatv24ghanta.png" group-title="Zee5",24 Ghanta
+https://mallutvapp.co.in/sas/z5.php?c=0-9-24ghantatv&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="Zee5",&Pictures
+https://mallutvapp.co.in/sas/z5.php?c=0-9-pictures&e=.m3u8
