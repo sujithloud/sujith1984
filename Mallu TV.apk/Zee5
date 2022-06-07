@@ -6,7 +6,7 @@ https://mallutvpro.xyz/sas/z5.php?c=0-9-zeetv&e=.m3u8
 #EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="Zee5",&TV HD
 https://mallutvpro.xyz/sas/z5.php?c=0-9-tvhd_0&e=.m3u8
 #EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Zee5",&xplorHD
-https://mallutvpro.xyz/sas/z5.php?
+https://mallutvpro.xyz/sas/z5.php?c=0-9-209
 #EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Zee5",Zee Cinema HD
 https://mallutvpro.xyz/sas/z5.php?c=0-9-zeecinemahd&e=.m3u8
 #EXTINF:-1 tvg-id="NetlivTV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="Zee5",Zee Cinema
