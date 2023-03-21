@@ -9,8 +9,6 @@ https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=starhindi&utoken=&e=.
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=ptvpk&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="14b50855c25c4ab2114a4de00cebe760" tvg-name="Willow HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" tvg-chno="14b50855c25c4ab2114a4de00cebe760" group-title=" - ",Willow HD
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=willowusa&utoken=&e=.m3u8
-#EXTINF:-1 tvg-id="4c881c8c762a15dab455eb8ff2420f5d" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" tvg-chno="4c881c8c762a15dab455eb8ff2420f5d" group-title=" - ",Super Sport Cricket
-https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=supercricket&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="425059d92d1bdab653cba296a88fd0ff" tvg-name="TEN Sports Pakistan" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" tvg-chno="425059d92d1bdab653cba296a88fd0ff" group-title=" - ",TEN Sports Pakistan
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=tenspk&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="7b32d768e7d08e0552c492131dba9796" tvg-name="Willow Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" tvg-chno="7b32d768e7d08e0552c492131dba9796" group-title=" - ",Willow Xtra
@@ -79,6 +77,8 @@ https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=bein1prem&utoken=&e=.
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=bein2prem&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="6c8125aa2e597b9c4f99a196fa9c8705" tvg-name="Bein Sports 3 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png" tvg-chno="6c8125aa2e597b9c4f99a196fa9c8705" group-title=" - ",Bein Sports 3 Premium
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=bein3prem&utoken=&e=.m3u8
+#EXTINF:-1 tvg-id="4c881c8c762a15dab455eb8ff2420f5d" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" tvg-chno="4c881c8c762a15dab455eb8ff2420f5d" group-title=" - ",Super Sport Cricket
+https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=supercricket&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="0aa00dadf82f57e48ec094d235c637cc" tvg-name="SuperSport Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" tvg-chno="0aa00dadf82f57e48ec094d235c637cc" group-title=" - ",SuperSport Football
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=superfotball&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="b3943d0e57072defe4279fb1f04b5c86" tvg-name="SuperSport Premier" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" tvg-chno="b3943d0e57072defe4279fb1f04b5c86" group-title=" - ",SuperSport Premier
@@ -125,11 +125,12 @@ https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=hdchnl7&utoken=&e=.m3
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=hdchnl8&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="957cWb1db00b19387aeb318296adab1d" tvg-name="SuperSport Variety 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" tvg-chno="957cWb1db00b19387aeb318296adab1d" group-title=" - ",SuperSport Variety 4
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=hdchnl9&utoken=&e=.m3u8
+#EXTINF:-1 tvg-id="ac39ba84953e6bcd9c0f8e2e0727af7b" tvg-name="Super Sports PSL" tvg-country="IN" tvg-logo="https://i.postimg.cc/QN7HWPJN/Super-Sports-PSL.png" tvg-chno="ac39ba84953e6bcd9c0f8e2e0727af7b" group-title=" - ",Super Sports PSL
+https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=superpsl&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="39a6828ed06f7e9e859f03eca83fbba8" tvg-name="Via Play Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/SKGnjz66/Via-Play-Sports1.png" tvg-chno="39a6828ed06f7e9e859f03eca83fbba8" group-title=" - ",Via Play Sports 1
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=premieruk&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="007d11094810797b78def0b6307c6af2" tvg-name="Via Play Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/13hXHKM0/Via-Play-Sports2.png" tvg-chno="007d11094810797b78def0b6307c6af2" group-title=" - ",Via Play Sports 2
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=hdchnl2&utoken=&e=.m3u8
 #EXTINF:-1 tvg-id="ee01467dde677f52730c692dd37cc514" tvg-name="Via Play Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/W49JXkd2/Via-Play-Xtra.png" tvg-chno="ee01467dde677f52730c692dd37cc514" group-title=" - ",Via Play Xtra
 https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=hdchnl3&utoken=&e=.m3u8
-#EXTINF:-1 tvg-id="ac39ba84953e6bcd9c0f8e2e0727af7b" tvg-name="Super Sports PSL" tvg-country="IN" tvg-logo="https://i.postimg.cc/QN7HWPJN/Super-Sports-PSL.png" tvg-chno="ac39ba84953e6bcd9c0f8e2e0727af7b" group-title=" - ",Super Sports PSL
-https://netlivetvworld.com/iptv/fire/Streams/index.m3u8?id=superpsl&utoken=&e=.m3u8
+
