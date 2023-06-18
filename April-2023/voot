@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="1" group-title="VOOT JIOCINEMA LIVE",Colors HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_HD_voot_MOB
+#EXTINF:-1 tvg-id="2" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="2" group-title="VOOT JIOCINEMA LIVE",Colors Cineplex HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Cineplex_voot_MOB
+#EXTINF:-1 tvg-id="3" tvg-name="Comedy Central HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2j9jRNj4/Comedy-Central-HD.png" tvg-chno="3" group-title="VOOT JIOCINEMA LIVE",Comedy Central HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Comedy_Central_HD_voot_MOB
+#EXTINF:-1 tvg-id="4" tvg-name="MTV Beats HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnrgsjWb/MTV-Beats-HD.png" tvg-chno="4" group-title="VOOT JIOCINEMA LIVE",MTV Beats HD
+https://netlive.cloud/voot/live-hls.m3u8?id=MTV_Beats_HD_voot_MOB
+#EXTINF:-1 tvg-id="5" tvg-name="Nickelodeon HD+" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gpzt48Rf/Nickelodeon-HDPlus.png" tvg-chno="5" group-title="VOOT JIOCINEMA LIVE",Nickelodeon HD+
+https://netlive.cloud/voot/live-hls.m3u8?id=Nick_HD_Plus_voot_MOB
+#EXTINF:-1 tvg-id="6" tvg-name="Nick Jr." tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png" tvg-chno="6" group-title="VOOT JIOCINEMA LIVE",Nick Jr.
+https://netlive.cloud/voot/live-hls.m3u8?id=Nick_Junior_voot_MOB
+#EXTINF:-1 tvg-id="7" tvg-name="Colors Kannada" tvg-country="IN" tvg-logo="https://i.postimg.cc/qvvM9ByX/Colors-Kannada.png" tvg-chno="7" group-title="VOOT JIOCINEMA LIVE",Colors Kannada
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Kannada_HD_voot_MOB
+#EXTINF:-1 tvg-id="8" tvg-name="Colors Bangla HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/vTYpcTQ0/Colors-Bangla-HD.png" tvg-chno="8" group-title="VOOT JIOCINEMA LIVE",Colors Bangla HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Bangla_HD_voot_MOB
+#EXTINF:-1 tvg-id="9" tvg-name="Sonic" tvg-country="IN" tvg-logo="https://i.postimg.cc/25N91yGn/Sonic-Nickelodeon.png" tvg-chno="9" group-title="VOOT JIOCINEMA LIVE",Sonic
+https://netlive.cloud/voot/live-hls.m3u8?id=Sonic_Nickelodeon_voot_MOB
+#EXTINF:-1 tvg-id="10" tvg-name="Colors Super" tvg-country="IN" tvg-logo="https://i.postimg.cc/QMjkLTSY/Colors-Super.png" tvg-chno="10" group-title="VOOT JIOCINEMA LIVE",Colors Super
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Super_voot_MOB
+#EXTINF:-1 tvg-id="11" tvg-name="Colors Tamil HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/L5gjkB65/Colors-Tamil-HD.png" tvg-chno="11" group-title="VOOT JIOCINEMA LIVE",Colors Tamil HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Tamil_HD_voot_MOB
+#EXTINF:-1 tvg-id="12" tvg-name="Colors Gujarati" tvg-country="IN" tvg-logo="https://i.postimg.cc/NM5dVXjq/Colors-Gujarati.png" tvg-chno="12" group-title="VOOT JIOCINEMA LIVE",Colors Gujarati
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Gujarati_voot_MOB
+#EXTINF:-1 tvg-id="13" tvg-name="Colors Rishtey" tvg-country="IN" tvg-logo="https://i.postimg.cc/6qZY6NZM/Colors-Rishtey.png" tvg-chno="13" group-title="VOOT JIOCINEMA LIVE",Colors Rishtey
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Rishtey_voot_MOB
+#EXTINF:-1 tvg-id="14" tvg-name="Colors Odia" tvg-country="IN" tvg-logo="https://i.postimg.cc/TPH9rPqk/Colors-Odia.png" tvg-chno="14" group-title="VOOT JIOCINEMA LIVE",Colors Odia
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Oriya_voot_MOB
+#EXTINF:-1 tvg-id="15" tvg-name="Colors Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/hvV1W1Fw/Colors-Marathi.png" tvg-chno="15" group-title="VOOT JIOCINEMA LIVE",Colors Marathi
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Marathi_HD_voot_MOB
+#EXTINF:-1 tvg-id="16" tvg-name="Colors Infinity HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/q7gcMTV2/Colors-Infinity-HD.png" tvg-chno="16" group-title="VOOT JIOCINEMA LIVE",Colors Infinity HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Infinity_HD_voot_MOB
+#EXTINF:-1 tvg-id="17" tvg-name="Colors Infinity" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-chno="17" group-title="VOOT JIOCINEMA LIVE",Colors Infinity
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Infinity_SD_voot_MOB
+#EXTINF:-1 tvg-id="18" tvg-name="Colors" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_SD.png" tvg-chno="18" group-title="VOOT JIOCINEMA LIVE",Colors
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_voot_MOB
+#EXTINF:-1 tvg-id="19" tvg-name="Colors Cineplex" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" tvg-chno="19" group-title="VOOT JIOCINEMA LIVE",Colors Cineplex
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Cineplex_SD_voot_MOB
+#EXTINF:-1 tvg-id="20" tvg-name="Colors Cineplex Bollywood" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" tvg-chno="20" group-title="VOOT JIOCINEMA LIVE",Colors Cineplex Bollywood
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Cineplex_Bollywood_voot_MOB
+#EXTINF:-1 tvg-id="21" tvg-name="Colors Cineplex Superhits" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" tvg-chno="21" group-title="VOOT JIOCINEMA LIVE",Colors Cineplex Superhits
+https://netlive.cloud/voot/live-hls.m3u8?id=Rishtey_Cineplex_voot_MOB
+#EXTINF:-1 tvg-id="22" tvg-name="Sports 18 1" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" tvg-chno="22" group-title="VOOT JIOCINEMA LIVE",Sports 18 1
+https://netlive.cloud/voot/live-hls.m3u8?id=Sports18_1_SD_voot_MOB
+#EXTINF:-1 tvg-id="23" tvg-name="Sports 18 1 HD" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" tvg-chno="23" group-title="VOOT JIOCINEMA LIVE",Sports 18 1 HD
+https://netlive.cloud/voot/live-hls.m3u8?id=Sports18_1_HD_voot_MOB
+#EXTINF:-1 tvg-id="24" tvg-name="MTV Beats" tvg-country="IN" tvg-logo="https://i.postimg.cc/nhrsK5Gy/MTV-Beats.png" tvg-chno="24" group-title="VOOT JIOCINEMA LIVE",MTV Beats
+https://netlive.cloud/voot/live-hls.m3u8?id=MTV_Beats_voot_MOB
+#EXTINF:-1 tvg-id="25" tvg-name="VH1" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png" tvg-chno="25" group-title="VOOT JIOCINEMA LIVE",VH1
+https://netlive.cloud/voot/live-hls.m3u8?id=VH1_voot_MOB
+#EXTINF:-1 tvg-id="26" tvg-name="MTV" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" tvg-chno="26" group-title="VOOT JIOCINEMA LIVE",MTV
+https://netlive.cloud/voot/live-hls.m3u8?id=MTV_voot_MOB
+#EXTINF:-1 tvg-id="27" tvg-name="MTV HD Plus" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-chno="27" group-title="VOOT JIOCINEMA LIVE",MTV HD Plus
+https://netlive.cloud/voot/live-hls.m3u8?id=MTV_HD_Plus_voot_MOB
+#EXTINF:-1 tvg-id="28" tvg-name="Clubbing TV" tvg-country="IN" tvg-logo="https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle.png" tvg-chno="28" group-title="VOOT JIOCINEMA LIVE",Clubbing TV
+https://netlive.cloud/voot/live-hls.m3u8?id=Clubbing_TV_voot_MOB
+#EXTINF:-1 tvg-id="29" tvg-name="Colors Bangla" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_SD.png" tvg-chno="29" group-title="VOOT JIOCINEMA LIVE",Colors Bangla
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Bangla_voot_MOB
+#EXTINF:-1 tvg-id="30" tvg-name="Colors Bangla Cinema" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" tvg-chno="30" group-title="VOOT JIOCINEMA LIVE",Colors Bangla Cinema
+https://netlive.cloud/voot/live-hls.m3u8?id=Colors_Bangla_Cinema_voot_MOB
+#EXTINF:-1 tvg-id="31" tvg-name="Comedy Central" tvg-country="IN" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png" tvg-chno="31" group-title="VOOT JIOCINEMA LIVE",Comedy Central
+https://netlive.cloud/voot/live-hls.m3u8?id=Comedy_Central_SD_voot_MOB
