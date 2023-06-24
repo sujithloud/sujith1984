@@ -1,0 +1,357 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Zee Bangla Cinema" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZKcqDdrC/Zee-Bangla-Cinema.png" tvg-chno="1" group-title="Movies - Bengali",Zee Bangla Cinema
+https://netlivetvworld.com/rapid/master.php?id=7cb5a376b45812ae9fb760132b2d72dd&e=.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Zee Bangla" tvg-country="IN" tvg-logo="https://i.postimg.cc/pVc8c3xw/Zee-Bangla.png" tvg-chno="2" group-title="Entertainment - Bengali",Zee Bangla
+https://netlivetvworld.com/rapid/master.php?id=ff26622335ca33267856b020e2f32b1b&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Star Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/zfRVBkRt/Star-Movies.png" tvg-chno="3" group-title="Movies - English",Star Movies
+https://netlivetvworld.com/rapid/master.php?id=057df77757497e49d33f553fd33ad5a2&e=.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Star Gold" tvg-country="IN" tvg-logo="https://i.postimg.cc/NfStMv7t/Star-Gold.png" tvg-chno="4" group-title="Movies - Hindi",Star Gold
+https://netlivetvworld.com/rapid/master.php?id=5a9b40ab3efbad16805cdec9f53b3365&e=.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Star Plus" tvg-country="IN" tvg-logo="https://i.postimg.cc/k4p1cq5X/Star-Plus.png" tvg-chno="5" group-title="Entertainment - Hindi",Star Plus
+https://netlivetvworld.com/rapid/master.php?id=3f6e7780678e16e303dcce94a8c81e55&e=.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Star Pravah" tvg-country="IN" tvg-logo="https://i.postimg.cc/9FjSNXpr/Star-Pravah-HD.png" tvg-chno="6" group-title="Entertainment - Marathi",Star Pravah
+https://netlivetvworld.com/rapid/master.php?id=ec4a4791e324f2ae2fe3bf7903dbb386&e=.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Star Utsav" tvg-country="IN" tvg-logo="https://i.postimg.cc/rwSDs5Mw/Star-Utsav.png" tvg-chno="7" group-title="Entertainment - Hindi",Star Utsav
+https://netlivetvworld.com/rapid/master.php?id=2d43c9e085d5489f34646610c2bda196&e=.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="Star Bharat" tvg-country="IN" tvg-logo="https://i.postimg.cc/Jnt7NXVJ/Star-Bharat-HD.png" tvg-chno="8" group-title="Entertainment - Hindi",Star Bharat
+https://netlivetvworld.com/rapid/master.php?id=dd4853d1f8aab57278b19ef21b63d650&e=.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Star Utsav Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/XqkV3k9R/Star-Utsav-Movies.png" tvg-chno="9" group-title="Movies - Hindi",Star Utsav Movies
+https://netlivetvworld.com/rapid/master.php?id=77cdbcac23cbb4f7ff36b1d65f0e0687&e=.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/GhDFP8dZ/Star-Sports-1-HD-Hindi.png" tvg-chno="10" group-title="Sports - Hindi",Star Sports 1 Hindi HD
+https://netlivetvworld.com/rapid/master.php?id=d0319afe507d1ae71405ba6962a47882&e=.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCTVrN0C/Star-Sports-1-HD.png" tvg-chno="11" group-title="Sports - English",Star Sports 1 HD
+https://netlivetvworld.com/rapid/master.php?id=e1531c387790c52728e14b5a97fe6bc0&e=.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/5t8KP4Lt/Star-Sports-HD-2.png" tvg-chno="12" group-title="Sports - English",Star Sports 2 HD
+https://netlivetvworld.com/rapid/master.php?id=3c5d2a694edeb1e8f9108fef2ef1d7a3&e=.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="Star Sports 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/vZr5kcqC/Star-Sports-3.png" tvg-chno="13" group-title="Sports - English",Star Sports 3
+https://netlivetvworld.com/rapid/master.php?id=ada8f0ea419327fa5fdbe63598cb2ba7&e=.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Star Sports Select 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/0j58kHPp/Star-Sports-Select-1.png" tvg-chno="14" group-title="Sports - English",Star Sports Select 1
+https://netlivetvworld.com/rapid/master.php?id=056137aa415ab7f9a5b2a13a507106bf&e=.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="Star Sports Select 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/C5RQsj43/Star-Sports-Select-2.png" tvg-chno="15" group-title="Sports - English",Star Sports Select 2
+https://netlivetvworld.com/rapid/master.php?id=5ec5ac3eeaf37e6528674daedf41759c&e=.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Sony TV HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="16" group-title="Entertainment - Hindi",Sony TV HD (SET HD)
+https://netlivetvworld.com/rapid/master.php?id=131b7a24a3127957caf08ac2bbe4384d&e=.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="17" group-title="Entertainment - Bengali",Sony Aath
+https://netlivetvworld.com/rapid/master.php?id=228d84697a2f0216eff0b36373a2aea0&e=.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="ET Now" tvg-country="IN" tvg-logo="https://i.postimg.cc/9F9x3sVn/ETNow.png" tvg-chno="18" group-title="News - English",ET Now
+https://netlivetvworld.com/rapid/master.php?id=4cae522abb3447a9368524d112797a46&e=.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="9XM" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZRqhdvvN/9XM.png" tvg-chno="19" group-title="Music - Hindi",9XM
+https://netlivetvworld.com/rapid/master.php?id=60ee85a5c2716195c142eefe78d0ed79&e=.m3u8
+#EXTINF:-1 tvg-id="20" tvg-name="Aaj Tak" tvg-country="IN" tvg-logo="https://i.postimg.cc/j2K37GFF/Aaj-Tak.png" tvg-chno="20" group-title="News - Hindi",Aaj Tak
+https://netlivetvworld.com/rapid/master.php?id=03bf6ae117da4f4bf7537d7215685bb2&e=.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="ABP News" tvg-country="IN" tvg-logo="https://i.postimg.cc/wBLkQwL8/ABP-News.png" tvg-chno="21" group-title="News - Hindi",ABP News
+https://netlivetvworld.com/rapid/master.php?id=83d0a97531b8abd7bd5a08cd4078c19f&e=.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="And Pictures (& Pictures)" tvg-country="IN" tvg-logo="https://i.postimg.cc/KjMc13CN/pictures.png" tvg-chno="22" group-title="Movies - Hindi",And Pictures (& Pictures)
+https://netlivetvworld.com/rapid/master.php?id=5b050498b3550799e02548a724778a21&e=.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="Big Magic" tvg-country="IN" tvg-logo="https://i.postimg.cc/zG5W1qRM/Big-Magic.png" tvg-chno="23" group-title="Entertainment - Hindi",Big Magic
+https://netlivetvworld.com/rapid/master.php?id=d5507538a5713fc387df346500ab343d&e=.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Colors TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/Qd0BG1D9/Colors.png" tvg-chno="24" group-title="Entertainment - Hindi",Colors TV
+https://netlivetvworld.com/rapid/master.php?id=8be856cdaef5388999b7a7f83bd14365&e=.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/sXMJXzJR/Colors-HD.png" tvg-chno="25" group-title="Entertainment - Hindi",Colors HD
+https://netlivetvworld.com/rapid/master.php?id=320889a3e905b511ab75ea768162d423&e=.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Colors TV UK" tvg-country="IN" tvg-logo="https://i.postimg.cc/Qd0BG1D9/Colors.png" tvg-chno="26" group-title="Entertainment - Hindi",Colors TV UK
+https://netlivetvworld.com/rapid/master.php?id=c5b30bc758becd0f68629d78d455ba9e&e=.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="E24" tvg-country="IN" tvg-logo="https://i.postimg.cc/J7ZG79mW/E24.png" tvg-chno="27" group-title="News - Hindi",E24
+https://netlivetvworld.com/rapid/master.php?id=a91128baf1bab44f799f6e66cad2cb9f&e=.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="Maha Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/Qxjx8C0p/Maha-Movie.png" tvg-chno="28" group-title="Movies - Hindi",Maha Movies
+https://netlivetvworld.com/rapid/master.php?id=eeeaf9a84104a9192e778fc44db21666&e=.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Dabangg TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/Vk9ZQzKG/Dabangg-TV.png" tvg-chno="29" group-title="Entertainment - Hindi",Dabangg TV
+https://netlivetvworld.com/rapid/master.php?id=0b959db2c255b0b557d84bae98aff381&e=.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Dhamaal TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/LXGG4NLN/Dhamaal-TV.png" tvg-chno="30" group-title="Entertainment - Hindi",Dhamaal TV
+https://netlivetvworld.com/rapid/master.php?id=6f5cfe7604163f2aa7608b26ec39f2fe&e=.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="MTV Beats HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wjZpmjc4/MTV-Beats-HD.png" tvg-chno="31" group-title="Music - Hindi",MTV Beats HD
+https://netlivetvworld.com/rapid/master.php?id=d3d80d6658c38e7bbe5c60b8447b7551&e=.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Music India" tvg-country="IN" tvg-logo="https://i.postimg.cc/85GxRJF4/Music-India.png" tvg-chno="32" group-title="Music - Hindi",Music India
+https://netlivetvworld.com/rapid/master.php?id=9dc4bdb15661586ecd8ae8653f31f9fe&e=.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="B4U Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/NGR7JBp5/B4-U-Movies.png" tvg-chno="33" group-title="Movies - Hindi",B4U Movies
+https://netlivetvworld.com/rapid/master.php?id=e002f33d2e75bc607bd4a94c970f8d40&e=.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="B4U Music" tvg-country="IN" tvg-logo="https://i.postimg.cc/CLG0xBJS/B4-U-Music.png" tvg-chno="34" group-title="Music - Hindi",B4U Music
+https://netlivetvworld.com/rapid/master.php?id=7a998b50687ce2aa82246a41303a3822&e=.m3u8
+#EXTINF:-1 tvg-id="35" tvg-name="Enterr 10" tvg-country="IN" tvg-logo="https://i.postimg.cc/VNZVDmsJ/enterr10.png" tvg-chno="35" group-title="Entertainment - Hindi",Enterr 10
+https://netlivetvworld.com/rapid/master.php?id=6b69f4626bfb7f6946c393cc3d00a6ea&e=.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="DD National" tvg-country="IN" tvg-logo="https://i.postimg.cc/sDr0nBcQ/DD-National.png" tvg-chno="36" group-title="Entertainment - Hindi",DD National
+https://netlivetvworld.com/rapid/master.php?id=7f8361ffad3dfa4cb6c299fe6cee5d34&e=.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="DD News" tvg-country="IN" tvg-logo="https://i.postimg.cc/1XPcKFQy/DD-News.png" tvg-chno="37" group-title="News - Hindi",DD News
+https://netlivetvworld.com/rapid/master.php?id=3cefd00746a6b223738ac32d38d02906&e=.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="NDTV India" tvg-country="IN" tvg-logo="https://i.postimg.cc/5t2zhSkT/NDTV-India.png" tvg-chno="38" group-title="News - Hindi",NDTV India
+https://netlivetvworld.com/rapid/master.php?id=de5bdd0bd7fb37b60ab9e11e1fe9f5c3&e=.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="NDTV 24x7" tvg-country="IN" tvg-logo="https://i.postimg.cc/Vkyg0y0B/NDTV-24x7.png" tvg-chno="39" group-title="News - English",NDTV 24x7
+https://netlivetvworld.com/rapid/master.php?id=bcd1c62a1ef3ffa7bb7c20ddafbe4d16&e=.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="NDTV Profit" tvg-country="IN" tvg-logo="https://i.postimg.cc/sfhWCXwj/NDTV-Profit.png" tvg-chno="40" group-title="News - English",NDTV Profit
+https://netlivetvworld.com/rapid/master.php?id=92ed085bf3e88bba12002a5e7e8099de&e=.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Manoranjan TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/bwW8Pz6P/Manoranjan-TV.png" tvg-chno="41" group-title="Movies - Hindi",Manoranjan TV
+https://netlivetvworld.com/rapid/master.php?id=495cb3662c853b716135119be366723d&e=.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Manoranjan Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/jSJmzyXV/Manoranjan-Movies.png" tvg-chno="42" group-title="Movies - Hindi",Manoranjan Movies
+https://netlivetvworld.com/rapid/master.php?id=f77fb0ef12945bc505cdaeea42cd161f&e=.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="Republic TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/9F41wCmz/Republic-TV.png" tvg-chno="43" group-title="News - English",Republic TV
+https://netlivetvworld.com/rapid/master.php?id=f2d4f67cd5c203fe2630fed178b12a76&e=.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Colors Rishtey" tvg-country="IN" tvg-logo="https://i.postimg.cc/sxbY4Gjx/Colors-Rishtey.png" tvg-chno="44" group-title="Entertainment - Hindi",Colors Rishtey
+https://netlivetvworld.com/rapid/master.php?id=d199200dc5bfbe9b28b31423edd15b29&e=.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="Colors Rishtey AsiaPacific" tvg-country="IN" tvg-logo="https://i.postimg.cc/dtLBzvgw/Colors-Rishtey-APAC.png" tvg-chno="45" group-title="Entertainment - Hindi",Colors Rishtey AsiaPacific
+https://netlivetvworld.com/rapid/master.php?id=9e76ffdf5dea99c8f620aab9a7a79dd2&e=.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="Rishtey Cineplex" tvg-country="IN" tvg-logo="https://i.postimg.cc/CLscGmyf/Rishtey-Cineplex.png" tvg-chno="46" group-title="Movies - Hindi",Rishtey Cineplex
+https://netlivetvworld.com/rapid/master.php?id=25729289ec10c554b4ec5ca05460424c&e=.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="Sony Max HD (SET MAX HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="47" group-title="Movies - Hindi",Sony Max HD (SET MAX HD)
+https://netlivetvworld.com/rapid/master.php?id=a7bee28f045dd23a77f4f0e844795933&e=.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="Sony MAX 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZnBh92s3/SONY-MAX-2.png" tvg-chno="48" group-title="Movies - Hindi",Sony MAX 2
+https://netlivetvworld.com/rapid/master.php?id=2794f476fc4f20b9bf3e6fa265b52f2f&e=.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="49" group-title="Entertainment - Hindi",Sony Pal
+https://netlivetvworld.com/rapid/master.php?id=14f789d4a9a67cf42fe9de897b11b817&e=.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="Sony PIX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" tvg-chno="50" group-title="Movies - English",Sony PIX HD
+https://netlivetvworld.com/rapid/master.php?id=37ca4e8edac7dc6f885b29d2c66d1bb6&e=.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="51" group-title="Entertainment - Hindi",Sony SAB HD
+https://netlivetvworld.com/rapid/master.php?id=49d5e1f5cc5a4d82ab40572c5b6cc7e0&e=.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="Good News Today" tvg-country="IN" tvg-logo="https://i.postimg.cc/sDxJWyJb/Good-News-Today.png" tvg-chno="52" group-title="News - Hindi",Good News Today
+https://netlivetvworld.com/rapid/master.php?id=be62466572b89ec860525051a16b9d75&e=.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="Times Now World" tvg-country="IN" tvg-logo="https://i.postimg.cc/9XL3dG60/Times-Now-HD-World.png" tvg-chno="53" group-title="News - English",Times Now World
+https://netlivetvworld.com/rapid/master.php?id=cbff3d95612ba876e19f23345d6a0fe3&e=.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="Travel XP English" tvg-country="IN" tvg-logo="https://i.postimg.cc/25Nv0LsL/travelXP.png" tvg-chno="54" group-title="Lifestyle - English",Travel XP English
+https://netlivetvworld.com/rapid/master.php?id=febde279f7cb5ac4637f2724aa6de4d5&e=.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="Zee Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/rwkxJrX0/Zee-Action.png" tvg-chno="55" group-title="Movies - Hindi",Zee Action
+https://netlivetvworld.com/rapid/master.php?id=75ca36a7579b176e3a74ee08f0fae353&e=.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="Zee Anmol" tvg-country="IN" tvg-logo="https://i.postimg.cc/jj9jMpwg/Zee-Anmol.png" tvg-chno="56" group-title="Entertainment - Hindi",Zee Anmol
+https://netlivetvworld.com/rapid/master.php?id=82c13cfcae7caf40bc5ef5756180aa16&e=.m3u8
+#EXTINF:-1 tvg-id="57" tvg-name="Zee Business News" tvg-country="IN" tvg-logo="https://i.postimg.cc/0QRsMPJs/Zee-Business.png" tvg-chno="57" group-title="News - English",Zee Business News
+https://netlivetvworld.com/rapid/master.php?id=9feaecf342dd07d03dc11be5c9f82119&e=.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="Zee Cinema HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0NmgqFXH/Zee-Cinema-HD.png" tvg-chno="58" group-title="Movies - Hindi",Zee Cinema HD
+https://netlivetvworld.com/rapid/master.php?id=0308f0d87f3d7e0d1764479ac3dae24f&e=.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="Zee Classic" tvg-country="IN" tvg-logo="https://i.postimg.cc/Jn65Y4cw/Zee-Classic.png" tvg-chno="59" group-title="Movies - Hindi",Zee Classic
+https://netlivetvworld.com/rapid/master.php?id=f91bf77fe609c06900b75738770b6232&e=.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="Zee News" tvg-country="IN" tvg-logo="https://i.postimg.cc/QCq9Y6rF/Zee-News.png" tvg-chno="60" group-title="News - Hindi",Zee News
+https://netlivetvworld.com/rapid/master.php?id=b80a03f20830f4df2208b21daa6636bf&e=.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="Zee Salaam" tvg-country="IN" tvg-logo="https://i.postimg.cc/6p8qC6T2/Zee-Salaam.png" tvg-chno="61" group-title="News - Urdu",Zee Salaam
+https://netlivetvworld.com/rapid/master.php?id=dba8dafb08390847c1dd718dc5315566&e=.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="Zee TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/zD984wfB/Zee-TV.png" tvg-chno="62" group-title="Entertainment - Hindi",Zee TV
+https://netlivetvworld.com/rapid/master.php?id=f68cb1c530ddb0542ebea122fe2ba97b&e=.m3u8
+#EXTINF:-1 tvg-id="63" tvg-name="Zee TV HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/cJjb6m2t/Zee-TV-HD.png" tvg-chno="63" group-title="Entertainment - Hindi",Zee TV HD
+https://netlivetvworld.com/rapid/master.php?id=001f9f47e6d00c6db4356f7bae00f218&e=.m3u8
+#EXTINF:-1 tvg-id="64" tvg-name="Zee Yuva" tvg-country="IN" tvg-logo="https://i.postimg.cc/sXHDMty9/Zee-Yuva.png" tvg-chno="64" group-title="Entertainment - Marathi",Zee Yuva
+https://netlivetvworld.com/rapid/master.php?id=2910e46a15d8e839695a0725906585a7&e=.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="Zing" tvg-country="IN" tvg-logo="https://i.postimg.cc/0y9QHGtS/Zing.png" tvg-chno="65" group-title="Music - Hindi",Zing
+https://netlivetvworld.com/rapid/master.php?id=42827b0d275014eb2d9b6f4860056c95&e=.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="Disney Channel Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/QCnbnxD9/Disney.png" tvg-chno="66" group-title="Kids - Hindi",Disney Channel Hindi
+https://netlivetvworld.com/rapid/master.php?id=4c2be0174ea2e9ebce4ad163941e5b0c&e=.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="Hungama Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/xT8YksFt/Hungama-Kids.png" tvg-chno="67" group-title="Kids - Hindi",Hungama Hindi
+https://netlivetvworld.com/rapid/master.php?id=7e8a969d284e28bf8d3bf770e22d33b3&e=.m3u8
+#EXTINF:-1 tvg-id="68" tvg-name="BBC Cbeebies" tvg-country="IN" tvg-logo="https://i.postimg.cc/gk0XzbFJ/BBC-CBeebies.png" tvg-chno="68" group-title="Kids - English",BBC Cbeebies
+https://netlivetvworld.com/rapid/master.php?id=008d22530c5c98b937604daca6a15d46&e=.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="Boomerang" tvg-country="IN" tvg-logo="https://i.postimg.cc/66FqX20H/Boomerang.png" tvg-chno="69" group-title="Kids - English",Boomerang
+https://netlivetvworld.com/rapid/master.php?id=22c6a3fd8697c511ebb00af500b69ab9&e=.m3u8
+#EXTINF:-1 tvg-id="70" tvg-name="Discovery Kids Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/BQc0VXwP/Discovery-Kids.png" tvg-chno="70" group-title="Kids - Hindi",Discovery Kids Hindi
+https://netlivetvworld.com/rapid/master.php?id=7b422cea003cfe2e67802814c7846a04&e=.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="Discovery Kids Tamil" tvg-country="IN" tvg-logo="https://i.postimg.cc/BQc0VXwP/Discovery-Kids.png" tvg-chno="71" group-title="Kids - Tamil",Discovery Kids Tamil
+https://netlivetvworld.com/rapid/master.php?id=30ab48650ef95b0a222bbdd2fc711fa4&e=.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="Sony Yay Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="72" group-title="Kids - Hindi",Sony Yay Hindi
+https://netlivetvworld.com/rapid/master.php?id=53f948555fb73378b9298167e0d7d302&e=.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Sony Yay Telugu" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="73" group-title="Kids - Telugu",Sony Yay Telugu
+https://netlivetvworld.com/rapid/master.php?id=02fefb29d6c68f06535af5589289ab3f&e=.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="Nick Jr. Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/RVjHXpyZ/Nick-Jr.png" tvg-chno="74" group-title="Kids - Hindi",Nick Jr. Hindi
+https://netlivetvworld.com/rapid/master.php?id=7ba117f8ece79b7de6e6825f36f322f2&e=.m3u8
+#EXTINF:-1 tvg-id="75" tvg-name="Pogo Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZY68XSPy/Pogo.png" tvg-chno="75" group-title="Kids - Hindi",Pogo Hindi
+https://netlivetvworld.com/rapid/master.php?id=05f4e305bc5f61cee290db87a45b3459&e=.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="Nickelodeon Sonic" tvg-country="IN" tvg-logo="https://i.postimg.cc/GhqqSRrx/Sonic-Nickelodeon.png" tvg-chno="76" group-title="Kids - Hindi",Nickelodeon Sonic
+https://netlivetvworld.com/rapid/master.php?id=89afe8ba687b1111e46d05ff134e8678&e=.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="Space Toon" tvg-country="IN" tvg-logo="https://i.postimg.cc/g2NYtnBk/Space-Toon.png" tvg-chno="77" group-title="Kids - English",Space Toon
+https://netlivetvworld.com/rapid/master.php?id=32b4774b93305cc966c14b35ebeb74ce&e=.m3u8
+#EXTINF:-1 tvg-id="78" tvg-name="Nickelodeon USA" tvg-country="IN" tvg-logo="https://i.postimg.cc/HsFCnRPH/nickelodeon.png" tvg-chno="78" group-title="Kids - English",Nickelodeon USA
+https://netlivetvworld.com/rapid/master.php?id=9d3c679ec8b693dfc82bf516a45d3840&e=.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/8c3xFf4w/PTV-Sports.png" tvg-chno="79" group-title="Sports - English",PTV Sports
+https://netlivetvworld.com/rapid/master.php?id=a0a67e37702a006fc186f659eebf1b1f&e=.m3u8
+#EXTINF:-1 tvg-id="80" tvg-name="9X Tashan" tvg-country="IN" tvg-logo="https://i.postimg.cc/DzZDccN5/9-X-Tashan.png" tvg-chno="80" group-title="Music - Punjabi",9X Tashan
+https://netlivetvworld.com/rapid/master.php?id=c86d37d57ddd56b42476a5f161e08073&e=.m3u8
+#EXTINF:-1 tvg-id="81" tvg-name="Boogle Bollywood" tvg-country="IN" tvg-logo="https://i.postimg.cc/636QcFXg/Boogle-Bollywood.png" tvg-chno="81" group-title="Music - Punjabi",Boogle Bollywood
+https://netlivetvworld.com/rapid/master.php?id=49a5907a649aa12bd003d1492cead8b8&e=.m3u8
+#EXTINF:-1 tvg-id="82" tvg-name="Chardikla Time TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/Pr61DGgL/Chardikla-Time-Tv.png" tvg-chno="82" group-title="News - Punjabi",Chardikla Time TV
+https://netlivetvworld.com/rapid/master.php?id=f99ba5c1fd42ae5be01815e970b36f26&e=.m3u8
+#EXTINF:-1 tvg-id="83" tvg-name="Zee 24 Ghanta" tvg-country="IN" tvg-logo="https://i.postimg.cc/Pr61DGgL/Chardikla-Time-Tv.png" tvg-chno="83" group-title="News - Bengali",Zee 24 Ghanta
+https://netlivetvworld.com/rapid/master.php?id=614da1a36ddac8bb4037e5e4704248e8&e=.m3u8
+#EXTINF:-1 tvg-id="84" tvg-name="Sony Sports Ten 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" tvg-chno="84" group-title="Sports - English",Sony Sports Ten 1 HD
+https://netlivetvworld.com/rapid/master.php?id=5cf8bc0c27d882f628ba5701d3b199dc&e=.m3u8
+#EXTINF:-1 tvg-id="85" tvg-name="Sony Sports Ten 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" tvg-chno="85" group-title="Sports - English",Sony Sports Ten 2 HD
+https://netlivetvworld.com/rapid/master.php?id=d4ff385e1dcfb26e888adc29902884d2&e=.m3u8
+#EXTINF:-1 tvg-id="86" tvg-name="Sony Sports Ten 3 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" tvg-chno="86" group-title="Sports - English",Sony Sports Ten 3 HD
+https://netlivetvworld.com/rapid/master.php?id=ca1a687b71b5d9e4b441056f5e3a1999&e=.m3u8
+#EXTINF:-1 tvg-id="87" tvg-name="Sony Sports Ten 5 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" tvg-chno="87" group-title="Sports - English",Sony Sports Ten 5 HD
+https://netlivetvworld.com/rapid/master.php?id=b56efb585a6b960a329dbb83aee0f0bd&e=.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Star Sports Select 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/0j58kHPp/Star-Sports-Select-1.png" tvg-chno="88" group-title="Sports - English",Star Sports Select 1
+https://netlivetvworld.com/rapid/master.php?id=056137aa415ab7f9a5b2a13a507106bf&e=.m3u8
+#EXTINF:-1 tvg-id="89" tvg-name="Star Sports Select 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/0j58kHPp/Star-Sports-Select-1.png" tvg-chno="89" group-title="Sports - English",Star Sports Select 2
+https://netlivetvworld.com/rapid/master.php?id=5ec5ac3eeaf37e6528674daedf41759c&e=.m3u8
+#EXTINF:-1 tvg-id="90" tvg-name="7 Flix" tvg-country="IN" tvg-logo="https://i.postimg.cc/PJKgQrHv/7Flix.png" tvg-chno="90" group-title="Entertainment - English",7 Flix
+https://netlivetvworld.com/rapid/master.php?id=b37d621e36019f467d8aa4daafbf9756&e=.m3u8
+#EXTINF:-1 tvg-id="91" tvg-name="7 Mate" tvg-country="IN" tvg-logo="https://i.postimg.cc/cCrJ3jyW/7mate.png" tvg-chno="91" group-title="Entertainment - English",7 Mate
+https://netlivetvworld.com/rapid/master.php?id=91d2ebb8c48d132e5a2d6f650f648efb&e=.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="7 Two" tvg-country="IN" tvg-logo="https://i.postimg.cc/MpvGXX2L/7two.png" tvg-chno="92" group-title="Entertainment - English",7 Two
+https://netlivetvworld.com/rapid/master.php?id=c93308f80fd982d0f9f4331bbdfbba0c&e=.m3u8
+#EXTINF:-1 tvg-id="93" tvg-name="9 Gem" tvg-country="IN" tvg-logo="https://i.postimg.cc/7ZZMt1vW/9Gem.png" tvg-chno="93" group-title="Entertainment - English",9 Gem
+https://netlivetvworld.com/rapid/master.php?id=380b11b058e4202d76b792ae7002f89c&e=.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="ABC" tvg-country="IN" tvg-logo="https://i.postimg.cc/brsxmpSF/ABC-Australia.png" tvg-chno="94" group-title="Entertainment - English",ABC
+https://netlivetvworld.com/rapid/master.php?id=7a7813a14d893944706356af4e04a0cc&e=.m3u8
+#EXTINF:-1 tvg-id="95" tvg-name="ABC ME" tvg-country="IN" tvg-logo="https://i.postimg.cc/vHyfNJxB/ABC-me.png" tvg-chno="95" group-title="Entertainment - English",ABC ME
+https://netlivetvworld.com/rapid/master.php?id=eaea41a13315a257a2fc0c2d1fcc358a&e=.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="beIN SPORTS Australia" tvg-country="IN" tvg-logo="https://i.postimg.cc/vHwdnzgf/Be-IN-SPORTS-Australia.png" tvg-chno="96" group-title="Sports - English",beIN SPORTS Australia
+https://netlivetvworld.com/rapid/master.php?id=dd93a05f1369d0499c52d23df83b3f45&e=.m3u8
+#EXTINF:-1 tvg-id="97" tvg-name="Sky Racing 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCMXQVsq/SKY-Racing-1.png" tvg-chno="97" group-title="Sports - English",Sky Racing 1
+https://netlivetvworld.com/rapid/master.php?id=24b9bfe563e6f255eb9f5e20362d1bc2&e=.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="Sky Racing 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/MpLHjpNv/SKY-Racing-2.png" tvg-chno="98" group-title="Sports - English",Sky Racing 2
+https://netlivetvworld.com/rapid/master.php?id=5fa437a8ec1361e05fbbf4e76779aebb&e=.m3u8
+#EXTINF:-1 tvg-id="99" tvg-name="SBS World Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZR6KvFzq/SBS-World-Movies.png" tvg-chno="99" group-title="Movies - English",SBS World Movies
+https://netlivetvworld.com/rapid/master.php?id=8fc12845e572da2e3c0ee8eb5f19f8b9&e=.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="ESPN USA" tvg-country="IN" tvg-logo="https://i.postimg.cc/8khmNq32/ESPN-USA.png" tvg-chno="100" group-title="Sports - English",ESPN USA
+https://netlivetvworld.com/rapid/master.php?id=aaeb54f092dfe9999652c091cc5fc253&e=.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="ESPN 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/7Y5Pgkkc/ESPN2.png" tvg-chno="101" group-title="Sports - English",ESPN 2
+https://netlivetvworld.com/rapid/master.php?id=45885f520a65aabe737843c56b9cbba0&e=.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="Star Maa" tvg-country="IN" tvg-logo="https://i.postimg.cc/tJJ1ZvpH/Star-Maa.png" tvg-chno="102" group-title="Entertainment - Telugu",Star Maa
+https://netlivetvworld.com/rapid/master.php?id=7fab1925fe5ee696a77859c6a07103ed&e=.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Star Maa Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/7Pzhczh9/Star-Maa-Movies.png" tvg-chno="103" group-title="Movies - Telugu",Star Maa Movies
+https://netlivetvworld.com/rapid/master.php?id=4f9328d9124301ac92227de9e600a414&e=.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Amrita TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/pXTFSrNL/Amrita-TV.png" tvg-chno="104" group-title="Entertainment - Malayalam",Amrita TV
+https://netlivetvworld.com/rapid/master.php?id=cf290cc656a732ff0bf60bad72943ce9&e=.m3u8
+#EXTINF:-1 tvg-id="105" tvg-name="Asianet TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/3w4Mfg1F/Asianet.png" tvg-chno="105" group-title="Entertainment - Malayalam",Asianet TV
+https://netlivetvworld.com/rapid/master.php?id=481e4e7a5d65e0c4005090bf4cc6d06d&e=.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="Asianet Plus" tvg-country="IN" tvg-logo="https://i.postimg.cc/7Y8g5DjH/Asianet-Plus.png" tvg-chno="106" group-title="Entertainment - Malayalam",Asianet Plus
+https://netlivetvworld.com/rapid/master.php?id=591b0a4ad88ea16e386b1dd59da988bd&e=.m3u8
+#EXTINF:-1 tvg-id="107" tvg-name="Asianet Movies" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzWXbYfV/Asianet-Movies.png" tvg-chno="107" group-title="Movies - Malayalam",Asianet Movies
+https://netlivetvworld.com/rapid/master.php?id=170b546fa053323e4550d2873c555548&e=.m3u8
+#EXTINF:-1 tvg-id="108" tvg-name="Asianet News" tvg-country="IN" tvg-logo="https://i.postimg.cc/d0vd4Bwz/Asianet-News.png" tvg-chno="108" group-title="News - Malayalam",Asianet News
+https://netlivetvworld.com/rapid/master.php?id=34bc814b69b9b31a2e0b32b6af62dcc8&e=.m3u8
+#EXTINF:-1 tvg-id="109" tvg-name="Flowers TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/sxVsLMvf/Flowers-TV.png" tvg-chno="109" group-title="Entertainment - Malayalam",Flowers TV
+https://netlivetvworld.com/rapid/master.php?id=38f2c1795f6f9ed1c1cbdc0dd51e6938&e=.m3u8
+#EXTINF:-1 tvg-id="110" tvg-name="Gemini Comedy" tvg-country="IN" tvg-logo="https://i.postimg.cc/mkD2DcRX/Gemini-Comedy.png" tvg-chno="110" group-title="Entertainment - Telugu",Gemini Comedy
+https://netlivetvworld.com/rapid/master.php?id=84f1f86d9913c618cc86a8041fe8b943&e=.m3u8
+#EXTINF:-1 tvg-id="111" tvg-name="Gemini HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCVzc3Fs/Gemini-HD.png" tvg-chno="111" group-title="Entertainment - Telugu",Gemini HD
+https://netlivetvworld.com/rapid/master.php?id=85a1a901c71a19e4d67eb65564bdb1a7&e=.m3u8
+#EXTINF:-1 tvg-id="112" tvg-name="Gemini TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/mg4JNv1R/Gemini-TV.png" tvg-chno="112" group-title="Entertainment - Telugu",Gemini TV
+https://netlivetvworld.com/rapid/master.php?id=5d1e990db3ee1af811c03e48ff3875f0&e=.m3u8
+#EXTINF:-1 tvg-id="113" tvg-name="Gemini Music" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gmnqnvbj/Gemini-Music.png" tvg-chno="113" group-title="Music - Telugu",Gemini Music
+https://netlivetvworld.com/rapid/master.php?id=85d51b3491fca5f4aecb7b437494ec64&e=.m3u8
+#EXTINF:-1 tvg-id="114" tvg-name="Janam TV" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1bDtvty/Janam-TV.png" tvg-chno="114" group-title="News - Malayalam",Janam TV
+https://netlivetvworld.com/rapid/master.php?id=53994388f8173986f921ff4841566a27&e=.m3u8
+#EXTINF:-1 tvg-id="115" tvg-name="FOX Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1F7DcFj/Fox-Cricket.png" tvg-chno="115" group-title="Sports - English",FOX Cricket
+https://netlivetvworld.com/rapid/master.php?id=bb86e0951877ea42ea6ce9b611038e24&e=.m3u8
+#EXTINF:-1 tvg-id="116" tvg-name="ASpor" tvg-country="IN" tvg-logo="https://i.postimg.cc/bJLVB0DT/aSpor.png" tvg-chno="116" group-title="Sports - Turkish",ASpor
+https://netlivetvworld.com/rapid/master.php?id=5d29b6fdabcac4f78161a972d40f7f42&e=.m3u8
+#EXTINF:-1 tvg-id="117" tvg-name="ACCN ESPN" tvg-country="IN" tvg-logo="https://i.postimg.cc/s2fZj5Hq/ACCN-ESPN.png" tvg-chno="117" group-title="Sports - English",ACCN ESPN
+https://netlivetvworld.com/rapid/master.php?id=e54eda6a27022ba05150919827eb3286&e=.m3u8
+#EXTINF:-1 tvg-id="118" tvg-name="AD Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/hPTBjwHQ/AD-Sports-1.png" tvg-chno="118" group-title="Sports - Arabic",AD Sports 1
+https://netlivetvworld.com/rapid/master.php?id=5384cd10c441ecadbbc29578f1b37660&e=.m3u8
+#EXTINF:-1 tvg-id="119" tvg-name="AD Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/qqH1ZmQW/AD-Sports-2.png" tvg-chno="119" group-title="Sports - Arabic",AD Sports 2
+https://netlivetvworld.com/rapid/master.php?id=639a76c1e0778915a64b0e2e7976127f&e=.m3u8
+#EXTINF:-1 tvg-id="120" tvg-name="AD Sports 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/SsFLyn8M/AD-Sports-3.png" tvg-chno="120" group-title="Sports - Arabic",AD Sports 3
+https://netlivetvworld.com/rapid/master.php?id=299c9bf06642d2b963dde8452f965a43&e=.m3u8
+#EXTINF:-1 tvg-id="121" tvg-name="Astro Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/0QPfY6Qq/Astro-Cricket.png" tvg-chno="121" group-title="Sports - English",Astro Cricket
+https://netlivetvworld.com/rapid/master.php?id=e7341071ddac59951341ba0898aec7d0&e=.m3u8
+#EXTINF:-1 tvg-id="122" tvg-name="Astro SuperSport" tvg-country="IN" tvg-logo="https://i.postimg.cc/qR27TRXg/Astro-Super-Sport.png" tvg-chno="122" group-title="Sports - English",Astro SuperSport
+https://netlivetvworld.com/rapid/master.php?id=74ced5420dc1dd9d06ec4de783ff3a0b&e=.m3u8
+#EXTINF:-1 tvg-id="123" tvg-name="At The Race (Au)" tvg-country="IN" tvg-logo="https://i.postimg.cc/mZN5csm9/attheraces.png" tvg-chno="123" group-title="Sports - English",At The Race (Au)
+https://netlivetvworld.com/rapid/master.php?id=2e25e8c9df995437098b058ebd9f35b1&e=.m3u8
+#EXTINF:-1 tvg-id="124" tvg-name="Bein Sports 1 France" tvg-country="IN" tvg-logo="https://i.postimg.cc/xTtYz70s/Bein-Sports-1-FR.png" tvg-chno="124" group-title="Sports - French",Bein Sports 1 France
+https://netlivetvworld.com/rapid/master.php?id=2c84b6711e7c0fbf7b15c97d608f4914&e=.m3u8
+#EXTINF:-1 tvg-id="125" tvg-name="Bein Sports 2 France" tvg-country="IN" tvg-logo="https://i.postimg.cc/T1KjJFzr/Bein-Sports-2-FR.png" tvg-chno="125" group-title="Sports - French",Bein Sports 2 France
+https://netlivetvworld.com/rapid/master.php?id=1a251171337ca79a65abf46f69d315ae&e=.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="Bein Sports 3 France" tvg-country="IN" tvg-logo="https://i.postimg.cc/br4xCLP4/Bein-Sports-3-FR.png" tvg-chno="126" group-title="Sports - French",Bein Sports 3 France
+https://netlivetvworld.com/rapid/master.php?id=90c83f0b46dbe0879f613f72f75675b3&e=.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="Bein Sports NBA" tvg-country="IN" tvg-logo="https://i.postimg.cc/Xv7mf7Ym/Be-IN-Sports-NBA.png" tvg-chno="127" group-title="Sports - English",Bein Sports NBA
+https://netlivetvworld.com/rapid/master.php?id=2ddc7eb5aaf5f3deecdd7379c8da6994&e=.m3u8
+#EXTINF:-1 tvg-id="128" tvg-name="Bein Sports News Arabia" tvg-country="IN" tvg-logo="https://i.postimg.cc/Bn3sLKPC/Bein-Sports-News-Arabia.png" tvg-chno="128" group-title="News - Arabia",Bein Sports News Arabia
+https://netlivetvworld.com/rapid/master.php?id=e6a7d122aeeb4083e406d34721531051&e=.m3u8
+#EXTINF:-1 tvg-id="129" tvg-name="Bein Sports Arabic 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="129" group-title="Sports - Arabic",Bein Sports Arabic 1
+https://netlivetvworld.com/rapid/master.php?id=af6b896ef9e7d35def49eb38545e4987&e=.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="Bein Sports Arabic 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="130" group-title="Sports - Arabic",Bein Sports Arabic 2
+https://netlivetvworld.com/rapid/master.php?id=3bbf2e40b48bb815d48c85dd1a593630&e=.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="Bein Sports Arabic 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="131" group-title="Sports - Arabic",Bein Sports Arabic 3
+https://netlivetvworld.com/rapid/master.php?id=76273623060f193118e55990d35afc8c&e=.m3u8
+#EXTINF:-1 tvg-id="132" tvg-name="Bein Sports Arabic 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="132" group-title="Sports - Arabic",Bein Sports Arabic 4
+https://netlivetvworld.com/rapid/master.php?id=5e9c7554e78bbc3b5580843b1ec6081d&e=.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="Bein Sports Arabic 5" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="133" group-title="Sports - Arabic",Bein Sports Arabic 5
+https://netlivetvworld.com/rapid/master.php?id=25a1e1039c49fb93fc5081a02c652816&e=.m3u8
+#EXTINF:-1 tvg-id="134" tvg-name="Bein Sports Arabic 6" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="134" group-title="Sports - Arabic",Bein Sports Arabic 6
+https://netlivetvworld.com/rapid/master.php?id=7ed2bfa70784e06151762e8c590eb43e&e=.m3u8
+#EXTINF:-1 tvg-id="135" tvg-name="Bein Sports Arabic 7" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="135" group-title="Sports - Arabic",Bein Sports Arabic 7
+https://netlivetvworld.com/rapid/master.php?id=82eb41905a985efa5d07ba8c85723f47&e=.m3u8
+#EXTINF:-1 tvg-id="136" tvg-name="Bein Sports 1 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="136" group-title="Sports - English",Bein Sports 1 English
+https://netlivetvworld.com/rapid/master.php?id=5af0261586b2e78d284f6ac7f7b5488d&e=.m3u8
+#EXTINF:-1 tvg-id="137" tvg-name="Bein Sports 2 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="137" group-title="Sports - English",Bein Sports 2 English
+https://netlivetvworld.com/rapid/master.php?id=03aa83176c2e34d9e3537050bec0d39c&e=.m3u8
+#EXTINF:-1 tvg-id="138" tvg-name="Bein Sports 3 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/jdPc3Wgm/Bein-Sports.png" tvg-chno="138" group-title="Sports - English",Bein Sports 3 English
+https://netlivetvworld.com/rapid/master.php?id=8e2a56201f1937149ab42610f5939477&e=.m3u8
+#EXTINF:-1 tvg-id="139" tvg-name="Bein Xtra 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/J0q0YVgs/Bein-Sports-1-Xtra.png" tvg-chno="139" group-title="Sports - English",Bein Xtra 1
+https://netlivetvworld.com/rapid/master.php?id=bc84f866d9870c5ef3e5b035ae2d2039&e=.m3u8
+#EXTINF:-1 tvg-id="140" tvg-name="Bein Xtra 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/nLBHwf9n/Bein-Sports-2-Xtra.png" tvg-chno="140" group-title="Sports - English",Bein Xtra 2
+https://netlivetvworld.com/rapid/master.php?id=2289a56f81d97db2bf10c60d68ec5c06&e=.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="Bein Sports 1 Turkey" tvg-country="IN" tvg-logo="https://i.postimg.cc/NFxsQ31R/Bein-Sports-Turkey.png" tvg-chno="141" group-title="Sports - Turkish",Bein Sports 1 Turkey
+https://netlivetvworld.com/rapid/master.php?id=376215584131bdc44fdd0db854537750&e=.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="Bein Sports 2 Turkey" tvg-country="IN" tvg-logo="https://i.postimg.cc/NFxsQ31R/Bein-Sports-Turkey.png" tvg-chno="142" group-title="Sports - Turkish",Bein Sports 2 Turkey
+https://netlivetvworld.com/rapid/master.php?id=a09ffdbd9ab3c4a7268feae3c74a5e76&e=.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="Bein Sports 3 Turkey" tvg-country="IN" tvg-logo="https://i.postimg.cc/NFxsQ31R/Bein-Sports-Turkey.png" tvg-chno="143" group-title="Sports - Turkish",Bein Sports 3 Turkey
+https://netlivetvworld.com/rapid/master.php?id=1e246c0d11f3a16e11dc66fcd6a1eb56&e=.m3u8
+#EXTINF:-1 tvg-id="144" tvg-name="Big Ten Network" tvg-country="IN" tvg-logo="https://i.postimg.cc/QdFFqMQP/Big-Ten-Network.png" tvg-chno="144" group-title="Sports - English",Big Ten Network
+https://netlivetvworld.com/rapid/master.php?id=489cf2e6a8c8175a3b9437a6c5b5848b&e=.m3u8
+#EXTINF:-1 tvg-id="145" tvg-name="Flow Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/pr129D6d/Flow-Sports.png" tvg-chno="145" group-title="Sports - English",Flow Sports
+https://netlivetvworld.com/rapid/master.php?id=326556c56065d7901cf984f375ebd09b&e=.m3u8
+#EXTINF:-1 tvg-id="146" tvg-name="ESPN" tvg-country="IN" tvg-logo="https://i.postimg.cc/L6TWV99z/ESPN.png" tvg-chno="146" group-title="Sports - English",ESPN
+https://netlivetvworld.com/rapid/master.php?id=38c6e622f5c0f474a4d814638f7189bc&e=.m3u8
+#EXTINF:-1 tvg-id="147" tvg-name="ESPN 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/7Y5Pgkkc/ESPN2.png" tvg-chno="147" group-title="Sports - English",ESPN 2
+https://netlivetvworld.com/rapid/master.php?id=b265d42df473cce2c175c087871b0033&e=.m3u8
+#EXTINF:-1 tvg-id="148" tvg-name="DD Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/c4WFbrXv/DD-Sports.png" tvg-chno="148" group-title="Sports - Hindi",DD Sports
+https://netlivetvworld.com/rapid/master.php?id=4809aee25c582682cfa24564c4b53ef2&e=.m3u8
+#EXTINF:-1 tvg-id="149" tvg-name="Eleven Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="149" group-title="Sports - English",Eleven Sports 1
+https://netlivetvworld.com/rapid/master.php?id=18ca82d8152b5f8afc2b002c487736b4&e=.m3u8
+#EXTINF:-1 tvg-id="150" tvg-name="Eleven Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="150" group-title="Sports - English",Eleven Sports 2
+https://netlivetvworld.com/rapid/master.php?id=23efd87a6a07f39369fd0e91d8051629&e=.m3u8
+#EXTINF:-1 tvg-id="151" tvg-name="Eleven Sports 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="151" group-title="Sports - English",Eleven Sports 3
+https://netlivetvworld.com/rapid/master.php?id=64c63810dcc4328dad484d238bcc4afb&e=.m3u8
+#EXTINF:-1 tvg-id="152" tvg-name="Eleven Sports 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="152" group-title="Sports - English",Eleven Sports 4
+https://netlivetvworld.com/rapid/master.php?id=ef0658a8df9ffca502bf3cd382b1650b&e=.m3u8
+#EXTINF:-1 tvg-id="153" tvg-name="Eleven Sports 5" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="153" group-title="Sports - English",Eleven Sports 5
+https://netlivetvworld.com/rapid/master.php?id=4472c321f327976095151c794ecca367&e=.m3u8
+#EXTINF:-1 tvg-id="154" tvg-name="Eleven Sports 6" tvg-country="IN" tvg-logo="https://i.postimg.cc/fTZfz14y/Eleven-Sports.png" tvg-chno="154" group-title="Sports - English",Eleven Sports 6
+https://netlivetvworld.com/rapid/master.php?id=0c31812b7a51ec007c1961521744b768&e=.m3u8
+#EXTINF:-1 tvg-id="155" tvg-name="Fox Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/SRTyXwK8/Fox-Sports-1.png" tvg-chno="155" group-title="Sports - English",Fox Sports 1
+https://netlivetvworld.com/rapid/master.php?id=21e703fdcf209b6383c754d131baab06&e=.m3u8
+#EXTINF:-1 tvg-id="156" tvg-name="Fox Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/QtCY8Pvv/Fox-Sports-2.png" tvg-chno="156" group-title="Sports - English",Fox Sports 2
+https://netlivetvworld.com/rapid/master.php?id=d6eb6c9e04c991b966ce0029ff26cb0a&e=.m3u8
+#EXTINF:-1 tvg-id="157" tvg-name="LFCTV" tvg-country="IN" tvg-logo="https://i.postimg.cc/1XtnqwDj/c7270930-a160-11ed-aa9d-03c6add3a597.jpg" tvg-chno="157" group-title="Sports - English",LFCTV
+https://netlivetvworld.com/rapid/master.php?id=280c54fb619c83a181a6658c4f66c563&e=.m3u8
+#EXTINF:-1 tvg-id="158" tvg-name="Willow HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/m2Jg4z6S/Willow.png" tvg-chno="158" group-title="Sports - English",Willow HD
+https://netlivetvworld.com/rapid/master.php?id=28bb067afb29e2c22524c0d4dd641379&e=.m3u8
+#EXTINF:-1 tvg-id="159" tvg-name="Willow" tvg-country="IN" tvg-logo="https://i.postimg.cc/m2Jg4z6S/Willow.png" tvg-chno="159" group-title="Sports - English",Willow
+https://netlivetvworld.com/rapid/master.php?id=adcb100cfa4a2945815594dcb5b7a0e4&e=.m3u8
+#EXTINF:-1 tvg-id="160" tvg-name="Willow Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/VNyvqrqN/Willow-Xtra.png" tvg-chno="160" group-title="Sports - English",Willow Xtra
+https://netlivetvworld.com/rapid/master.php?id=da704e77102809ad890d6758345c48cc&e=.m3u8
+#EXTINF:-1 tvg-id="161" tvg-name="WWE" tvg-country="IN" tvg-logo="https://i.postimg.cc/wx5X7HdJ/WWE.png" tvg-chno="161" group-title="Sports - English",WWE
+https://netlivetvworld.com/rapid/master.php?id=27940c890f4a04815002b3c5098a6742&e=.m3u8
+#EXTINF:-1 tvg-id="162" tvg-name="ViaPlay Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/gJn7GJ7v/Via-Play-Sports1.png" tvg-chno="162" group-title="Sports - English",ViaPlay Sports 1
+https://netlivetvworld.com/rapid/master.php?id=48ac3a5777fd8ae0e1409ef60c87c776&e=.m3u8
+#EXTINF:-1 tvg-id="163" tvg-name="UFC Fight Pass" tvg-country="IN" tvg-logo="https://i.postimg.cc/QCznBrRR/UFC-Fight-Pass.png" tvg-chno="163" group-title="Sports - English",UFC Fight Pass
+https://netlivetvworld.com/rapid/master.php?id=0a1d6d1ae401fa16d067670b521b98e1&e=.m3u8
+#EXTINF:-1 tvg-id="164" tvg-name="TYC Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/DyMKG9rf/TYC-Sports.png" tvg-chno="164" group-title="Sports - English",TYC Sports
+https://netlivetvworld.com/rapid/master.php?id=edc856f1ca25a910da00c65b2d210bcb&e=.m3u8
+#EXTINF:-1 tvg-id="165" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/B6XWYNcc/Sky-Sports-Cricket.png" tvg-chno="165" group-title="Sports - English",Sky Sports Cricket
+https://netlivetvworld.com/rapid/master.php?id=1b52c12d59ee89f31b9d8d441176941e&e=.m3u8
+#EXTINF:-1 tvg-id="166" tvg-name="Animal Planet Hindi" tvg-country="IN" tvg-logo="https://i.postimg.cc/KcNPMWNW/Animal-Planet-HD.png" tvg-chno="166" group-title="Infotainment - Hindi",Animal Planet Hindi
+https://netlivetvworld.com/rapid/master.php?id=4cce555975a4567debde11efe8d58754&e=.m3u8
+#EXTINF:-1 tvg-id="167" tvg-name="Animal Planet English" tvg-country="IN" tvg-logo="https://i.postimg.cc/KcNPMWNW/Animal-Planet-HD.png" tvg-chno="167" group-title="Infotainment - English",Animal Planet English
+https://netlivetvworld.com/rapid/master.php?id=521106a2bce79fac593924df1fc8bab2&e=.m3u8
+#EXTINF:-1 tvg-id="168" tvg-name="Investigation Discovery UK" tvg-country="IN" tvg-logo="https://i.postimg.cc/qvxGcZPh/ID.png" tvg-chno="168" group-title="Infotainment - English",Investigation Discovery UK
+https://netlivetvworld.com/rapid/master.php?id=1110a3a430736d206ce82152db08dec1&e=.m3u8
+#EXTINF:-1 tvg-id="169" tvg-name="Discovery UK" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1Yq3j1y/Discovery.png" tvg-chno="169" group-title="Infotainment - English",Discovery UK
+https://netlivetvworld.com/rapid/master.php?id=89437303f301cda1bb2084b69ec2b402&e=.m3u8
+#EXTINF:-1 tvg-id="170" tvg-name="Sun TV HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/59smGtrg/Sun-TV-HD.png" tvg-chno="170" group-title="Entertainment - Tamil",Sun TV HD
+https://netlivetvworld.com/rapid/master.php?id=5429fb33426715f52e5f37c9fc2f7208&e=.m3u8
+#EXTINF:-1 tvg-id="171" tvg-name="Sun Music" tvg-country="IN" tvg-logo="https://i.postimg.cc/sD2TDWWb/Sun-Music.png" tvg-chno="171" group-title="Music - Tamil",Sun Music
+https://netlivetvworld.com/rapid/master.php?id=c91c413c6fdb13ca26832e5d2f320c56&e=.m3u8
+#EXTINF:-1 tvg-id="172" tvg-name="Surya HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/qvJ6dcCC/Surya-HD.png" tvg-chno="172" group-title="Entertainment - Malayalam",Surya HD
+https://netlivetvworld.com/rapid/master.php?id=53e1227c3229f9c3d493988d0bd27028&e=.m3u8
+#EXTINF:-1 tvg-id="173" tvg-name="Udaya HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/4NXrvn91/Udaya-HD.png" tvg-chno="173" group-title="Entertainment - Kannada",Udaya HD
+https://netlivetvworld.com/rapid/master.php?id=9522b476301afcd673dd4c6e0145cd19&e=.m3u8
+#EXTINF:-1 tvg-id="174" tvg-name="ETV HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/wTs9P1vY/ETV-HD.png" tvg-chno="174" group-title="Entertainment - Telugu",ETV HD
+https://netlivetvworld.com/rapid/master.php?id=4d218a536826831466791688f06146c2&e=.m3u8
+#EXTINF:-1 tvg-id="175" tvg-name="Nat Geo Wild" tvg-country="IN" tvg-logo="https://i.postimg.cc/W1W9ZyLN/Nat-Geo-Wild.png" tvg-chno="175" group-title="Infotainment - English",Nat Geo Wild
+https://netlivetvworld.com/rapid/master.php?id=786d2369cab3541444bca63eb11bbd0b&e=.m3u8
+#EXTINF:-1 tvg-id="176" tvg-name="Nat Geo Wild UK" tvg-country="IN" tvg-logo="https://i.postimg.cc/W1W9ZyLN/Nat-Geo-Wild.png" tvg-chno="176" group-title="Infotainment - English",Nat Geo Wild UK
+https://netlivetvworld.com/rapid/master.php?id=5b3f6c5ae47a0af0ed69cc417c95f06b&e=.m3u8
+#EXTINF:-1 tvg-id="177" tvg-name="KTV" tvg-country="IN" tvg-logo="https://i.postimg.cc/s2Shznzf/KTV.png" tvg-chno="177" group-title="Entertainment - Tamil",KTV
+https://netlivetvworld.com/rapid/master.php?id=d59bd05c1057cbaf8345cdd2e29ee696&e=.m3u8
+#EXTINF:-1 tvg-id="178" tvg-name="KTV HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/SQXJbTfB/KTV-HD.png" tvg-chno="178" group-title="Entertainment - Tamil",KTV HD
+https://netlivetvworld.com/rapid/master.php?id=f6fe7915b02a73547236a1e9c358f165&e=.m3u8
