@@ -1,67 +1,53 @@
-
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
-https://netlivetvworld.com/sun/app/index.php?id=125944&e=.m3u8
-#EXTINF:-1 tvg-id="14020" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Sneh SunNXT",Sun TV HD
-https://netlivetvworld.com/sun/app/index.php?id=14020&e=.m3u8
-#EXTINF:-1 tvg-id="9013" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Sneh SunNXT",Sun Music HD
-https://netlivetvworld.com/sun/app/index.php?id=9013&e=.m3u8
-#EXTINF:-1 tvg-id="38926" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg" group-title="Sneh SunNXT",Sun News
-https://netlivetvworld.com/sun/app/index.php?id=38926&e=.m3u8
-#EXTINF:-1 tvg-id="75117" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_4b19b530-f0bb-4b26-a9de-f3cdd5f8be20.jpg" group-title="Sneh SunNXT",Sun Bangla
-https://netlivetvworld.com/sun/app/index.php?id=75117&e=.m3u8
-#EXTINF:-1 tvg-id="9016" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg" group-title="Sneh SunNXT",Sun TV
-https://netlivetvworld.com/sun/app/index.php?id=9016&e=.m3u8
-#EXTINF:-1 tvg-id="26569" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg" group-title="Sneh SunNXT",Sun Life
-https://netlivetvworld.com/sun/app/index.php?id=26569&e=.m3u8
-#EXTINF:-1 tvg-id="9025" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg" group-title="Sneh SunNXT",Sun Music
-https://netlivetvworld.com/sun/app/index.php?id=9025&e=.m3u8
-#EXTINF:-1 tvg-id="14019" tvg-logo="https://sund-images.sunnxt.com/14019/1000x1000_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Sneh SunNXT",Gemini TV HD
-https://netlivetvworld.com/sun/app/index.php?id=14019&e=.m3u8
-#EXTINF:-1 tvg-id="26570" tvg-logo="https://sund-images.sunnxt.com/26570/1000x1000_285efca5-02f3-40a1-8f8c-d913e8f6b989.jpg" group-title="Sneh SunNXT",Gemini Movies HD
-https://netlivetvworld.com/sun/app/index.php?id=26570&e=.m3u8
-#EXTINF:-1 tvg-id="26568" tvg-logo="https://sund-images.sunnxt.com/26568/1000x1000_eaa4e437-cce0-4411-8e46-13640be94c55.jpg" group-title="Sneh SunNXT",Gemini Music HD
-https://netlivetvworld.com/sun/app/index.php?id=26568&e=.m3u8
-#EXTINF:-1 tvg-id="9026" tvg-logo="https://sund-images.sunnxt.com/9026/1000x1000_4cca05ef-46eb-4076-af6b-a8fdc1b88a27.jpg" group-title="Sneh SunNXT",Gemini Music
-https://netlivetvworld.com/sun/app/index.php?id=9026&e=.m3u8
-#EXTINF:-1 tvg-id="9015" tvg-logo="https://sund-images.sunnxt.com/9015/1000x1000_a4023b29-e49b-4c98-9621-95b7e5c39a19.jpg" group-title="Sneh SunNXT",Gemini Movies
-https://netlivetvworld.com/sun/app/index.php?id=9015&e=.m3u8
-#EXTINF:-1 tvg-id="26572" tvg-logo="https://sund-images.sunnxt.com/26572/1000x1000_da07159f-fa9c-45d0-beb2-685bedc12e33.jpg" group-title="Sneh SunNXT",Gemini Life
-https://netlivetvworld.com/sun/app/index.php?id=26572&e=.m3u8
-#EXTINF:-1 tvg-id="9027" tvg-logo="https://sund-images.sunnxt.com/9027/1000x1000_5cb5b903-f1a0-4590-bb90-8cfa529322e2.jpg" group-title="Sneh SunNXT",Gemini Comedy
-https://netlivetvworld.com/sun/app/index.php?id=9027&e=&e=.m3u8
-#EXTINF:-1 tvg-id="9017" tvg-logo="https://sund-images.sunnxt.com/9017/1000x1000_66d46fd1-643f-429f-9e19-db603fa0e5e4.jpg" group-title="Sneh SunNXT",Gemini TV
-https://netlivetvworld.com/sun/app/index.php?id=9017&e=.m3u8
-#EXTINF:-1 tvg-id="30846" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg" group-title="Sneh SunNXT",Udaya TV HD
-https://netlivetvworld.com/sun/app/index.php?id=30846&e=.m3u8
-#EXTINF:-1 tvg-id="9029" tvg-logo="https://sund-images.sunnxt.com/9029/1000x1000_9f0bcf68-5025-43af-8e60-b83fea67215c.jpg" group-title="Sneh SunNXT",Udaya TV
-https://netlivetvworld.com/sun/app/index.php?id=9029&e=.m3u8
-#EXTINF:-1 tvg-id="9022" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg" group-title="Sneh SunNXT",Udaya Music
-https://netlivetvworld.com/sun/app/index.php?id=9022&e=.m3u8
-#EXTINF:-1 tvg-id="26576" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg" group-title="Sneh SunNXT",Udaya Movies
-https://netlivetvworld.com/sun/app/index.php?id=26576&e=.m3u8
-#EXTINF:-1 tvg-id="9014" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg" group-title="Sneh SunNXT",Udaya Comedy
-https://netlivetvworld.com/sun/app/index.php?id=9027&e=.m3u8
-#EXTINF:-1 tvg-id="26574" tvg-logo="https://sund-images.sunnxt.com/26574/1000x1000_6ed3be47-b8bf-45ee-adf1-fb5ae9621e08.jpg" group-title="Sneh SunNXT",Surya TV HD
-https://netlivetvworld.com/sun/app/index.php?id=26574&e=.m3u8
-#EXTINF:-1 tvg-id="9018" tvg-logo="https://sund-images.sunnxt.com/9018/1000x1000_c10cc678-9321-43f8-b717-16fa7913a6ba.jpg" group-title="Sneh SunNXT",Surya TV
-https://netlivetvworld.com/sun/app/index.php?id=9018&e=.m3u8
-#EXTINF:-1 tvg-id="30835" tvg-logo="https://sund-images.sunnxt.com/30835/1000x1000_143a4af4-2f02-4c9c-814b-af149e6a5a95.jpg" group-title="Sneh SunNXT",Surya Comedy
-https://netlivetvworld.com/sun/app/index.php?id=30835&e=.m3u8
-#EXTINF:-1 tvg-id="26575" tvg-logo="https://sund-images.sunnxt.com/26575/1000x1000_a73efcfb-e350-491c-94e0-bd75f0d9d5f2.jpg" group-title="Sneh SunNXT",Surya Music
-https://netlivetvworld.com/sun/app/index.php?id=26575&e=.m3u8
-#EXTINF:-1 tvg-id="9019" tvg-logo="https://sund-images.sunnxt.com/9019/1000x1000_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg" group-title="Sneh SunNXT",Surya Movies
-https://netlivetvworld.com/sun/app/index.php?id=9019&e=.m3u8
-#EXTINF:-1 tvg-id="26566" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Sneh SunNXT",KTV HD
-https://netlivetvworld.com/sun/app/index.php?id=26566&e=.m3u8
-#EXTINF:-1 tvg-id="32138" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg" group-title="Sneh SunNXT",KTV
-https://netlivetvworld.com/sun/app/index.php?id=32138&e=.m3u8
-#EXTINF:-1 tvg-id="26577" tvg-logo="https://sund-images.sunnxt.com/26577/1000x1000_4a0f4f2f-e317-4230-9fb6-6169ef66991d.jpg" group-title="Sneh SunNXT",Chintu TV
-https://netlivetvworld.com/sun/app/index.php?id=26577&e=.m3u8
-#EXTINF:-1 tvg-id="26571" tvg-logo="https://sund-images.sunnxt.com/26571/1000x1000_d0545f75-f99b-4375-8f42-6120c95fc55c.jpg" group-title="Sneh SunNXT",Kushi TV
-https://netlivetvworld.com/sun/app/index.php?id=26571&e=.m3u8
-#EXTINF:-1 tvg-id="26573" tvg-logo="https://sund-images.sunnxt.com/26573/1000x1000_5787336f-08b9-480f-9c97-3db09999b558.jpg" group-title="Sneh SunNXT",Kochu TV
-https://netlivetvworld.com/sun/app/index.php?id=26573&e=.m3u8
-#EXTINF:-1 tvg-id="26567" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg" group-title="Sneh SunNXT",Chutti TV
-https://netlivetvworld.com/sun/app/index.php?id=26567&e=.m3u8
-#EXTINF:-1 tvg-id="9023" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg" group-title="Sneh SunNXT",Adithya TV
-https://netlivetvworld.com/sun/app/index.php?id=9023&e=.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="896" tvg-name="Sun TV HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/14020/200x200_SunTVHD_14020_8ce81e5d-4b5b-49d9-9a12-dde5dd739bc9.png" tvg-chno="896" group-title="Entertainment - Tamil",Sun TV HD
+https://netlive.cloud/sun/app/index.m3u8?id=896
+#EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/38926/200x200_SunNews_38926_7f0072c1-9c14-4566-a81d-6c795df2124e.png" tvg-chno="676" group-title="News - Tamil",Sun News
+https://netlive.cloud/sun/app/index.m3u8?id=676
+#EXTINF:-1 tvg-id="894" tvg-name="KTV HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26566/200x200_KTVHD_26566_adb8dbe5-9de3-4284-981d-fcbaa9638f2a.png" tvg-chno="894" group-title="Movies - Tamil",KTV HD
+https://netlive.cloud/sun/app/index.m3u8?id=894
+#EXTINF:-1 tvg-id="895" tvg-name="Sun Music HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9013/200x200_SunMusicHD_9013_06157c4a-ca06-4f5c-8492-bf8a49e30d7d.png" tvg-chno="895" group-title="Music - Tamil",Sun Music HD
+https://netlive.cloud/sun/app/index.m3u8?id=895
+#EXTINF:-1 tvg-id="682" tvg-name="Sun Life" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26569/200x200_SunLife_26569_4b759496-79e6-4914-8c0e-976497182ac3.png" tvg-chno="682" group-title="Lifestyle - Tamil",Sun Life
+https://netlive.cloud/sun/app/index.m3u8?id=682
+#EXTINF:-1 tvg-id="709" tvg-name="Adithya TV" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9023/200x200_AdithyaTV_9023_9ca552af-c71b-41c2-a9a7-c6597fe694cf.png" tvg-chno="709" group-title="Entertainment - Tamil",Adithya TV
+https://netlive.cloud/sun/app/index.m3u8?id=709
+#EXTINF:-1 tvg-id="557" tvg-name="Chutti TV" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26567/200x200_ChuttiTV_26567_9e566862-4ddb-4fea-90b6-1710aa5116fe.png" tvg-chno="557" group-title="Kids - Tamil",Chutti TV
+https://netlive.cloud/sun/app/index.m3u8?id=557
+#EXTINF:-1 tvg-id="676" tvg-name="Sun News" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/64067/200x200_SunNews_64067_f6470e27-dc8e-456e-8ef1-abecf455d8e3.png" tvg-chno="676" group-title="News - Tamil",Sun News
+https://netlive.cloud/sun/app/index.m3u8?id=676
+#EXTINF:-1 tvg-id="897" tvg-name="Gemini TV HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/14019/200x200_GeminiTVHD_14019_65bc2d50-f266-4521-8fd5-38791f3272b4.png" tvg-chno="897" group-title="Entertainment - Telugu",Gemini TV HD
+https://netlive.cloud/sun/app/index.m3u8?id=897
+#EXTINF:-1 tvg-id="899" tvg-name="Gemini Movies HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26570/200x200_GeminiMoviesHD_26570_0ca1d1e8-f04d-41d0-943d-5e8948e271bc.png" tvg-chno="899" group-title="Movies - Telugu",Gemini Movies HD
+https://netlive.cloud/sun/app/index.m3u8?id=899
+#EXTINF:-1 tvg-id="898" tvg-name="Gemini Music HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26568/200x200_GeminiMusicHD_26568_2dc0c46d-afdf-407d-8862-3c2df67bee5b.png" tvg-chno="898" group-title="Music - Telugu",Gemini Music HD
+https://netlive.cloud/sun/app/index.m3u8?id=898
+#EXTINF:-1 tvg-id="729" tvg-name="Gemini Comedy" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9027/200x200_GeminiComedy_9027_54480d40-b0f2-4b28-90cd-238a161dab4c.png" tvg-chno="729" group-title="Entertainment - Telugu",Gemini Comedy
+https://netlive.cloud/sun/app/index.m3u8?id=729
+#EXTINF:-1 tvg-id="684" tvg-name="Gemini Life" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26572/200x200_GeminiLife_26572_797a9d8c-2ec2-4af8-b3dc-3b10c16c060d.png" tvg-chno="684" group-title="Lifestyle - Telugu",Gemini Life
+https://netlive.cloud/sun/app/index.m3u8?id=684
+#EXTINF:-1 tvg-id="558" tvg-name="Kushi TV" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26571/200x200_KushiTV_26571_ef287cac-6e6f-4cc7-96e1-b92160acb927.png" tvg-chno="558" group-title="Kids - Telugu",Kushi TV
+https://netlive.cloud/sun/app/index.m3u8?id=558
+#EXTINF:-1 tvg-id="900" tvg-name="Surya TV HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26574/200x200_SuryaTVHD_26574_01dc275d-8c77-418d-9c90-bc889ff5955d.png" tvg-chno="900" group-title="Entertainment - Malayalam",Surya TV HD
+https://netlive.cloud/sun/app/index.m3u8?id=900
+#EXTINF:-1 tvg-id="1754" tvg-name="Surya Movies" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9019/200x200_SuryaMovies_9019_6dae8158-5e95-469f-b597-465c51bd2cc0.png" tvg-chno="1754" group-title="Movies - Malayalam",Surya Movies
+https://netlive.cloud/sun/app/index.m3u8?id=1754
+#EXTINF:-1 tvg-id="747" tvg-name="Surya Music" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26575/200x200_SuryaMusic_26575_a804f3fd-2ce7-4324-aa2e-8228f9dc9a3a.png" tvg-chno="747" group-title="Music - Malayalam",Surya Music
+https://netlive.cloud/sun/app/index.m3u8?id=747
+#EXTINF:-1 tvg-id="1662" tvg-name="Surya Comedy" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/30835/200x200_SuryaComedy_30835_5a19c085-3a9a-4c70-bede-4910dc49f372.png" tvg-chno="1662" group-title="Entertainment - Malayalam",Surya Comedy
+https://netlive.cloud/sun/app/index.m3u8?id=1662
+#EXTINF:-1 tvg-id="556" tvg-name="Kochu TV" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26573/200x200_KochuTV_26573_9481a434-18ca-4780-a469-a205154eab64.png" tvg-chno="556" group-title="Kids - Malayalam",Kochu TV
+https://netlive.cloud/sun/app/index.m3u8?id=556
+#EXTINF:-1 tvg-id="901" tvg-name="Udaya TV HD" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/30846/200x200_UdayaTVHD_30846_25b8347b-f9bf-4d83-89d8-54f0a06b6dce.png" tvg-chno="901" group-title="Entertainment - Kannada",Udaya TV HD
+https://netlive.cloud/sun/app/index.m3u8?id=901
+#EXTINF:-1 tvg-id="678" tvg-name="Udaya Movies" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26576/200x200_UdayaMovies_26576_42386a71-5ce5-4577-986e-6bd85d38cc80.png" tvg-chno="678" group-title="Movies - Kannada",Udaya Movies
+https://netlive.cloud/sun/app/index.m3u8?id=678
+#EXTINF:-1 tvg-id="744" tvg-name="Udaya Music" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9022/200x200_UdayaMusic_9022_c88f50d2-6f39-4a9b-a177-d28f8ec6c105.png" tvg-chno="744" group-title="Music - Kannada",Udaya Music
+https://netlive.cloud/sun/app/index.m3u8?id=744
+#EXTINF:-1 tvg-id="733" tvg-name="Udaya Comedy" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/9014/200x200_UdayaComedy_9014_ed70cf76-db8f-4bdc-ae69-d1ba4ba0a9d3.png" tvg-chno="733" group-title="Entertainment - Kannada",Udaya Comedy
+https://netlive.cloud/sun/app/index.m3u8?id=733
+#EXTINF:-1 tvg-id="555" tvg-name="Chintu TV" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/26577/200x200_ChintuTV_26577_d9109d1a-0110-4c8f-8bc2-5dba4a758167.png" tvg-chno="555" group-title="Kids - Kannada",Chintu TV
+https://netlive.cloud/sun/app/index.m3u8?id=555
+#EXTINF:-1 tvg-id="1669" tvg-name="Sun Bangla" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/75117/200x200_SunBangla_75117_9ed56450-7740-4169-bef1-1b3d4cfbf692.png" tvg-chno="1669" group-title="Entertainment - Bengali",Sun Bangla
+https://netlive.cloud/sun/app/index.m3u8?id=1669
+#EXTINF:-1 tvg-id="2424" tvg-name="Sun Marathi" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/125944/200x200_SunMarathi_125944_e3509fd3-b30c-436d-ba5c-343e7bae433f.png" tvg-chno="2424" group-title="Entertainment - Marathi",Sun Marathi
+https://netlive.cloud/sun/app/index.m3u8?id=2424
