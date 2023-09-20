@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Colors_HD" tvg-name="Colors HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/pdj5yXrb/Colors-HD.png" tvg-chno="1" group-title="JioVoot (iNovaTech)",Colors HD
+https://mallutv.site/voot/stream.php?id=Colors_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Cineplex" tvg-name="Colors Cineplex HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/hGVhcyZK/Colors-Cineplex-HD.png" tvg-chno="2" group-title="JioVoot (iNovaTech)",Colors Cineplex HD
+https://mallutv.site/voot/stream.php?id=Colors_Cineplex&e=.m3u8
+#EXTINF:-1 tvg-id="Comedy_Central_HD" tvg-name="Comedy Central HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/2j9jRNj4/Comedy-Central-HD.png" tvg-chno="3" group-title="JioVoot (iNovaTech)",Comedy Central HD
+https://mallutv.site/voot/stream.php?id=Comedy_Central_HD&e=.m3u8
+#EXTINF:-1 tvg-id="MTV_Beats_HD" tvg-name="MTV Beats HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnrgsjWb/MTV-Beats-HD.png" tvg-chno="4" group-title="JioVoot (iNovaTech)",MTV Beats HD
+https://mallutv.site/voot/stream.php?id=MTV_Beats_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Nick_HD_Plus" tvg-name="Nickelodeon HD+" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gpzt48Rf/Nickelodeon-HDPlus.png" tvg-chno="5" group-title="JioVoot (iNovaTech)",Nickelodeon HD+
+https://mallutv.site/voot/stream.php?id=Nick_HD_Plus&e=.m3u8
+#EXTINF:-1 tvg-id="Nick_Junior" tvg-name="Nick Jr." tvg-country="IN" tvg-logo="https://i.postimg.cc/ZqfN1DW0/Nick-Jr.png" tvg-chno="6" group-title="JioVoot (iNovaTech)",Nick Jr.
+https://mallutv.site/voot/stream.php?id=Nick_Junior&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Kannada_HD" tvg-name="Colors Kannada" tvg-country="IN" tvg-logo="https://i.postimg.cc/qvvM9ByX/Colors-Kannada.png" tvg-chno="7" group-title="JioVoot (iNovaTech)",Colors Kannada
+https://mallutv.site/voot/stream.php?id=Colors_Kannada_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Bangla_HD" tvg-name="Colors Bangla HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/vTYpcTQ0/Colors-Bangla-HD.png" tvg-chno="8" group-title="JioVoot (iNovaTech)",Colors Bangla HD
+https://mallutv.site/voot/stream.php?id=Colors_Bangla_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Sonic_Nickelodeon" tvg-name="Sonic" tvg-country="IN" tvg-logo="https://i.postimg.cc/25N91yGn/Sonic-Nickelodeon.png" tvg-chno="9" group-title="JioVoot (iNovaTech)",Sonic
+https://mallutv.site/voot/stream.php?id=Sonic_Nickelodeon&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Super" tvg-name="Colors Super" tvg-country="IN" tvg-logo="https://i.postimg.cc/QMjkLTSY/Colors-Super.png" tvg-chno="10" group-title="JioVoot (iNovaTech)",Colors Super
+https://mallutv.site/voot/stream.php?id=Colors_Super&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Tamil_HD" tvg-name="Colors Tamil HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/L5gjkB65/Colors-Tamil-HD.png" tvg-chno="11" group-title="JioVoot (iNovaTech)",Colors Tamil HD
+https://mallutv.site/voot/stream.php?id=Colors_Tamil_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Gujarati" tvg-name="Colors Gujarati" tvg-country="IN" tvg-logo="https://i.postimg.cc/NM5dVXjq/Colors-Gujarati.png" tvg-chno="12" group-title="JioVoot (iNovaTech)",Colors Gujarati
+https://mallutv.site/voot/stream.php?id=Colors_Gujarati&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Rishtey" tvg-name="Colors Rishtey" tvg-country="IN" tvg-logo="https://i.postimg.cc/6qZY6NZM/Colors-Rishtey.png" tvg-chno="13" group-title="JioVoot (iNovaTech)",Colors Rishtey
+https://mallutv.site/voot/stream.php?id=Colors_Rishtey&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Oriya" tvg-name="Colors Odia" tvg-country="IN" tvg-logo="https://i.postimg.cc/TPH9rPqk/Colors-Odia.png" tvg-chno="14" group-title="JioVoot (iNovaTech)",Colors Odia
+https://mallutv.site/voot/stream.php?id=Colors_Oriya&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Marathi_HD" tvg-name="Colors Marathi" tvg-country="IN" tvg-logo="https://i.postimg.cc/hvV1W1Fw/Colors-Marathi.png" tvg-chno="15" group-title="JioVoot (iNovaTech)",Colors Marathi
+https://mallutv.site/voot/stream.php?id=Colors_Marathi_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Infinity_HD" tvg-name="Colors Infinity HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/q7gcMTV2/Colors-Infinity-HD.png" tvg-chno="16" group-title="JioVoot (iNovaTech)",Colors Infinity HD
+https://mallutv.site/voot/stream.php?id=Colors_Infinity_HD&e=.m3u8
+#EXTINF:-1 tvg-id="Colors_Cineplex_Bollywood" tvg-name="Colors Cineplex Bollywood" tvg-country="IN" tvg-logo="https://i.postimg.cc/d0xrFmLB/Colors-Cineplex-Bollywood.png" tvg-chno="17" group-title="JioVoot (iNovaTech)",Colors Cineplex Bollywood
+https://mallutv.site/voot/stream.php?id=Colors_Cineplex_Bollywood&e=.m3u8
+#EXTINF:-1 tvg-id="Rishtey_Cineplex" tvg-name="Colors Cineplex Superhits" tvg-country="IN" tvg-logo="https://i.postimg.cc/7PzKVLv8/Colors-Cineplex-Superhits.png" tvg-chno="18" group-title="JioVoot (iNovaTech)",Colors Cineplex Superhits
+https://mallutv.site/voot/stream.php?id=Rishtey_Cineplex&e=.m3u8
+#EXTINF:-1 tvg-id="Sports18_1_HD" tvg-name="Sports 18 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/k407Kg0X/Sports18.png" tvg-chno="19" group-title="JioVoot (iNovaTech)",Sports 18 1 HD
+https://mallutv.site/voot/stream.php?id=Sports18_1_HD&e=.m3u8
+#EXTINF:-1 tvg-id="MTV_Beats" tvg-name="MTV Beats" tvg-country="IN" tvg-logo="https://i.postimg.cc/nhrsK5Gy/MTV-Beats.png" tvg-chno="20" group-title="JioVoot (iNovaTech)",MTV Beats
+https://mallutv.site/voot/stream.php?id=MTV_Beats&e=.m3u8
+#EXTINF:-1 tvg-id="MTV_HD_Plus" tvg-name="MTV HD Plus" tvg-country="IN" tvg-logo="https://i.postimg.cc/054snqcc/MTV-HD-Plus.png" tvg-chno="21" group-title="JioVoot (iNovaTech)",MTV HD Plus
+https://mallutv.site/voot/stream.php?id=MTV_HD_Plus&e=.m3u8
+#EXTINF:-1 tvg-id="News18_India" tvg-name="News 18 India" tvg-country="IN" tvg-logo="https://i.postimg.cc/pLzVVR8f/News-18-India.png" tvg-chno="22" group-title="JioVoot (iNovaTech)",News 18 India
+https://mallutv.site/voot/stream.php?id=News18_India&e=.m3u8
+#EXTINF:-1 tvg-id="CNN_News18" tvg-name="CNN News18" tvg-country="IN" tvg-logo="https://i.postimg.cc/VLH00fd2/CNN-News18.png" tvg-chno="23" group-title="JioVoot (iNovaTech)",CNN News18
+https://mallutv.site/voot/stream.php?id=CNN_News18&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Tamil_Nadu" tvg-name="News18 Tamil Nadu" tvg-country="IN" tvg-logo="https://i.postimg.cc/285CWnWS/News18-Tamil-Nadu.png" tvg-chno="24" group-title="JioVoot (iNovaTech)",News18 Tamil Nadu
+https://mallutv.site/voot/stream.php?id=News18_Tamil_Nadu&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Lokmat" tvg-name="News18 Lokmat" tvg-country="IN" tvg-logo="https://i.postimg.cc/mZHgpLnY/News18-Lokmat.png" tvg-chno="25" group-title="JioVoot (iNovaTech)",News18 Lokmat
+https://mallutv.site/voot/stream.php?id=News18_Lokmat&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Bangla" tvg-name="News18 Bangla" tvg-country="IN" tvg-logo="https://i.postimg.cc/nh7bKrS5/News18-Bangla.png" tvg-chno="26" group-title="JioVoot (iNovaTech)",News18 Bangla
+https://mallutv.site/voot/stream.php?id=News18_Bangla&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Kannada" tvg-name="News18 Kannada" tvg-country="IN" tvg-logo="https://i.postimg.cc/3NM2vLkz/News18-Kannada.png" tvg-chno="27" group-title="JioVoot (iNovaTech)",News18 Kannada
+https://mallutv.site/voot/stream.php?id=News18_Kannada&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Gujarati" tvg-name="News18 Gujarati" tvg-country="IN" tvg-logo="https://i.postimg.cc/25FGrN33/News18-Gujarati.png" tvg-chno="28" group-title="JioVoot (iNovaTech)",News18 Gujarati
+https://mallutv.site/voot/stream.php?id=News18_Gujarati&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Punjab_Haryana_HP" tvg-name="News18 Punjab Haryana" tvg-country="IN" tvg-logo="https://i.postimg.cc/J41Tnnjm/News18-Punjab-Haryana-Himachal.png" tvg-chno="29" group-title="JioVoot (iNovaTech)",News18 Punjab Haryana
+https://mallutv.site/voot/stream.php?id=News18_Punjab_Haryana_HP&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Odia" tvg-name="News18 Odia" tvg-country="IN" tvg-logo="https://i.postimg.cc/768Dz7Nf/News18-Odia.png" tvg-chno="30" group-title="JioVoot (iNovaTech)",News18 Odia
+https://mallutv.site/voot/stream.php?id=News18_Odia&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Assam_North_East" tvg-name="News18 Assam North East" tvg-country="IN" tvg-logo="https://i.postimg.cc/0jhs0wY6/News18-Assam-North-East.png" tvg-chno="31" group-title="JioVoot (iNovaTech)",News18 Assam North East
+https://mallutv.site/voot/stream.php?id=News18_Assam_North_East&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Rajasthan" tvg-name="News18 Rajasthan" tvg-country="IN" tvg-logo="https://i.postimg.cc/Sx7BJ5vY/News18-Rajasthan.png" tvg-chno="32" group-title="JioVoot (iNovaTech)",News18 Rajasthan
+https://mallutv.site/voot/stream.php?id=News18_Rajasthan&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Bihar_Jharkhand" tvg-name="News18 Bihar Jharkhand" tvg-country="IN" tvg-logo="https://i.postimg.cc/6pyWRBC4/News18-Bihar-Jharkhand.png" tvg-chno="33" group-title="JioVoot (iNovaTech)",News18 Bihar Jharkhand
+https://mallutv.site/voot/stream.php?id=News18_Bihar_Jharkhand&e=.m3u8
+#EXTINF:-1 tvg-id="News18_MP_Chhattisgarh" tvg-name="News18 MP Chhattisgarh" tvg-country="IN" tvg-logo="https://i.postimg.cc/YCwRLC5b/News18-Madhya-Pradesh-Chhatisgarh.png" tvg-chno="34" group-title="JioVoot (iNovaTech)",News18 MP Chhattisgarh
+https://mallutv.site/voot/stream.php?id=News18_MP_Chhattisgarh&e=.m3u8
+#EXTINF:-1 tvg-id="News18_UP_Uttarakhand" tvg-name="News18 UP Uttarakhand" tvg-country="IN" tvg-logo="https://i.postimg.cc/qR2SHK0H/News18-Uttar-Pradesh-Uttarakhand.png" tvg-chno="35" group-title="JioVoot (iNovaTech)",News18 UP Uttarakhand
+https://mallutv.site/voot/stream.php?id=News18_UP_Uttarakhand&e=.m3u8
+#EXTINF:-1 tvg-id="News18_Urdu" tvg-name="News18 Urdu" tvg-country="IN" tvg-logo="https://i.postimg.cc/C18S2ddW/News18-Urdu.png" tvg-chno="36" group-title="JioVoot (iNovaTech)",News18 Urdu
+https://mallutv.site/voot/stream.php?id=News18_Urdu&e=.m3u8
