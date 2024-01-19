@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="tnt-sport-1-21" tvg-name="TNT SPORT 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport1.png" tvg-chno="tnt-sport-1-21" group-title="Sports24",TNT SPORT 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=tnt-sport-1-21&e=.m3u8
+#EXTINF:-1 tvg-id="tnt-sport-2-20" tvg-name="TNT SPORT 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport2.png" tvg-chno="tnt-sport-2-20" group-title="Sports24",TNT SPORT 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=tnt-sport-2-20&e=.m3u8
+#EXTINF:-1 tvg-id="tnt-sport-3-19" tvg-name="TNT SPORT 3" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/tntsport3.png" tvg-chno="tnt-sport-3-19" group-title="Sports24",TNT SPORT 3
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=tnt-sport-3-19&e=.m3u8
+#EXTINF:-1 tvg-id="premier-sports-1-26" tvg-name="PREMIER SPORTS 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports1.png" tvg-chno="premier-sports-1-26" group-title="Sports24",PREMIER SPORTS 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=premier-sports-1-26&e=.m3u8
+#EXTINF:-1 tvg-id="premier-sports-2-27" tvg-name="PREMIER SPORTS 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/Premier Sports 2.png" tvg-chno="premier-sports-2-27" group-title="Sports24",PREMIER SPORTS 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=premier-sports-2-27&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-football-57" tvg-name="Sky Sports Football" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-football.png" tvg-chno="sky-sports-football-57" group-title="Sports24",Sky Sports Football
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-football-57&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-premier-league-58" tvg-name="Sky Sports Premier League" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-premierleague.png" tvg-chno="sky-sports-premier-league-58" group-title="Sports24",Sky Sports Premier League
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-premier-league-58&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-main-event-60" tvg-name="Sky Sports Main Event" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/sky-sport-main.png" tvg-chno="sky-sports-main-event-60" group-title="Sports24",Sky Sports Main Event
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-main-event-60&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-criket-29" tvg-name="Sky Sports Criket" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-cricket.png" tvg-chno="sky-sports-criket-29" group-title="Sports24",Sky Sports Criket
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-criket-29&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-f1-28" tvg-name="Sky Sports F1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-f1.png" tvg-chno="sky-sports-f1-28" group-title="Sports24",Sky Sports F1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-f1-28&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-golf-114" tvg-name="Sky Sports Golf" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-golf.png" tvg-chno="sky-sports-golf-114" group-title="Sports24",Sky Sports Golf
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-golf-114&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-mix-126" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukssmix.png" tvg-chno="sky-sports-mix-126" group-title="Sports24",Sky Sports Mix
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-mix-126&e=.m3u8
+#EXTINF:-1 tvg-id="sky-sports-news-115" tvg-name="Sky Sports News" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/skysports-news.png" tvg-chno="sky-sports-news-115" group-title="Sports24",Sky Sports News
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sky-sports-news-115&e=.m3u8
+#EXTINF:-1 tvg-id="bbc-one-99" tvg-name="BBC One" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc1.png" tvg-chno="bbc-one-99" group-title="Sports24",BBC One
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bbc-one-99&e=.m3u8
+#EXTINF:-1 tvg-id="bbc-two-100" tvg-name="BBC Two" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc2.png" tvg-chno="bbc-two-100" group-title="Sports24",BBC Two
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bbc-two-100&e=.m3u8
+#EXTINF:-1 tvg-id="bbc-three-101" tvg-name="BBC Three" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukbbc3.png" tvg-chno="bbc-three-101" group-title="Sports24",BBC Three
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bbc-three-101&e=.m3u8
+#EXTINF:-1 tvg-id="itv-1-104" tvg-name="ITV 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/104.png" tvg-chno="itv-1-104" group-title="Sports24",ITV 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=itv-1-104&e=.m3u8
+#EXTINF:-1 tvg-id="itv-2-105" tvg-name="ITV 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/105.png" tvg-chno="itv-2-105" group-title="Sports24",ITV 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=itv-2-105&e=.m3u8
+#EXTINF:-1 tvg-id="channel-4-102" tvg-name="Channel 4" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel4.png" tvg-chno="channel-4-102" group-title="Sports24",Channel 4
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=channel-4-102&e=.m3u8
+#EXTINF:-1 tvg-id="channel-5-103" tvg-name="Channel 5" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukchannel5.png" tvg-chno="channel-5-103" group-title="Sports24",Channel 5
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=channel-5-103&e=.m3u8
+#EXTINF:-1 tvg-id="bbc-world-news-67" tvg-name="BBC World News" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/67.png" tvg-chno="bbc-world-news-67" group-title="Sports24",BBC World News
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bbc-world-news-67&e=.m3u8
+#EXTINF:-1 tvg-id="mtv-106" tvg-name="MTV" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ukmtv.png" tvg-chno="mtv-106" group-title="Sports24",MTV
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=mtv-106&e=.m3u8
+#EXTINF:-1 tvg-id="fs1-86" tvg-name="FS1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs1.png" tvg-chno="fs1-86" group-title="Sports24",FS1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=fs1-86&e=.m3u8
+#EXTINF:-1 tvg-id="fs2-87" tvg-name="FS2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/usfs2.png" tvg-chno="fs2-87" group-title="Sports24",FS2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=fs2-87&e=.m3u8
+#EXTINF:-1 tvg-id="usa-network-88" tvg-name="USA Network" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/88.png" tvg-chno="usa-network-88" group-title="Sports24",USA Network
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=usa-network-88&e=.m3u8
+#EXTINF:-1 tvg-id="nfl-network-91" tvg-name="NFL Network" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/nfl-network.png" tvg-chno="nfl-network-91" group-title="Sports24",NFL Network
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=nfl-network-91&e=.m3u8
+#EXTINF:-1 tvg-id="cbs-sports-network-70" tvg-name="CBS Sports Network" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/70.png" tvg-chno="cbs-sports-network-70" group-title="Sports24",CBS Sports Network
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=cbs-sports-network-70&e=.m3u8
+#EXTINF:-1 tvg-id="nba-tv-43" tvg-name="NBA TV" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/tvs/43.png" tvg-chno="nba-tv-43" group-title="Sports24",NBA TV
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=nba-tv-43&e=.m3u8
+#EXTINF:-1 tvg-id="willow-cricket-116" tvg-name="Willow Cricket" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/uswillow.png" tvg-chno="willow-cricket-116" group-title="Sports24",Willow Cricket
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=willow-cricket-116&e=.m3u8
+#EXTINF:-1 tvg-id="wwe-network-117" tvg-name="WWE Network" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/117.png" tvg-chno="wwe-network-117" group-title="Sports24",WWE Network
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=wwe-network-117&e=.m3u8
+#EXTINF:-1 tvg-id="bein-sports-1-40" tvg-name="BEIN SPORTS 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/40.png" tvg-chno="bein-sports-1-40" group-title="Sports24",BEIN SPORTS 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bein-sports-1-40&e=.m3u8
+#EXTINF:-1 tvg-id="bein-sports-2-41" tvg-name="BEIN SPORTS 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/41.png" tvg-chno="bein-sports-2-41" group-title="Sports24",BEIN SPORTS 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=bein-sports-2-41&e=.m3u8
+#EXTINF:-1 tvg-id="rmc-sport-1-13" tvg-name="RMC SPORT 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/13.png" tvg-chno="rmc-sport-1-13" group-title="Sports24",RMC SPORT 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=rmc-sport-1-13&e=.m3u8
+#EXTINF:-1 tvg-id="rmc-sport-2-14" tvg-name="RMC SPORT 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" tvg-chno="rmc-sport-2-14" group-title="Sports24",RMC SPORT 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=rmc-sport-2-14&e=.m3u8
+#EXTINF:-1 tvg-id="eleven-sport-1-33" tvg-name="Eleven Sport 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/33.png" tvg-chno="eleven-sport-1-33" group-title="Sports24",Eleven Sport 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=eleven-sport-1-33&e=.m3u8
+#EXTINF:-1 tvg-id="eleven-sport-2-32" tvg-name="Eleven Sport 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/32.png" tvg-chno="eleven-sport-2-32" group-title="Sports24",Eleven Sport 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=eleven-sport-2-32&e=.m3u8
+#EXTINF:-1 tvg-id="eleven-sport-3-31" tvg-name="Eleven Sport 3" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/31.png" tvg-chno="eleven-sport-3-31" group-title="Sports24",Eleven Sport 3
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=eleven-sport-3-31&e=.m3u8
+#EXTINF:-1 tvg-id="sport-tv-1-36" tvg-name="Sport TV 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/36.png" tvg-chno="sport-tv-1-36" group-title="Sports24",Sport TV 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sport-tv-1-36&e=.m3u8
+#EXTINF:-1 tvg-id="sport-tv-2-37" tvg-name="Sport TV 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/37.png" tvg-chno="sport-tv-2-37" group-title="Sports24",Sport TV 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sport-tv-2-37&e=.m3u8
+#EXTINF:-1 tvg-id="sport-tv-3-38" tvg-name="Sport TV 3" tvg-country="IN" tvg-logo="https://image.24hsport.tv/tvs/38.png" tvg-chno="sport-tv-3-38" group-title="Sports24",Sport TV 3
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=sport-tv-3-38&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-football-127" tvg-name="Super Sport Football" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" tvg-chno="super-sport-football-127" group-title="Sports24",Super Sport Football
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-football-127&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-premier-league-128" tvg-name="Super Sport Premier League" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-premierleague.png" tvg-chno="super-sport-premier-league-128" group-title="Sports24",Super Sport Premier League
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-premier-league-128&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-laliga-129" tvg-name="Super Sport Laliga" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-laliga.png" tvg-chno="super-sport-laliga-129" group-title="Sports24",Super Sport Laliga
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-laliga-129&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-action-130" tvg-name="Super Sport Action" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-action.png" tvg-chno="super-sport-action-130" group-title="Sports24",Super Sport Action
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-action-130&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-golf-131" tvg-name="Super Sport Golf" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-golf.png" tvg-chno="super-sport-golf-131" group-title="Sports24",Super Sport Golf
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-golf-131&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-rugby-125" tvg-name="Super Sport Rugby" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/zassrugby.png" tvg-chno="super-sport-rugby-125" group-title="Sports24",Super Sport Rugby
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-rugby-125&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-tennis-113" tvg-name="Super Sport Tennis" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-tennis.png" tvg-chno="super-sport-tennis-113" group-title="Sports24",Super Sport Tennis
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-tennis-113&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-variety-1-132" tvg-name="Super Sport Variety 1" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety1.png" tvg-chno="super-sport-variety-1-132" group-title="Sports24",Super Sport Variety 1
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-variety-1-132&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-variety-2-133" tvg-name="Super Sport Variety 2" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-variety2.png" tvg-chno="super-sport-variety-2-133" group-title="Sports24",Super Sport Variety 2
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-variety-2-133&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-cricket-134" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-cricket.png" tvg-chno="super-sport-cricket-134" group-title="Sports24",Super Sport Cricket
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-cricket-134&e=.m3u8
+#EXTINF:-1 tvg-id="super-sport-psl-135" tvg-name="Super Sport PSL" tvg-country="IN" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-psl.png" tvg-chno="super-sport-psl-135" group-title="Sports24",Super Sport PSL
+https://uk-yaltv.mallutv.site/iptv/sports24/live.m3u8?id=super-sport-psl-135&e=.m3u8
