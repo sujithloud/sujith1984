@@ -1529,7 +1529,7 @@ https://netlive.me/jio/stream.php?id=1655&e=.m3u8
 https://netlive.me/jio/stream.php?id=1657&e=.m3u8
 #EXTINF:-1 tvg-id="jio-1658" tvg-name="Aalami Samay" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aalami_Samay.png" group-title="News",Aalami Samay (JioTV)
 https://netlive.me/jio/stream.php?id=1658&e=.m3u8
-#EXTINF:-1 tvg-id="jio-1662" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Entertainment",Surya Comedy (JioTV)
+#EXTINF:-1 tvg-id="jio-1662" tvg-name="https://netlive.me/jioomedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Entertainment",https://netlive.me/jioomedy (JioTV)
 https://netlive.me/jio/stream.php?id=1662&e=.m3u8
 #EXTINF:-1 tvg-id="jio-1666" tvg-name="Safari TV " tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Safari_TV.png" group-title="Infotainment",Safari TV  (JioTV)
 https://netlive.me/jio/stream.php?id=1666&e=.m3u8
