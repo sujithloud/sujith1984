@@ -113,10 +113,10 @@ https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=main__0-9-9z5398793&e=.m3u8
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__183&e=.m3u8
 #EXTINF:-1 tvg-id="zee_24kalak" tvg-name="Zee 24 Kalak" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/gujarati.svg" group-title="News",Zee 24 Kalak (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_24kalak&e=.m3u8
-#EXTINF:-1 tvg-id="zee_24taas" tvg-name="Zee 24 Taas" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/marathi.png" group-title="News",Zee 24 Taas (Zee)
+#EXTINF:-1 tvg-id="zee_24taas" tvg-name="Zee 24 Taas" tvg-logo="https://i.ibb.co/gmrYBgV/Zee24-Taas.png" group-title="News",Zee 24 Taas (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_24taas&e=.m3u8
-#EXTINF:-1 tvg-id="zee_hindustan" tvg-name="Zee Hindustan" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/zee-hinduatan.svg" group-title="News",Zee Hindustan (Zee)
-https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_hindustan&e=.m3u8
+#EXTINF:-1 tvg-id="zee_bharat" tvg-name="Zee Bharat" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/zee-hinduatan.svg" group-title="News",Zee Bharat (Zee)
+https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_bharat&e=.m3u8
 #EXTINF:-1 tvg-id="zee_24ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/24ghanta1.svg" group-title="News",Zee 24 Ghanta (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_24ghanta&e=.m3u8
 #EXTINF:-1 tvg-id="zee_up" tvg-name="Zee Uttar Pradesh Uttarakhand" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/upuk.svg" group-title="News",Zee Uttar Pradesh Uttarakhand (Zee)
@@ -131,7 +131,7 @@ https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_mp&e=.m3u8
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_bihar&e=.m3u8
 #EXTINF:-1 tvg-id="zee_rajasthan" tvg-name="Zee Rajasthan" tvg-logo="https://english.cdn.zeenews.com/pwa-images/zee_rajasthan.svg" group-title="News",Zee Rajasthan (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_rajasthan&e=.m3u8
-#EXTINF:-1 tvg-id="zee_kalinga" tvg-name="Zee Kalinga" tvg-logo="https://english.cdn.zeenews.com/static/apprun/livetv/Oriya.png" group-title="News",Zee Kalinga (Zee)
+#EXTINF:-1 tvg-id="zee_kalinga" tvg-name="Zee Kalinga" tvg-logo="https://i.ibb.co/XWLdGpb/Zee-Kalinga.png" group-title="News",Zee Kalinga (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_kalinga&e=.m3u8
 #EXTINF:-1 tvg-id="zee_delhi" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://english.cdn.zeenews.com/static/public/delhiharyana.svg" group-title="News",Zee Delhi NCR Haryana (Zee)
 https://uk-yaltv.mallutv.site/iptv/zee/stream.php?id=news__zee_delhi&e=.m3u8
