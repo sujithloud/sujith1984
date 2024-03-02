@@ -1,0 +1,135 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1ae062c88f455fc7cf6fec1039c2f785" tvg-name="Star Sports 1 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/mD2B8h2h/Star-Sports-1-HD.png" tvg-chno="1ae062c88f455fc7cf6fec1039c2f785" group-title="FireSports (iNovaTech)",Star Sports 1 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=star1in&e=.m3u8
+#EXTINF:-1 tvg-id="9c2e1ca08269d0a2be2df321ca264f72" tvg-name="Star Sports 2 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/8CzD4NzL/Star-Sports-HD-2.png" tvg-chno="9c2e1ca08269d0a2be2df321ca264f72" group-title="FireSports (iNovaTech)",Star Sports 2 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=star2in&e=.m3u8
+#EXTINF:-1 tvg-id="c4fc10f343784f045b9b40e8c342241d" tvg-name="Star Sports 1 Hindi HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/tg9j476D/Star-Sports-1-HD-Hindi.png" tvg-chno="c4fc10f343784f045b9b40e8c342241d" group-title="FireSports (iNovaTech)",Star Sports 1 Hindi HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=starhindi&e=.m3u8
+#EXTINF:-1 tvg-id="24cc4b6afd8568399b9bdf0df76c4bd8" tvg-name="PTV Sports" tvg-country="IN" tvg-logo="https://i.postimg.cc/5NzQ2Qss/PTV-Sports.png" tvg-chno="24cc4b6afd8568399b9bdf0df76c4bd8" group-title="FireSports (iNovaTech)",PTV Sports
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=ptvpk&e=.m3u8
+#EXTINF:-1 tvg-id="14b50855c25c4ab2114a4de00cebe760" tvg-name="Willow HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XNCwDYR6/Willow.png" tvg-chno="14b50855c25c4ab2114a4de00cebe760" group-title="FireSports (iNovaTech)",Willow HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=willowusa&e=.m3u8
+#EXTINF:-1 tvg-id="4c881c8c762a15dab455eb8ff2420f5d" tvg-name="Super Sport Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/bwzkJHsq/Super-Cricket.png" tvg-chno="4c881c8c762a15dab455eb8ff2420f5d" group-title="FireSports (iNovaTech)",Super Sport Cricket
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supercricket&e=.m3u8
+#EXTINF:-1 tvg-id="425059d92d1bdab653cba296a88fd0ff" tvg-name="TEN Sports Pakistan" tvg-country="IN" tvg-logo="https://i.postimg.cc/cLbzBHqt/Ten-Sports.png" tvg-chno="425059d92d1bdab653cba296a88fd0ff" group-title="FireSports (iNovaTech)",TEN Sports Pakistan
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=tenspk&e=.m3u8
+#EXTINF:-1 tvg-id="7b32d768e7d08e0552c492131dba9796" tvg-name="Willow Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/KvQw4fJN/Willow-Xtra.png" tvg-chno="7b32d768e7d08e0552c492131dba9796" group-title="FireSports (iNovaTech)",Willow Xtra
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=willowextra&e=.m3u8
+#EXTINF:-1 tvg-id="ca67f7766114b88216a9cedbf23d846e" tvg-name="A Sports HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/Dy7R2Hd0/A-Sports-HD.png" tvg-chno="ca67f7766114b88216a9cedbf23d846e" group-title="FireSports (iNovaTech)",A Sports HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=asportshd&e=.m3u8
+#EXTINF:-1 tvg-id="d38683dbc4241a88b7ff41ea19d0c283" tvg-name="Fox Cricket 501 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gp4ZWDPj/Fox-Cricket.png" tvg-chno="d38683dbc4241a88b7ff41ea19d0c283" group-title="FireSports (iNovaTech)",Fox Cricket 501 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox501&e=.m3u8
+#EXTINF:-1 tvg-id="117d59a8476870986d67988075584570" tvg-name="Sky Sports Main Event" tvg-country="IN" tvg-logo="https://i.postimg.cc/nr32VRp9/Sky-Sports-Main-Event.png" tvg-chno="117d59a8476870986d67988075584570" group-title="FireSports (iNovaTech)",Sky Sports Main Event
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysme&e=.m3u8
+#EXTINF:-1 tvg-id="054d71bb25ea273d317844be00dec11d" tvg-name="Sky Sports Cricket" tvg-country="IN" tvg-logo="https://i.postimg.cc/x1J5Y37q/Sky-Sports-Cricket.png" tvg-chno="054d71bb25ea273d317844be00dec11d" group-title="FireSports (iNovaTech)",Sky Sports Cricket
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skyscric&e=.m3u8
+#EXTINF:-1 tvg-id="ea3ebdfdd1a0e5772aa4ba8106726611" tvg-name="Sky Sports Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/t70T6yXK/Sky-Sports-Action.png" tvg-chno="ea3ebdfdd1a0e5772aa4ba8106726611" group-title="FireSports (iNovaTech)",Sky Sports Action
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysact&e=.m3u8
+#EXTINF:-1 tvg-id="1326d224acb492f08e9f2adb52930983" tvg-name="Sky Sports Golf" tvg-country="IN" tvg-logo="https://i.postimg.cc/qB1x3FHz/Sky-Sports-Golf.png" tvg-chno="1326d224acb492f08e9f2adb52930983" group-title="FireSports (iNovaTech)",Sky Sports Golf
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysgol&e=.m3u8
+#EXTINF:-1 tvg-id="ad4cea504a00e532d8afe8fc08bdfab3" tvg-name="Sky Sports Premier League" tvg-country="IN" tvg-logo="https://i.postimg.cc/85jMBpSc/Sky-Sports-Premiere-League.png" tvg-chno="ad4cea504a00e532d8afe8fc08bdfab3" group-title="FireSports (iNovaTech)",Sky Sports Premier League
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysprem&e=.m3u8
+#EXTINF:-1 tvg-id="d96555cfd390267e67d82ee1d33ef7a0" tvg-name="Sky Sports Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/7LPgh1tg/Sky-Sports-Football.png" tvg-chno="d96555cfd390267e67d82ee1d33ef7a0" group-title="FireSports (iNovaTech)",Sky Sports Football
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysfott&e=.m3u8
+#EXTINF:-1 tvg-id="0996b06ce8928da5fd463e8692d846a0" tvg-name="Sky Sports Arena" tvg-country="IN" tvg-logo="https://i.postimg.cc/PqG5FdYN/Sky-Sports-Arena.png" tvg-chno="0996b06ce8928da5fd463e8692d846a0" group-title="FireSports (iNovaTech)",Sky Sports Arena
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysare&e=.m3u8
+#EXTINF:-1 tvg-id="573edd07d0c66e24982f36d138b43814" tvg-name="Sky Sports F1" tvg-country="IN" tvg-logo="https://i.postimg.cc/63t5tzHX/Sky-Sports-F1.png" tvg-chno="573edd07d0c66e24982f36d138b43814" group-title="FireSports (iNovaTech)",Sky Sports F1
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysfor1&e=.m3u8
+#EXTINF:-1 tvg-id="a786d65d6b39193abc758dd0793de2a5" tvg-name="Sky Sports Mix" tvg-country="IN" tvg-logo="https://i.postimg.cc/zDdXYCKs/Sky-Sports-Mix.png" tvg-chno="a786d65d6b39193abc758dd0793de2a5" group-title="FireSports (iNovaTech)",Sky Sports Mix
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skysmixx&e=.m3u8
+#EXTINF:-1 tvg-id="6a1141594ee5ceab5e769f5995459a70" tvg-name="Sky Sports News" tvg-country="IN" tvg-logo="https://i.postimg.cc/htmSmN6n/Sky-Sports-News.png" tvg-chno="6a1141594ee5ceab5e769f5995459a70" group-title="FireSports (iNovaTech)",Sky Sports News
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=skyspnews&e=.m3u8
+#EXTINF:-1 tvg-id="92fd996df8ee21050263d9791e184711" tvg-name="BT Sport 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/4d2Cq1qw/BT-Sports-1-HD.png" tvg-chno="92fd996df8ee21050263d9791e184711" group-title="FireSports (iNovaTech)",BT Sport 1
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bbtsp1&e=.m3u8
+#EXTINF:-1 tvg-id="2df691f07b22ba99778d1684eb860757" tvg-name="BT Sport 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/RZTvGwSp/BT-Sports-2-HD.png" tvg-chno="2df691f07b22ba99778d1684eb860757" group-title="FireSports (iNovaTech)",BT Sport 2
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bbtsp2&e=.m3u8
+#EXTINF:-1 tvg-id="e74e2465d1c4cac2de7c3c49aaa9592f" tvg-name="BT Sport 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/Jh4MFttr/BT-Sports-3-HD.png" tvg-chno="e74e2465d1c4cac2de7c3c49aaa9592f" group-title="FireSports (iNovaTech)",BT Sport 3
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bbtsp3&e=.m3u8
+#EXTINF:-1 tvg-id="2d10cd22aa2ab6d26408a0fe2cc788ce" tvg-name="BT Sport 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/K4SmpN3w/BT-Sport-4.png" tvg-chno="2d10cd22aa2ab6d26408a0fe2cc788ce" group-title="FireSports (iNovaTech)",BT Sport 4
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bbtespn&e=.m3u8
+#EXTINF:-1 tvg-id="dee40bb12a08e3db82456ebecd8d9d41" tvg-name="LaLiga Tv" tvg-country="IN" tvg-logo="https://i.postimg.cc/mkMPrhYx/La-Liga-TV.png" tvg-chno="dee40bb12a08e3db82456ebecd8d9d41" group-title="FireSports (iNovaTech)",LaLiga Tv
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=laligauk&e=.m3u8
+#EXTINF:-1 tvg-id="13d3d6d0c5ac1f2b02e279109eaaaba3" tvg-name="EuroSport 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/K8s3JXvH/Eurosport-1.png" tvg-chno="13d3d6d0c5ac1f2b02e279109eaaaba3" group-title="FireSports (iNovaTech)",EuroSport 1
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=eurosp1&e=.m3u8
+#EXTINF:-1 tvg-id="0c10f093e0030d039681aca4388c59e4" tvg-name="EuroSport 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/Px1LXPbg/Eurosport-2.png" tvg-chno="0c10f093e0030d039681aca4388c59e4" group-title="FireSports (iNovaTech)",EuroSport 2
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=eurosp2&e=.m3u8
+#EXTINF:-1 tvg-id="ae270065146b68f8225bb571ce29b1d4" tvg-name="Fox Sports 502 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="ae270065146b68f8225bb571ce29b1d4" group-title="FireSports (iNovaTech)",Fox Sports 502 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox5022&e=.m3u8
+#EXTINF:-1 tvg-id="0017f5eeb72c1ae4bcaeea23463aa1c4" tvg-name="Fox Sports 503 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="0017f5eeb72c1ae4bcaeea23463aa1c4" group-title="FireSports (iNovaTech)",Fox Sports 503 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox503&e=.m3u8
+#EXTINF:-1 tvg-id="99704f044d7d2e6be8b5ac9ae3718466" tvg-name="Fox Sports 504 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="99704f044d7d2e6be8b5ac9ae3718466" group-title="FireSports (iNovaTech)",Fox Sports 504 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox504&e=.m3u8
+#EXTINF:-1 tvg-id="a3d53d2255f4888be091e2d3662479c7" tvg-name="Fox Sports 505 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="a3d53d2255f4888be091e2d3662479c7" group-title="FireSports (iNovaTech)",Fox Sports 505 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox505&e=.m3u8
+#EXTINF:-1 tvg-id="215a391ef40587eb68dbf1196d34d650" tvg-name="Fox Sports 506 HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/0Nwjnb4z/Fox-Sports.png" tvg-chno="215a391ef40587eb68dbf1196d34d650" group-title="FireSports (iNovaTech)",Fox Sports 506 HD
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=fox506&e=.m3u8
+#EXTINF:-1 tvg-id="381efb65ff186b34e5d98d4750346959" tvg-name="WWE Network" tvg-country="IN" tvg-logo="https://i.postimg.cc/SRNmBsg7/WWE.png" tvg-chno="381efb65ff186b34e5d98d4750346959" group-title="FireSports (iNovaTech)",WWE Network
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=wwe&e=.m3u8
+#EXTINF:-1 tvg-id="c3b852d0f1ee7d392d645026c363bd92" tvg-name="Geo Super" tvg-country="IN" tvg-logo="https://i.postimg.cc/HnGhMPyJ/Geo-Super.png" tvg-chno="c3b852d0f1ee7d392d645026c363bd92" group-title="FireSports (iNovaTech)",Geo Super
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=geosp&e=.m3u8
+#EXTINF:-1 tvg-id="595f13e713ade9afc850f28c3f3673a7" tvg-name="Bein Sports 1 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/GpCtMcnz/Bein-Sports-HD-1.png" tvg-chno="595f13e713ade9afc850f28c3f3673a7" group-title="FireSports (iNovaTech)",Bein Sports 1 English
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein1en&e=.m3u8
+#EXTINF:-1 tvg-id="aba40e195b69ee5ca7ecbe08368d2737" tvg-name="Bein Sports 2 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/ZKNJX1cQ/Bein-Sports-HD2.png" tvg-chno="aba40e195b69ee5ca7ecbe08368d2737" group-title="FireSports (iNovaTech)",Bein Sports 2 English
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein2en&e=.m3u8
+#EXTINF:-1 tvg-id="52b49f8a8cee2a3ac25bf4be0ade294b" tvg-name="Bein Sports 3 English" tvg-country="IN" tvg-logo="https://i.postimg.cc/Z5k6Szhv/Bein-Sports-HD-3.png" tvg-chno="52b49f8a8cee2a3ac25bf4be0ade294b" group-title="FireSports (iNovaTech)",Bein Sports 3 English
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein3en&e=.m3u8
+#EXTINF:-1 tvg-id="921d9777020d8c2dfdb851e2d9e0bad1" tvg-name="Bein Sports 1 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/6QtbL1zg/Bein-Sports-Premium-1.png" tvg-chno="921d9777020d8c2dfdb851e2d9e0bad1" group-title="FireSports (iNovaTech)",Bein Sports 1 Premium
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein1prem&e=.m3u8
+#EXTINF:-1 tvg-id="547e29a31374bb712487e05dbed835dc" tvg-name="Bein Sports 2 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/6q2Mps52/Bein-Sports-Premium-2.png" tvg-chno="547e29a31374bb712487e05dbed835dc" group-title="FireSports (iNovaTech)",Bein Sports 2 Premium
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein2prem&e=.m3u8
+#EXTINF:-1 tvg-id="6c8125aa2e597b9c4f99a196fa9c8705" tvg-name="Bein Sports 3 Premium" tvg-country="IN" tvg-logo="https://i.postimg.cc/k5jrVm9f/Bein-Sports-Premium-3.png" tvg-chno="6c8125aa2e597b9c4f99a196fa9c8705" group-title="FireSports (iNovaTech)",Bein Sports 3 Premium
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein3prem&e=.m3u8
+#EXTINF:-1 tvg-id="0aa00dadf82f57e48ec094d235c637cc" tvg-name="SuperSport Football" tvg-country="IN" tvg-logo="https://i.postimg.cc/8zgdQf8V/Super-Sport-Football.png" tvg-chno="0aa00dadf82f57e48ec094d235c637cc" group-title="FireSports (iNovaTech)",SuperSport Football
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=superfotball&e=.m3u8
+#EXTINF:-1 tvg-id="b3943d0e57072defe4279fb1f04b5c86" tvg-name="SuperSport Premier" tvg-country="IN" tvg-logo="https://i.postimg.cc/nzrBYvmq/Super-Sport-Premiere-League.png" tvg-chno="b3943d0e57072defe4279fb1f04b5c86" group-title="FireSports (iNovaTech)",SuperSport Premier
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=superpremier&e=.m3u8
+#EXTINF:-1 tvg-id="7f1e38f599f7964363f48aab8aee2511" tvg-name="SuperSport Laliga" tvg-country="IN" tvg-logo="https://i.postimg.cc/FR6cP7b8/Super-Sport-La-Liga.png" tvg-chno="7f1e38f599f7964363f48aab8aee2511" group-title="FireSports (iNovaTech)",SuperSport Laliga
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=superlaliga&e=.m3u8
+#EXTINF:-1 tvg-id="4e4aa5dcfbc9f8b61d779fd68cd05c07" tvg-name="SuperSport Rugby" tvg-country="IN" tvg-logo="https://i.postimg.cc/sgznPNgS/Super-Sport-Rugby.png" tvg-chno="4e4aa5dcfbc9f8b61d779fd68cd05c07" group-title="FireSports (iNovaTech)",SuperSport Rugby
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supersrugby&e=.m3u8
+#EXTINF:-1 tvg-id="6ff312fd796008ff2af73bbffe5a8f82" tvg-name="SuperSport Grandstand" tvg-country="IN" tvg-logo="https://i.postimg.cc/0QzZ2gVg/Super-Sport-Grandstand.png" tvg-chno="6ff312fd796008ff2af73bbffe5a8f82" group-title="FireSports (iNovaTech)",SuperSport Grandstand
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supergrandstand&e=.m3u8
+#EXTINF:-1 tvg-id="90783bd0b0627cebbda63c7effa0abce" tvg-name="SuperSport Tennis" tvg-country="IN" tvg-logo="https://i.postimg.cc/7YFDnDF6/Super-Sport-Tennis.png" tvg-chno="90783bd0b0627cebbda63c7effa0abce" group-title="FireSports (iNovaTech)",SuperSport Tennis
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supertennis&e=.m3u8
+#EXTINF:-1 tvg-id="a9c20abb043c41bab9ec8201e0733783" tvg-name="SuperSport Action" tvg-country="IN" tvg-logo="https://i.postimg.cc/9Mhr8ZsD/Super-Sport-Action.png" tvg-chno="a9c20abb043c41bab9ec8201e0733783" group-title="FireSports (iNovaTech)",SuperSport Action
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=superactions&e=.m3u8
+#EXTINF:-1 tvg-id="3e7b358bd303aa4ca346774500731553" tvg-name="SuperSport Golf" tvg-country="IN" tvg-logo="https://i.postimg.cc/ncgVSqDn/Super-Sport-Golf.png" tvg-chno="3e7b358bd303aa4ca346774500731553" group-title="FireSports (iNovaTech)",SuperSport Golf
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supergolf&e=.m3u8
+#EXTINF:-1 tvg-id="77df99fe3ce533583d4d07b519430e71" tvg-name="SuperSport Maximo" tvg-country="IN" tvg-logo="https://i.postimg.cc/4xw164Mk/Super-Sport-Maximo.png" tvg-chno="77df99fe3ce533583d4d07b519430e71" group-title="FireSports (iNovaTech)",SuperSport Maximo
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=supermeximo&e=.m3u8
+#EXTINF:-1 tvg-id="0c5f421a4ac54f0b30ef3f3e310eba70" tvg-name="Bein Sports 1 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="0c5f421a4ac54f0b30ef3f3e310eba70" group-title="FireSports (iNovaTech)",Bein Sports 1 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein1arab&e=.m3u8
+#EXTINF:-1 tvg-id="axc46641d8421cab67ab2d76210fc795" tvg-name="Bein Sports 2 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="axc46641d8421cab67ab2d76210fc795" group-title="FireSports (iNovaTech)",Bein Sports 2 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein2arab&e=.m3u8
+#EXTINF:-1 tvg-id="62208b295e3dd1efdf2269ddeebf7cd5" tvg-name="Bein Sports 3 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="62208b295e3dd1efdf2269ddeebf7cd5" group-title="FireSports (iNovaTech)",Bein Sports 3 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein3arab&e=.m3u8
+#EXTINF:-1 tvg-id="hb381e2bfc17989333a3e30df2ccce61" tvg-name="Bein Sports 4 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="hb381e2bfc17989333a3e30df2ccce61" group-title="FireSports (iNovaTech)",Bein Sports 4 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein4arab&e=.m3u8
+#EXTINF:-1 tvg-id="23413405e52af946372ffc9fd8488f1c" tvg-name="Bein Sports 5 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="23413405e52af946372ffc9fd8488f1c" group-title="FireSports (iNovaTech)",Bein Sports 5 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein5arab&e=.m3u8
+#EXTINF:-1 tvg-id="209726c2c7485c3963d4edc3e7937c0b" tvg-name="Bein Sports 6 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="209726c2c7485c3963d4edc3e7937c0b" group-title="FireSports (iNovaTech)",Bein Sports 6 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein6arab&e=.m3u8
+#EXTINF:-1 tvg-id="6393161d6ffbb4739DDD3dee1b3204d2" tvg-name="Bein Sports 7 AR" tvg-country="IN" tvg-logo="https://i.postimg.cc/BbMvhyG6/Bein-Sports.png" tvg-chno="6393161d6ffbb4739DDD3dee1b3204d2" group-title="FireSports (iNovaTech)",Bein Sports 7 AR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein7arab&e=.m3u8
+#EXTINF:-1 tvg-id="cc387e24b33b57f38b405e47d22df149" tvg-name="Bein Sports 1 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/cJPp7cgn/Bein-Sports-1-FR.png" tvg-chno="cc387e24b33b57f38b405e47d22df149" group-title="FireSports (iNovaTech)",Bein Sports 1 FR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein1fr&e=.m3u8
+#EXTINF:-1 tvg-id="b56287756907ced5f557c002405f6575" tvg-name="Bein Sports 2 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/mZYvMCbP/Bein-Sports-2-FR.png" tvg-chno="b56287756907ced5f557c002405f6575" group-title="FireSports (iNovaTech)",Bein Sports 2 FR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein2fr&e=.m3u8
+#EXTINF:-1 tvg-id="180d35164499a00805e017354d00d5de" tvg-name="Bein Sports 3 FR" tvg-country="IN" tvg-logo="https://i.postimg.cc/m2VKp41R/Bein-Sports-3-FR.png" tvg-chno="180d35164499a00805e017354d00d5de" group-title="FireSports (iNovaTech)",Bein Sports 3 FR
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=bein3fr&e=.m3u8
+#EXTINF:-1 tvg-id="831afdd8f6449bed53df4448e7b02f61" tvg-name="SuperSport Variety 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/Gmhq4s2n/Super-Sport-Variety-1.png" tvg-chno="831afdd8f6449bed53df4448e7b02f61" group-title="FireSports (iNovaTech)",SuperSport Variety 1
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl6&e=.m3u8
+#EXTINF:-1 tvg-id="d93c1141b93cedf3a3d83dd6776081c1" tvg-name="SuperSport Variety 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrJ1pX55/Super-Sport-Variety-2.png" tvg-chno="d93c1141b93cedf3a3d83dd6776081c1" group-title="FireSports (iNovaTech)",SuperSport Variety 2
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl7&e=.m3u8
+#EXTINF:-1 tvg-id="07ecfef5e99674d167af5030ccf28854" tvg-name="SuperSport Variety 3" tvg-country="IN" tvg-logo="https://i.postimg.cc/QdtJ8G4X/Super-Sport-Variety-3.png" tvg-chno="07ecfef5e99674d167af5030ccf28854" group-title="FireSports (iNovaTech)",SuperSport Variety 3
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl8&e=.m3u8
+#EXTINF:-1 tvg-id="957cWb1db00b19387aeb318296adab1d" tvg-name="SuperSport Variety 4" tvg-country="IN" tvg-logo="https://i.postimg.cc/28HnX9zg/Super-Sport-Variety-4.png" tvg-chno="957cWb1db00b19387aeb318296adab1d" group-title="FireSports (iNovaTech)",SuperSport Variety 4
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl9&e=.m3u8
+#EXTINF:-1 tvg-id="39a6828ed06f7e9e859f03eca83fbba8" tvg-name="Via Play Sports 1" tvg-country="IN" tvg-logo="https://i.postimg.cc/SKGnjz66/Via-Play-Sports1.png" tvg-chno="39a6828ed06f7e9e859f03eca83fbba8" group-title="FireSports (iNovaTech)",Via Play Sports 1
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=premieruk&e=.m3u8
+#EXTINF:-1 tvg-id="007d11094810797b78def0b6307c6af2" tvg-name="Via Play Sports 2" tvg-country="IN" tvg-logo="https://i.postimg.cc/13hXHKM0/Via-Play-Sports2.png" tvg-chno="007d11094810797b78def0b6307c6af2" group-title="FireSports (iNovaTech)",Via Play Sports 2
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl2&e=.m3u8
+#EXTINF:-1 tvg-id="ee01467dde677f52730c692dd37cc514" tvg-name="Via Play Xtra" tvg-country="IN" tvg-logo="https://i.postimg.cc/W49JXkd2/Via-Play-Xtra.png" tvg-chno="ee01467dde677f52730c692dd37cc514" group-title="FireSports (iNovaTech)",Via Play Xtra
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=hdchnl3&e=.m3u8
+#EXTINF:-1 tvg-id="ac39ba84953e6bcd9c0f8e2e0727af7b" tvg-name="Super Sports PSL" tvg-country="IN" tvg-logo="https://i.postimg.cc/QN7HWPJN/Super-Sports-PSL.png" tvg-chno="ac39ba84953e6bcd9c0f8e2e0727af7b" group-title="FireSports (iNovaTech)",Super Sports PSL
+https://virify.netliveiptv.fun/iptv/fire/stream.php?id=superpsl&e=.m3u8
