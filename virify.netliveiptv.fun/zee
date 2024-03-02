@@ -1,0 +1,139 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-logo="https://i.postimg.cc/tJZ778dT/Zing.png" group-title="Music",Zing (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zing&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-logo="https://i.postimg.cc/MGgTMq5Q/Big-Magic.png" group-title="Entertainment",Big Magic (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-bigmagic_1786965389&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-logo="https://i.postimg.cc/xCdRCGsC/Zee-TV-HD.png" group-title="Entertainment",Zee TV HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeetvhd&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD (And TV HD)" tvg-logo="https://i.postimg.cc/JhSNrwBT/tvHD.png" group-title="Entertainment",&TV HD (And TV HD) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-tvhd_0&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-name="Zee Marathi HD" tvg-logo="https://i.postimg.cc/zGP48BDT/Zee-Marathi-HD.png" group-title="Entertainment",Zee Marathi HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeemarathi&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeyuva" tvg-name="Zee Yuva" tvg-logo="https://i.postimg.cc/T3yCjcGW/Zee-Yuva.png" group-title="Entertainment",Zee Yuva (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeeyuva&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Cafe HD" tvg-logo="https://i.postimg.cc/wBq38wv1/Zee-Cafe-HD.png" group-title="Entertainment",Zee Cafe HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeecafehd&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" tvg-name="Zee Ganga" tvg-logo="https://i.postimg.cc/nhFtHr8L/Zee-Ganga.png" group-title="Entertainment",Zee Ganga (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-bigganga&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetamil" tvg-name="Zee Tamil HD" tvg-logo="https://i.postimg.cc/FRwgFY7k/Zee-Tamil-HD.png" group-title="Entertainment",Zee Tamil HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeetamil&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetelugu" tvg-name="Zee Telugu HD" tvg-logo="https://i.postimg.cc/dVTFDXH7/Zee-Telugu-HD.png" group-title="Entertainment",Zee Telugu HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeetelugu&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekannada" tvg-name="Zee Kannada HD" tvg-logo="https://i.postimg.cc/Bnp1mmfn/Zee-Kannada-HD.png" group-title="Entertainment",Zee Kannada HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeekannada&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-129" tvg-name="Zee Keralam HD" tvg-logo="https://i.postimg.cc/bvzCDVp0/Zee-Keralam-HD.png" group-title="Entertainment",Zee Keralam HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-129&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" tvg-name="Zee Bangla HD" tvg-logo="https://i.postimg.cc/CxXMw2D1/Zee-Bangla-HD.png" group-title="Entertainment",Zee Bangla HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeebangla&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-logo="https://i.postimg.cc/jjRGyQzT/Zee-Anmol.png" group-title="Entertainment",Zee Anmol (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeeanmol&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/tTzxcbcw/Zee-Cinema-HD.png" group-title="Movies",Zee Cinema HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeecinemahd&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" tvg-name="Zee Cinemalu HD" tvg-logo="https://i.postimg.cc/3Nk3GMPz/Zee-Cinemalu-HD.png" group-title="Movies",Zee Cinemalu HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeecinemalu&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="& Pictures HD (And Pictures HD)" tvg-logo="https://i.postimg.cc/15LDfskh/pictures-HD.png" group-title="Movies",& Pictures HD (And Pictures HD) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-tvpictureshd&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-name="Zee Talkies HD" tvg-logo="https://i.postimg.cc/5tZwF1YF/Zee-Talkies-HD.png" group-title="Movies",Zee Talkies HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeetalkies&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.postimg.cc/k50wxW6s/Zee-Bangla-Cinema.png" group-title="Movies",Zee Bangla Cinema (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeebanglacinema&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-215" tvg-name="Zee Punjabi" tvg-logo="https://i.postimg.cc/qvWPghLc/Zee-Punjabi.png" group-title="Entertainment",Zee Punjabi (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-215&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-logo="https://i.postimg.cc/rpSpQLZ4/Zee-Anmol-Cinema-jpg.png" group-title="Movies",Zee Anmol Cinema (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeeanmolcinema&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-logo="https://i.postimg.cc/1tSwmBVk/Zee-Bollywood.png" group-title="Movies",Zee Bollywood (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeeclassic&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-logo="https://i.postimg.cc/SNYsP8JC/Zee-Cinema.png" group-title="Movies",Zee Cinema (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeecinema&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="& Pictures (And Pictures)" tvg-logo="https://i.postimg.cc/zGSJmk5b/pictures.png" group-title="Movies",& Pictures (And Pictures) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-pictures&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-logo="https://i.postimg.cc/90Wk7yKS/Zee-Action.png" group-title="Movies",Zee Action (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeeaction&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="& Prive HD (And Prive HD)" tvg-logo="https://i.postimg.cc/PrJ3nfjm/Prive-HD.png" group-title="Movies",& Prive HD (And Prive HD) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-privéhd&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="& Flix HD (And Flix HD)" tvg-logo="https://i.postimg.cc/vmhfm97D/flixHD.png" group-title="Movies",& Flix HD (And Flix HD) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-channel_2105335046&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-logo="https://i.postimg.cc/tgyZx59p/Sanskar-TV.png" group-title="Spiritual",Sanskar TV (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-channel_1144658965&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" tvg-name="Satsang TV" tvg-logo="https://i.postimg.cc/cHW58PbT/Satsang-TV.png" group-title="Spiritual",Satsang TV (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-channel_1565694979&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-logo="https://i.postimg.cc/7Yj92pC7/Zee-TV.png" group-title="Entertainment",Zee TV (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-zeetv&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-sarthaktv" tvg-name="Zee Sarthak" tvg-logo="https://i.postimg.cc/SQ3vpZ6Z/Zee-Sarthak-Odia.png" group-title="Entertainment",Zee Sarthak (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-sarthaktv&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna Television" tvg-logo="https://i.postimg.cc/B68BY0VJ/Hare-Krsna-TV.png" group-title="Spiritual",Hare Krsna Television (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-183&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-logo="https://i.postimg.cc/X7gdgqYw/Zee-Classic.png" group-title="Movies",Zee Classic (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-176&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplor HD" tvg-logo="https://i.postimg.cc/yNQ6vqM6/xplorHD.png" group-title="Movies",&xplor HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-209&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-216" tvg-name="Zee Biskope (Zee Bioscope)" tvg-logo="https://i.postimg.cc/zBdrqnzJ/Zee-Biskope.png" group-title="Movies",Zee Biskope (Zee Bioscope) (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-216&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-224" tvg-name="Zee Thirai" tvg-logo="https://i.postimg.cc/GthShNMN/Zee-Thirai.png" group-title="Movies",Zee Thirai (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-224&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-348" tvg-name="Zee Zest HD" tvg-logo="https://i.postimg.cc/k4fm7LN6/Zee-Zest-HD.png" group-title="Lifestyle",Zee Zest HD (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-348&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-241" tvg-name="Zee Picchar" tvg-logo="https://i.postimg.cc/cJ4JN7wJ/Zee-Picchar.png" group-title="Entertainment",Zee Picchar (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-241&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-284" tvg-name="Sadhna TV" tvg-logo="https://i.postimg.cc/Pxyz5QFF/Sadhna.png" group-title="Spiritual",Sadhna TV (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-284&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-285" tvg-name="Ishwar TV" tvg-logo="https://i.postimg.cc/6qv9WYMd/Ishwar.png" group-title="Spiritual",Ishwar TV (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-285&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-394" tvg-name="Zee Chitramandir" tvg-logo="https://i.postimg.cc/26Vqvpkv/Zee-Chitramandir.png" group-title="Movies",Zee Chitramandir (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-394&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383466" tvg-name="Zee Kannada" tvg-logo="https://i.postimg.cc/SRpj2nJ2/Zee-Kannada.png" group-title="Entertainment",Zee Kannada (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383466&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383484" tvg-name="Zee Bangla" tvg-logo="https://i.postimg.cc/hvpgDvxq/Zee-Bangla.png" group-title="Entertainment",Zee Bangla (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383484&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383485" tvg-name="Zee Telugu" tvg-logo="https://i.postimg.cc/L5CKd7K9/Zee-Telugu.png" group-title="Entertainment",Zee Telugu (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383485&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383486" tvg-name="Zee Marathi" tvg-logo="https://i.postimg.cc/05HBs7Ky/Zee-Marathi.png" group-title="Entertainment",Zee Marathi (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383486&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383487" tvg-name="Zee Tamil" tvg-logo="https://i.postimg.cc/YSKSy4zX/Zee-Tamil.png" group-title="Entertainment",Zee Tamil (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383487&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383488" tvg-name="Zee Cinemalu" tvg-logo="https://i.postimg.cc/bv1vqPRN/Zee-Cinemalu.png" group-title="Movies",Zee Cinemalu (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383488&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5383489" tvg-name="Zee Talkies" tvg-logo="https://i.postimg.cc/XY4ZXppB/Zee-Talkies.png" group-title="Movies",Zee Talkies (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5383489&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398761" tvg-name="Aastha" tvg-logo="https://i.postimg.cc/CKZwKgHf/Aastha.png" group-title="Spiritual",Aastha (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398761&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398768" tvg-name="Aastha Telugu" tvg-logo="https://i.postimg.cc/CKZwKgHf/Aastha.png" group-title="Spiritual",Aastha Telugu (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398768&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398770" tvg-name="Aastha Tamil" tvg-logo="https://i.postimg.cc/CKZwKgHf/Aastha.png" group-title="Spiritual",Aastha Tamil (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398770&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398771" tvg-name="Aastha Kannada" tvg-logo="https://i.postimg.cc/CKZwKgHf/Aastha.png" group-title="Spiritual",Aastha Kannada (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398771&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398791" tvg-name="Aastha Gujarati" tvg-logo="https://i.postimg.cc/CKZwKgHf/Aastha.png" group-title="Spiritual",Aastha Gujarati (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398791&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398792" tvg-name="Dharm Sandesh" tvg-logo="https://i.postimg.cc/k5hzBRXn/Dharm-Sandesh.png" group-title="Spiritual",Dharm Sandesh (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398792&e=.m3u8
+#EXTINF:-1 tvg-id="0-9-9z5398793" tvg-name="Aastha Bhajan" tvg-logo="https://i.postimg.cc/dQR6fTPL/Aastha-Bhajan.png" group-title="Spiritual",Aastha Bhajan (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=0-9-9z5398793&e=.m3u8
+#EXTINF:-1 tvg-id="183" tvg-name="Zee News" tvg-logo="https://i.postimg.cc/rp9TwNK7/Zee-News.png" group-title="News",Zee News (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=183&e=.m3u8
+#EXTINF:-1 tvg-id="zee_24kalak" tvg-name="Zee 24 Kalak" tvg-logo="https://i.postimg.cc/SxHvW2zV/Zee24-Kalak.png" group-title="News",Zee 24 Kalak (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_24kalak&e=.m3u8
+#EXTINF:-1 tvg-id="zee_24taas" tvg-name="Zee 24 Taas" tvg-logo="https://i.ibb.co/gmrYBgV/Zee24-Taas.png" group-title="News",Zee 24 Taas (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_24taas&e=.m3u8
+#EXTINF:-1 tvg-id="zee_bharat" tvg-name="Zee Bharat" tvg-logo="https://i.postimg.cc/Pf9Lmd5K/Zee-Bharat.png" group-title="News",Zee Bharat (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_bharat&e=.m3u8
+#EXTINF:-1 tvg-id="zee_24ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tCz1ZwY4/Zee-24-Ghanta.png" group-title="News",Zee 24 Ghanta (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_24ghanta&e=.m3u8
+#EXTINF:-1 tvg-id="zee_up" tvg-name="Zee Uttar Pradesh Uttarakhand" tvg-logo="https://i.postimg.cc/PrhqbywV/Zee-Uttar-Pradesh-Uttarakhand.png" group-title="News",Zee Uttar Pradesh Uttarakhand (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_up&e=.m3u8
+#EXTINF:-1 tvg-id="zee_salaam" tvg-name="Zee Salaam" tvg-logo="https://i.postimg.cc/RVvhBdX5/Zee-Salaam.png" group-title="News",Zee Salaam (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_salaam&e=.m3u8
+#EXTINF:-1 tvg-id="zee_punjab" tvg-name="Zee Punjab Haryana Himachal" tvg-logo="https://i.postimg.cc/Dw31XHQW/Zee-Punjab-Haryana-Himachal.png" group-title="News",Zee Punjab Haryana Himachal (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_punjab&e=.m3u8
+#EXTINF:-1 tvg-id="zee_mp" tvg-name="Zee Madhya Pradesh Chhatisgarh" tvg-logo="https://i.postimg.cc/prXCN8Sf/Zee-Madhya-Pradesh-Chhatisgarh.png" group-title="News",Zee Madhya Pradesh Chhatisgarh (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_mp&e=.m3u8
+#EXTINF:-1 tvg-id="zee_bihar" tvg-name="Zee Bihar Jharkhand" tvg-logo="https://i.postimg.cc/4dWY2Fh1/Zee-Bihar-Jharkhand.png" group-title="News",Zee Bihar Jharkhand (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_bihar&e=.m3u8
+#EXTINF:-1 tvg-id="zee_rajasthan" tvg-name="Zee Rajasthan" tvg-logo="https://i.postimg.cc/7P9X1xsF/Zee-Rajasthan.png" group-title="News",Zee Rajasthan (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_rajasthan&e=.m3u8
+#EXTINF:-1 tvg-id="zee_kalinga" tvg-name="Zee Kalinga" tvg-logo="https://i.ibb.co/XWLdGpb/Zee-Kalinga.png" group-title="News",Zee Kalinga (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_kalinga&e=.m3u8
+#EXTINF:-1 tvg-id="zee_delhi" tvg-name="Zee Delhi NCR Haryana" tvg-logo="https://i.postimg.cc/2jntRFKD/Zee-Delhi-NCR-Haryana.png" group-title="News",Zee Delhi NCR Haryana (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_delhi&e=.m3u8
+#EXTINF:-1 tvg-id="zee_business_english" tvg-name="Zee Business" tvg-logo="https://i.postimg.cc/X7Qnfb3X/Zee-Business.png" group-title="News",Zee Business (Zee)
+https://india-vps.mallutv.site/zee/stream.php?id=zee_business_english&e=.m3u8
