@@ -1,0 +1,1034 @@
+[{
+  "name": "Rasi TV HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240407_1437564760907591116562534.png",
+  "url": "http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8"
+}, {
+  "name": "Rasi Tamil",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240407_1503465921584096719606043.png",
+  "url": "http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8"
+}, {
+  "name": "Rasi Comedy",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240408_0942127817851833380019717.png",
+  "url": "http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/playlist.m3u8"
+}, {
+  "name": "Rasi Cinemax TV",
+  "logo": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png?20101220235006",
+  "url": "http://rasinetworks.in:1935/rasicinemax/rasicinemax.stream_aac/media.m3u8"
+}, {
+  "name": "Rasi Cinema TV",
+  "logo": "https://st3.depositphotos.com/1688079/17310/i/450/depositphotos_173101668-stock-photo-cinema-black-round-button.jpg",
+  "url": "http://rasinetworks.in:1935/rasicinema/rasicinema.stream_aac/media.m3u8"
+}, {
+  "name": "Rasi Action TV",
+  "logo": "https://st2.depositphotos.com/1498528/9192/v/950/depositphotos_91922214-stock-illustration-action-word-icon.jpg",
+  "url": "http://rasinetworks.in:1935/rasiaction/rasiaction.stream_aac/media.m3u8"
+}, {
+  "name": "Rasi Movies",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/04/20240407_1518425091386983341611136.png",
+  "url": "http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8"
+}, {
+  "name": "Rasi Music",
+  "logo": "https://i.ibb.co/5Bj8dWZ/Picsart-23-05-28-13-29-12-254.jpg",
+  "url": "http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/media.m3u8"
+}, {
+  "name": "Rasi Hollywood",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240408_0942518224615220455317164.png",
+  "url": "http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/media.m3u8"
+}, {
+  "name": "Rasi Lifestyle TV",
+  "logo": "https://image.winudf.com/v2/image/aW5kaWFtYXRyaXgucmFzaXR2X3NjcmVlbl8xXzE1MzE1NDE5NTVfMDk1/screen-1.webp?fakeurl=1&type=.webp",
+  "url": "http://rasinetworks.in:1935/rasilifestyle/lifestyle.stream_aac/playlist.m3u8"
+}, {
+  "name": "Rasi Classic",
+  "logo": "https://png.pngtree.com/template/20210511/ourmid/pngtree-modern-classic-logo-design-template-image_522847.png",
+  "url": "http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/media.m3u8"
+}, {
+  "name": "Sana TV",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SANATV_Thumbnail-v2/SANATV_Thumbnail.png",
+  "url": "https://cable75tataplay.akamaized.net/dash/sanatv.mpd"
+}, {
+  "name": "Suriyan Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2107113622067629098400908.png",
+  "url": "https://stream.sscloud7.com/hls/suriyantv.m3u8"
+}, {
+  "name": "Subin Tv",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SUBINTV_Thumbnail-v1/SUBINTV_Thumbnail.png",
+  "url": "https://stream.sscloud7.com/hls/subintv.m3u8"
+}, {
+  "name": "R Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2158174808496927671442016.png",
+  "url": "https://galaxyott.live/hls/rtv.m3u8"
+}, {
+  "name": "NTV",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTVPUT_Thumbnail-v1/NTVPUT_Thumbnail.png",
+  "url": "https://cable85tataplay.akamaized.net/live/ntvpkt/index.mpd"
+}, {
+  "name": "Anandham TV",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ANDMTV_Thumbnail-v1/ANDMTV_Thumbnail.png",
+  "url": "https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd"
+}, {
+  "name": "UTV",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UTVLOC_Thumbnail-v1/UTVLOC_Thumbnail.jpg",
+  "url": "https://cable92tataplay.akamaized.net/live/utv/index.mpd"
+}, {
+  "name": "Dharsan TV",
+  "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHARSANTV_Thumbnail-v1/DHARSANTV_Thumbnail.png",
+  "url": "https://cable91tataplay.akamaized.net/live/dharshantv/index.mpd"
+}, {
+  "name": "Mullai TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/mullaitv.png",
+  "url": "https://ipcloud.live/mullaitv/mullaitv/index.m3u8"
+}, {
+  "name": "Sky Music",
+  "logo": "http://tnm3u.live/icon/tamil/local/skytv.png",
+  "url": "https://ipcloud.live/nvision/skymusic/index.m3u8"
+}, {
+  "name": "Aadhvik TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/aadhvik.png",
+  "url": "http://ipcloud.live:8080/sachintv/aadviktv/index.m3u8"
+}, {
+  "name": "PKT Media",
+  "logo": "http://tnm3u.live/icon/tamil/local/pktmedia.png",
+  "url": "https://ipcloud.live/pktmedia/pktmedia/index.m3u8"
+}, {
+  "name": "MM TV HD",
+  "logo": "http://tnm3u.live/icon/tamil/local/mmtv.png",
+  "url": "https://ipcloud.live/mmtv/mmtvhd/index.m3u8"
+}, {
+  "name": "Amirtha HD",
+  "logo": "http://tnm3u.live/icon/tamil/amirthahd.png",
+  "url": "https://ipcloud.live/amirthatvhd/live/index.m3u8"
+}, {
+  "name": "Thirumalai HD",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_1335324398279775267840408.png",
+  "url": "https://ipcloud.live/thirumalaitv/thirumalaitv/index.m3u8"
+}, {
+  "name": "Sachin Music",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_221843171827643876355363.png",
+  "url": "https://ipcloud.live/sachintv/musichd/index.m3u8"
+}, {
+  "name": "Dhoni TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_2219106701280619230998159.png",
+  "url": "https://ipcloud.live/sachintv/dhonitv/index.m3u8"
+}, {
+  "name": "Sachin Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_2218206136769517062907412.png",
+  "url": "https://ipcloud.live/sachintv/sachintvhd/index.m3u8"
+}, {
+  "name": "Rio Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240402_0221238756828529382335106.png",
+  "url": "https://ipcloud.live/riotv/riotvhd/index.m3u8"
+}, {
+  "name": "Wathanam Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240405_1047218805354670959918688.png",
+  "url": "https://ipcloud.live/wathanamtv/wathanamhd/index.m3u8"
+}, {
+  "name": "Veera Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240330_1043373423456639852726320.png",
+  "url": "https://ipcloud.live/veeratv/veeratvhd/index.m3u8"
+}, {
+  "name": "Durai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240227_2151186415467617602432815.png",
+  "url": "https://ipcloud.live/duraitv/live/index.m3u8"
+}, {
+  "name": "Nila Tv HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_09201262145112699027824.png",
+  "url": "https://ipcloud.live/nilatvnellai/nilahd/index.m3u8"
+}, {
+  "name": "Eagle Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240225_2103236185189714718413089.png",
+  "url": "https://ipcloud.live/eaglemedia/eagletv/index.m3u8"
+}, {
+  "name": "Leo Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240225_205511675245587762198001.png",
+  "url": "https://ipcloud.live/leotv/leotvhd/index.m3u8"
+}, {
+  "name": "Vimal HD Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_0259561649113334556375972.png",
+  "url": "https://ipcloud.live/karthick/vimaltv/index.m3u8"
+}, {
+  "name": "JRP Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1559198344154728595508538.png",
+  "url": "https://ipcloud.live/jrptv/jrptv/index.m3u8"
+}, {
+  "name": "Yogaa Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1456207452394339613836393.png",
+  "url": "https://ipcloud.live/yogaatv/yogaatv/index.m3u8"
+}, {
+  "name": "MSN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_083521413545287336763940.png",
+  "url": "https://ipcloud.live/msntv/msntv/index.m3u8"
+}, {
+  "name": "Karthick Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240402_0240444939853288241948265.png",
+  "url": "https://ipcloud.live/karthick/karthicktv/index.m3u8"
+}, {
+  "name": "Veerali Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_08235948468612976683204.png",
+  "url": "https://ipcloud.live/veerali/veeralitv/index.m3u8"
+}, {
+  "name": "Arasu Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0055318032729628952156574.png",
+  "url": "https://ipcloud.live/ctn/arasutv/index.m3u8"
+}, {
+  "name": "KNR Max Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240229_0905535490505418264312418.png",
+  "url": "https://ipcloud.live/knrtv/knrhd/index.m3u8"
+}, {
+  "name": "Vajra Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_004746751972699276192298.png",
+  "url": "https://ipcloud.live/mmtv/vajratv/index.m3u8"
+}, {
+  "name": "Ashoka HD Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240306_2318315118330179838433975.png",
+  "url": "https://ipcloud.live/asokatv/asokahd/index.m3u8"
+}, {
+  "name": "AS Media",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_0653013044417728360670751.png",
+  "url": "https://ipcloud.live/asmedia/asmedia/index.m3u8"
+}, {
+  "name": "King TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_0648507074090062179557333.png",
+  "url": "https://ipcloud.live/kingtv/kingtv/index.m3u8"
+}, {
+  "name": "Saami TV",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/02/20240226_1554105857472875437555860.png",
+  "url": "https://ipcloud.live/msntv/saamitv/index.m3u8"
+}, {
+  "name": "Malathi HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0928591115771697841458311.png",
+  "url": "https://ipcloud.live/malathitv/live/index.m3u8"
+}, {
+  "name": "Sahara HD TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_2033465791012767947895282.png",
+  "url": "https://ipcloud.live/saharatv/saharatv/index.m3u8"
+}, {
+  "name": "Vani Visuals",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240403_0936351769201621059355755.png",
+  "url": "https://ipcloud.live/vaani/visuals/index.m3u8"
+}, {
+  "name": "Nila TV",
+  "logo": "",
+  "url": "https://ipcloud.live/nilatvsvg/nilatv/index.m3u8"
+}, {
+  "name": "Shalini TV",
+  "logo": "",
+  "url": "http://ipcloud.live:8080/shalinitv/shalinitv/index.m3u8"
+}, {
+  "name": "RTV HD",
+  "logo": "",
+  "url": "https://ipcloud.live/rtvhd/live/index.m3u8"
+}, {
+  "name": "CTN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0258278652726171185606960.png",
+  "url": "https://ipcloud.live/ctn/ctn/index.m3u8"
+}, {
+  "name": "CTN Tamil Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0300384978845464247841023.png",
+  "url": "https://ipcloud.live/ctn/tamil/index.m3u8"
+}, {
+  "name": "CTN Siripu Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0301018033785120166815585.png",
+  "url": "https://ipcloud.live/ctn/sirippu/index.m3u8"
+}, {
+  "name": "CTN NXT Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0301272688392389033753060.png",
+  "url": "https://ipcloud.live/ctn/ctnnxt/index.m3u8"
+}, {
+  "name": "One Movies HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_2112437588903960360710022.png",
+  "url": "https://ipcloud.live/onetv/onemovies/index.m3u8"
+}, {
+  "name": "One Hollywood HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240316_1126324313884021657110601.png",
+  "url": "https://ipcloud.live/onetv/onehollywood/index.m3u8"
+}, {
+  "name": "Veerbox",
+  "logo": "http://tnm3u.live/icon/tamil/veerbox.png",
+  "url": "https://stream.onecloudlive.in/advika/veerbox/index.m3u8"
+}, {
+  "name": "VTR Television",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_13212930020408404338437.png",
+  "url": "http://vtrtelevision.stream.onecloudlive.in:8080/vtrtelevision/vtrhd/index.m3u8"
+}, {
+  "name": "RS Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240707_0837472952130911636800409.png",
+  "url": "https://stream.onecloudlive.in/rstv/rstvhd/index.m3u"
+}, {
+  "name": "ATN HD",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_173212223266608320420225.png",
+  "url": "http://atntv.stream.onecloudlive.in:8080/atntv/atnhd/index.m3u8"
+}, {
+  "name": "City Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240402_0157301074412230758172868.png",
+  "url": "http://citytv.stream.onecloudlive.in/citytv/citytvhd/index.m3u8"
+}, {
+  "name": "Thillai TV",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240614_1733595462397792140813354.png",
+  "url": "http://tcn.stream.onecloudlive.in:8080/tcn/tcn/index.m3u8"
+}, {
+  "name": "Phoenix Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1154427694313931406774079.png",
+  "url": "http://phoenixtv.stream.onecloudlive.in:8080/phoenixtv/phoenixtv/index.m3u8"
+}, {
+  "name": "Music Star TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/05/20240512_0557589065659865238569415.png",
+  "url": "https://stream.onecloudlive.in/musicstartv/musicstartv/index.m3u8"
+}, {
+  "name": "Minnal Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240402_1007193547470980645342706.png",
+  "url": "https://1cloud.digital/minnaltv/minnalhd/index.m3u8"
+}, {
+  "name": "AKASH TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_0707208584282821244963516.png",
+  "url": "https://cdn.onecloudlive.in/akashtv/akashtvhd/index.m3u8"
+}, {
+  "name": "Rich TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240417_2037326916444527633318286.png",
+  "url": "http://richtv.stream.onecloudlive.in/richtv/richtvhd/index.m3u8"
+}, {
+  "name": "Rplus TV",
+  "logo": "https://play-lh.googleusercontent.com/VuGcjfIEogf7W5cztkJKkyCINbL7gG_qRbn8Aoce5Sv15n0oCCglG4WhJtpQEeVpoG4=w480-h960-rw",
+  "url": "https://cdn.onecloudlive.in/rplustv/rplustvhd/index.m3u8"
+}, {
+  "name": "Taital TV",
+  "logo": "",
+  "url": "https://stream.onecloudlive.in/taitaltv/live/index.m3u8"
+}, {
+  "name": "Global TV",
+  "logo": "",
+  "url": "https://stream.onecloudlive.in/globaltv/globaltvhd/index.m3u8"
+}, {
+  "name": "Easan Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240408_2035501474180601170361895.png",
+  "url": "http://live.singamcloud.in/eesantv/eesantv/index.m3u8"
+}, {
+  "name": "Tamil Star Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_2124191016397853733983290.png",
+  "url": "https://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8"
+}, {
+  "name": "Maa Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240225_2058186220089432240587918.png",
+  "url": "http://live.singamcloud.in/maatv/maatv/index.m3u8"
+}, {
+  "name": "L Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2149484582061860084138063.png",
+  "url": "http://live.singamcloud.in/rtv/rtv/index.m3u8"
+}, {
+  "name": "Karthi Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_1139254986730564547984551.png",
+  "url": "http://live.singamcloud.in/karthitv/karthitv/index.m3u8"
+}, {
+  "name": "G Tv",
+  "logo": "https://i.ibb.co/pQH3GXj/Screenshot-2024-08-07-124306-photoaidcom-cropped.png",
+  "url": "http://live.singamcloud.in/gtv/gtv/index.m3u8"
+}, {
+  "name": "Visaka Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240324_1913516558936313560277226.png",
+  "url": "http://live.singamcloud.in/visakatv/visakatv/index.m3u8"
+}, {
+  "name": "SMCV Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240329_1856098805902789330765050.png",
+  "url": "http://singamcloud.in/smcvtv/smcvtv/index.m3u8"
+}, {
+  "name": "CSK TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/csk.png",
+  "url": "http://7starcloud.com:1935/csktv/live/playlist.m3u8"
+}, {
+  "name": "Sri Smart Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240330_1114068029024080061395374.png",
+  "url": "http://hdserver.7starcloud.com:1935/smart/tv/playlist.m3u8"
+}, {
+  "name": "Vinayaga HD Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240330_1010229062871283623357358.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8"
+}, {
+  "name": "Udhayam Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240330_0300052925648569473399889.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/udhayamtv/playlist.m3u8"
+}, {
+  "name": "Durais Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240329_1744378987503181132452340.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/duraistv/playlist.m3u8"
+}, {
+  "name": "Eagle Tv",
+  "logo": "https://i.ibb.co/RYYsW6Y/eagle-photoaidcom-cropped.png",
+  "url": "http://eagle.7starcloud.com:1935/live/eagletv/playlist.m3u8"
+}, {
+  "name": "M TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240327_0606104810715998183217349.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/mtv/playlist.m3u8"
+}, {
+  "name": "S Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/wp-17092425957154457704196425980600.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/stv/playlist.m3u8"
+}, {
+  "name": "MKP Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/wp-17092425948952732600585428669465.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/mkptv/playlist.m3u8"
+}, {
+  "name": "Amman tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240412_1015009081340067072560536.png",
+  "url": "http://media.7starcloud.com:1935/live/ammantv/playlist.m3u8"
+}, {
+  "name": "OM Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2204371310328293289636911.png",
+  "url": "http://omtv.7starcloud.com:1935/omtv/live/live.m3u8"
+}, {
+  "name": "Super Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/05/20240515_1058504998778312750214007.png",
+  "url": "https://stream.onecloudlive.in/starhdtv/starhdtv/index.m3u8"
+}, {
+  "name": "Polimer Channel",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_00234944058179807403246.png",
+  "url": "rtmp://hdserver.7starcloud.com:1935/polimer/live"
+}, {
+  "name": "Ram TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240326_2239321682425511569500215.png",
+  "url": "http://media.7starcloud.com:1935/harimedia/ramtv/playlist.m3u8"
+}, {
+  "name": "7star Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0026202554836848690543423.png",
+  "url": "http://7starcloud.com:1935/live/7star/playlist.m3u8"
+}, {
+  "name": "CTN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240317_0621582106795985217388443.png",
+  "url": "http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8"
+}, {
+  "name": "Sri Krishna Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_1937278739419446045321393.png",
+  "url": "http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8"
+}, {
+  "name": "Thirumagal Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0920178224610300763181208.png",
+  "url": "http://ttv.7starcloud.com:1935/thirumagal/tv/playlist.m3u8"
+}, {
+  "name": "RC Television",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_104945123811310279267768.png",
+  "url": "http://rctv.7starcloud.com:1935/rctv/live/playlist.m3u8"
+}, {
+  "name": "KCTN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0430295020070800902055299.png",
+  "url": "http://ttv.7starcloud.com:1935/kctn/tv/playlist.m3u8"
+}, {
+  "name": "Sri Krishna Tv (Erode)",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_1937278739419446045321393.png",
+  "url": "http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8"
+}, {
+  "name": "VCTN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0451574292623150284952506.png",
+  "url": "http://ttv.7starcloud.com:1935/vctn/tv/playlist.m3u8"
+}, {
+  "name": "JHP Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0428126497187039134008538.png",
+  "url": "http://jhptv.7starcloud.com:1935/live/jhptv/playlist.m3u8"
+}, {
+  "name": "Vaanavil Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240317_0009568734016209579420980.png",
+  "url": "http://ttv.7starcloud.com:1935/vaanavil/tv/playlist.m3u8"
+}, {
+  "name": "Krishna Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240318_2313304124091249313761458.png",
+  "url": "http://krishnatv.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8"
+}, {
+  "name": "Nellai Times Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240225_2108398789743320451927008.png",
+  "url": "http://indiamatrix.in/nellaitimestv/nellaitimestv.m3u8"
+}, {
+  "name": "K channel",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240324_2046328798385470697522137.png",
+  "url": "http://indiamatrix.in/kchannel/kchannel.m3u8"
+}, {
+  "name": "Bama HD Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_025831756712452387924318.png",
+  "url": "http://livematrix.in/bamahd/bamahd.m3u8"
+}, {
+  "name": "Sangamam Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240405_2015377171398021021716184.png",
+  "url": "http://livematrix.in/sangamamtv/sangamamtv.m3u8"
+}, {
+  "name": "Tamil Oli",
+  "logo": "https://www.tamilolitv.com/uploads/logo/logo_5cdb296cd50d4.png",
+  "url": "https://live.skystream.in/live/tamilolinew/index.m3u8"
+}, {
+  "name": "King TV",
+  "logo": "https://yt3.googleusercontent.com/S1hDzShgRawE6AmslDgMhlgM0pTRJRJWU1yZ-5-sL3a1QtyzJFPkOUBCYHQJnsQ4_mOf1jiby3w=s900",
+  "url": "https://live.skystream.in/live/kingtvnamakkal/index.m3u8"
+}, {
+  "name": "NO1 TV",
+  "logo": "https://assets-galaxyott.s3.ap-south-1.amazonaws.com/contant/thumbnail/a3b48e13-0ecd-45aa-9811-3968e9cc5152.webp",
+  "url": "https://live.skystream.in/live/no1tv/index.m3u8"
+}, {
+  "name": "NTN TV",
+  "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lCcP9WoRnwBT9fQrIXE5tOLxU4RCybSMmMV_08feRBLA=s900",
+  "url": "https://live.skystream.in/live/ntntv/index.m3u8"
+}, {
+  "name": "YN Tamil TV",
+  "logo": "https://play-lh.googleusercontent.com/FeJTKIfw6kDqXUKsC_3IozBeVNFnx8b1mpBywEeWKkUCKohREde0L3BbvNhK_nEqX7BP=w240-h480-rw",
+  "url": "https://live.skystream.in/live/ytamil4561/index.m3u8"
+}, {
+  "name": "Rainbow TV",
+  "logo": "https://play-lh.googleusercontent.com/Eapxu6L5_J4aGmI3ZEUscBPXLbvRqLDsAEidxIdNWit-VzhZoPpzQgQVhQoHc53i_A=w480-h960-rw",
+  "url": "https://live.skystream.in/live/rainbowtv/index.m3u8"
+}, {
+  "name": "HARI TV",
+  "logo": "https://play-lh.googleusercontent.com/0fctUiLUzaAXc2IZUj6E0t5n_1j2yEyOgDx-Vpvywten7S0UP9UJXnJyKtUL8KRrE3U=w240-h480-rw",
+  "url": "https://live.skystream.in/live/haritv/index.m3u8"
+}, {
+  "name": "Kavin TV",
+  "logo": "",
+  "url": "https://live.skystream.in/live/kavintv/index.m3u8"
+}, {
+  "name": "V TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/vtv.png",
+  "url": "https://server.notvstream.in/vtv/vtv.m3u8"
+}, {
+  "name": "Kavin Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240325_1916271182493886783253891.png",
+  "url": "http://198.144.149.206:8080/NOTV/KAVINTV/tracks-v1a1/mono.m3u8?token=GTR"
+}, {
+  "name": "TTV",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0011306147873118375311901.png",
+  "url": "http://198.144.149.206:8080/NOTV/TTV/index.m3u8?token=GTR"
+}, {
+  "name": "Sai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240316_0900188433404147671876624.png",
+  "url": "http://198.144.149.206:8080/NOTV/SAITVMD/tracks-v1a1/mono.m3u8?token=GTR"
+}, {
+  "name": "V Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240316_0854326596271193247655416.png",
+  "url": "http://198.144.149.206:8080/NOTV/VTV/tracks-v1a1/mono.m3u8?token=GTR"
+}, {
+  "name": "Tamil Tv",
+  "logo": "https://i.ibb.co/ZT6gqvc/unnamed-1-photoaidcom-cropped.png",
+  "url": "http://198.144.149.206:8080/NOTV/TAMILTV/index.m3u8?token=GTR"
+}, {
+  "name": "U Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240316_0904062411139227642657182.png",
+  "url": "http://notvstream.in/utv/utv.m3u8"
+}, {
+  "name": "I World TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240222_1356268705171385431914312.png",
+  "url": "http://198.144.149.206:8080/NOTV/IWORLDHD/index.m3u8?token=GTR"
+}, {
+  "name": "Kanchi Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_001256623113914145539942.png",
+  "url": "http://198.144.149.206:8080/NOTV/KANCHITV/index.m3u8?token=GTR"
+}, {
+  "name": "kanchi Media",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0013388576810840645126860.png",
+  "url": "http://198.144.149.206:8080/NOTV/KANCHIMEDIA/index.m3u8?token=GTR"
+}, {
+  "name": "Anandham Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_211851393436765620053037.png",
+  "url": "http://198.144.149.206:8080/NOTV/ANANDAMTV/index.m3u8?token=GTR"
+}, {
+  "name": "Ezhil Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/wp-17099274080036153872233203114333.png",
+  "url": "http://198.144.149.206:8080/NOTV/EZHILTV/index.m3u8?token=GTR"
+}, {
+  "name": "Yaal Tv",
+  "logo": "https://i.ibb.co/CP563L2/1000140745-modified.png",
+  "url": "http://198.144.149.206:8080/NOTV/YAALTV/index.m3u8?token=GTR"
+}, {
+  "name": "Annai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240308_1340345651388991683801665.png",
+  "url": "http://198.144.149.206:8080/NOTV/ANNAITV/index.m3u8?token=GTR"
+}, {
+  "name": "Tirupur Voice Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240227_2153194527281911044664809.png",
+  "url": "http://notvstream.in/tirupurvoicetv/tirupurvoicetv.m3u8"
+}, {
+  "name": "Aarthi Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_0832155366153724501071724.png",
+  "url": "http://198.144.149.206:8080/NOTV/AARTHITV/index.m3u8?token=GTR"
+}, {
+  "name": "N Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240306_2305068092467652869787344.png",
+  "url": "http://198.144.149.206:8080/NOTV/NTVTEM/index.m3u8?token=GTR"
+}, {
+  "name": "9 Star",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_1939034405774217808613895.png",
+  "url": "http://198.144.149.206:8080/NOTV/NINETV/index.m3u8?token=GTR"
+}, {
+  "name": "Sky Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_125109641119336023996138.png",
+  "url": "http://198.144.149.206:8080/NOTV/SKYTV/index.m3u8?token=GTR"
+}, {
+  "name": "RR Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_013308355819138525226799.png",
+  "url": "http://notvstream.in/rrtv/rrtv.m3u8"
+}, {
+  "name": "Brightrose TV",
+  "logo": "",
+  "url": "http://server.notvstream.in/brightsimrosetv/brightsimrosetv.m3u8"
+}, {
+  "name": "Vasan TV",
+  "logo": "https://i.ibb.co/4fq70L3/cropped-image.png",
+  "url": "http://live.applelive.in/vasantv/vasantv.m3u8"
+}, {
+  "name": "Star HD",
+  "logo": "https://i.ibb.co/bgWKDMS/unnamed-photoaidcom-cropped.png",
+  "url": "http://applelive.in/startv/startv.m3u8"
+}, {
+  "name": "Amma Tv",
+  "logo": "https://i.ibb.co/Gc0Lg59/image-CBFCOpm-Dy-transformed-modified.png",
+  "url": "http://applelive.in/ammatv/ammatv.m3u8"
+}, {
+  "name": "Sha Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240807_0932597200407677878651042.png",
+  "url": "http://applelive.in/shatv/shatv.m3u8"
+}, {
+  "name": "PR Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1935237413617896258655107.png",
+  "url": "http://applelive.in/prtv/prtv.m3u8"
+}, {
+  "name": "Thalapathy Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_193440751344494344473689.png",
+  "url": "http://applelive.in/thalapathytv/thalapathytv.m3u8"
+}, {
+  "name": "Vasantham Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1934016607986720592125187.png",
+  "url": "http://applelive.in/vasanthamtv/vasanthamtv.m3u8"
+}, {
+  "name": "Suryan Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1933117407168787568715691.png",
+  "url": "http://applelive.in/suryantv/suryantv.m3u8"
+}, {
+  "name": "S Max UHD",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1234424766834015397778281.png",
+  "url": "http://applelive.in/smaxtv/smaxtv.m3u8"
+}, {
+  "name": "Vasanth Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/08/20240806_1229143149359611319687383.png",
+  "url": "http://live.applelive.in/vasanthtv/vasanthtv.m3u8"
+}, {
+  "name": "Kathir TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0059154570795803220664691.png",
+  "url": "http://jeyson.applelive.in/jjmax/jjmax.m3u8"
+}, {
+  "name": "Endhiran Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0905422606673326774585906.png",
+  "url": "http://applelive.in/enthirantv/enthirantv.m3u8"
+}, {
+  "name": "Garudan Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0057516217128450988478871.png",
+  "url": "http://garudatv.applelive.in/hls/garudantv.m3u8"
+}, {
+  "name": "Win Vision",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0118467600566896372655832.png",
+  "url": "http://applelive.in/winvisiontv/winvisiontv.m3u8"
+}, {
+  "name": "Image Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0119211564073036751123273.png",
+  "url": "http://eagletv.applelive.in/aonetv/aonetv.m3u8"
+}, {
+  "name": "Cheran Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0057248584349448265842086.png",
+  "url": "http://ser2.applelive.in/cherantv/cherantv.m3u8"
+}, {
+  "name": "Digital Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_005100115014949188833662.png",
+  "url": "http://applelive.in/digitaltv/digitaltv.m3u8"
+}, {
+  "name": "Apple TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0056194718769074512051348.png",
+  "url": "http://applelive.in/appletv/appletv.m3u8"
+}, {
+  "name": "Riya Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0058143761656163872202221.png",
+  "url": "http://applelive.in/riyatv/riyatv.m3u8"
+}, {
+  "name": "Jeyson Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0058455613013844568255331.png",
+  "url": "http://jeyson.applelive.in/jeysontv/jeysontv.m3u8"
+}, {
+  "name": "Dark TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240308_1344203293400314281004608.png",
+  "url": "http://applelive.in/darktv/darktv.m3u8"
+}, {
+  "name": "GCV Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_185859168162128473962258.png",
+  "url": "http://applelive.in/gcv/gcv.m3u8"
+}, {
+  "name": "Hai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240308_134829212056601576797114.png",
+  "url": "http://live.applelive.in/haitv/haitv.m3u8"
+}, {
+  "name": "JC Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240224_0843518708046141154889695.png",
+  "url": "http://applelive.in/jctv/jctv.m3u8"
+}, {
+  "name": "G Media",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240308_1346371023231073137635248.png",
+  "url": "http://applelive.in/gmedia/gmedia.m3u8"
+}, {
+  "name": "Suriya Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240317_1043527339753810629982378.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/suriya/suriya.m3u8"
+}, {
+  "name": "Udhayam Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240317_0936251793115618772056183.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8"
+}, {
+  "name": "Sunstar",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240313_1346563934669474753084659.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8"
+}, {
+  "name": "MP TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240327_0537416876478957766818505.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8"
+}, {
+  "name": "SRV TV",
+  "logo": "https://i.ibb.co/02BRjbm/image-0-Ly-n-KSJ-transformed-photoaidcom-cropped.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8"
+}, {
+  "name": "SLS TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_0416082466851709010682947.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8"
+}, {
+  "name": "VDS Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1209052675845711979219484.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/vds/vds.m3u8"
+}, {
+  "name": "Selfie Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240309_0102092909771632092684686.png",
+  "url": "http://nextgeninfotech.ddns.net:8080/selfiemedia/selfiemedia.m3u8"
+}, {
+  "name": "MDN TV",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240327_0610292164648413946528873.png",
+  "url": "https://account18.livebox.co.in/IMAGESEQUENCEhls/live.m3u8"
+}, {
+  "name": "Annai Tv Chennai",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240314_0432591689491783065882839.png",
+  "url": "http://annaitv.livebox.co.in/annailivehls/live.m3u8"
+}, {
+  "name": "Irratai Pathai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240315_2114196845832868490079177.png",
+  "url": "https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8"
+}, {
+  "name": "King Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240227_2149073569143494629611516.png",
+  "url": "https://account26.livebox.co.in/kinghls/live.m3u8"
+}, {
+  "name": "Vidiyal Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240301_0038213835560881142704349.jpg",
+  "url": "https://account11.livebox.co.in/vidyaltvhls/live.m3u8"
+}, {
+  "name": "Harish Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/06/20240621_0224205030319816937382739.png",
+  "url": "http://harishtv.phoenixcreations.online:1935/harishtv/harishtv/playlist.m3u8"
+}, {
+  "name": "N Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1102107808684431871144503.png",
+  "url": "http://ntv.phoenixcreations.online:1935/ntv/ntv/playlist.m3u8"
+}, {
+  "name": "Anu Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240412_2209299004890499440054628.png",
+  "url": "http://anutv.phoenixcreations.online:1935/anutv/anutv/chunklist_w1925547055.m3u8"
+}, {
+  "name": "Thendral Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1455233503130933789842529.png",
+  "url": "http://almthendraltv.phoenixcreations.online:1935/almthendraltv/almthendraltv/playlist.m3u8"
+}, {
+  "name": "Sendhur Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240226_1452586755735113529101170.png",
+  "url": "http://senthurtv.phoenixcreations.online:1935/senthurtv/senthurtv/playlist.m3u8"
+}, {
+  "name": "SAR Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1359211066685104800433990.png",
+  "url": "http://sartv.phoenixcreations.online:1935/sartv/sartv/playlist.m3u8"
+}, {
+  "name": "SAR 2 TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1699188473.jpg",
+  "url": "http://sartv2.phoenixcreations.online:1935/sartv2/sartv2/playlist.m3u8"
+}, {
+  "name": "Aadhavan Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0933223978947985029830631.png",
+  "url": "http://aadhavantamiltv.phoenixcreations.online:1935/aadhavantamiltv/aadhavantamiltv/playlist.m3u8"
+}, {
+  "name": "APS Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240408_2359517641337289293707269.png",
+  "url": "http://apstv.phoenixcreations.online:1935/apstv/apstv/chunklist_w1163481813.m3u8"
+}, {
+  "name": "Top Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1357199012943034601188061.png",
+  "url": "http://toptv.phoenixcreations.online:1935/toptv/toptv/playlist.m3u8"
+}, {
+  "name": "Phoenix Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1154427694313931406774079.png",
+  "url": "http://phoenix.phoenixcreations.online:1935/phoenix/phoenix/index.m3u8"
+}, {
+  "name": "SS Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1216545136253521281095083.png",
+  "url": "http://sstv.phoenixcreations.online:1935/sstv/sstv/playlist.m3u8"
+}, {
+  "name": "Sky Media",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1659308817832886575825036.png",
+  "url": "http://skymedia.phoenixcreations.online:1935/skymedia/skymedia/playlist.m3u8"
+}, {
+  "name": "Sasi Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240317_1556234352065817057057468.png",
+  "url": "http://sasitv.phoenixcreations.online:1935/sasitv/sasitv/chunklist_w1757886321.m3u8"
+}, {
+  "name": "Mithra Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240328_0722482818896276821046988.png",
+  "url": "http://mithratv.phoenixcreations.online:1935/mithratv/mithratv/playlist.m3u8"
+}, {
+  "name": "Roja TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1725687538.jpg",
+  "url": "http://rojatv.phoenixcreations.online:1935/rojatv/rojatv/playlist.m3u8"
+}, {
+  "name": "Khila TV",
+  "logo": "https://play-lh.googleusercontent.com/x49J5cH-0yB4DYuF7gPv2ADihZ8Dg_VveTSTgnWflheHxzDiJMgt1wNUmvAvWGSicDk=w480-h960-rw",
+  "url": "http://khilatv.phoenixcreations.online:1935/khilatv/khilatv/playlist.m3u8"
+}, {
+  "name": "Vetri Tv",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1723549294.png",
+  "url": "http://vetritv.phoenixcreations.online:1935/vetritv/vetritv/playlist.m3u8"
+}, {
+  "name": "Lime TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1723549243.png",
+  "url": "http://lime.phoenixcreations.online:1935/lime/lime/playlist.m3u8"
+}, {
+  "name": "Madhan TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1721639629.png",
+  "url": "http://madhantv.phoenixcreations.online:1935/madhantv/madhantv/playlist.m3u8"
+}, {
+  "name": "Velan TV",
+  "logo": "http://hellophoenix.online/v2/015velantv/assets/aboutus/phoenixtv-profileavathar-phoenixtv1702710142.png",
+  "url": "http://velantv.phoenixcreations.online:1935/velantv/velantv/playlist.m3u8"
+}, {
+  "name": "C TV",
+  "logo": "https://play-lh.googleusercontent.com/X_vIkiQs3knoHDyeyTFs35jyICkM8c_s4jqW3pcC49PsnOapF2gtoMGzez4XkQtmU7k=w480-h960-rw",
+  "url": "http://ctv.phoenixcreations.online:1935/ctv/ctv/playlist.m3u8"
+}, {
+  "name": "Subin TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1717995753.png",
+  "url": "http://subintv.phoenixcreations.online:1935/subintv/subintv/playlist.m3u8"
+}, {
+  "name": "Jose TV",
+  "logo": "https://i.ibb.co/Jnc9JbZ/Josetv.png",
+  "url": "http://josetv.phoenixcreations.online:1935/josehls/josehls/playlist.m3u8"
+}, {
+  "name": "Urchagam TV",
+  "logo": "https://bmcloud.in/apis/apps/bmcloudimages/urchagamtv.png",
+  "url": "https://rtmp.bmlive.net/bms/urchagamtv/index.m3u8"
+}, {
+  "name": "RK Tv HD",
+  "logo": "https://play-lh.googleusercontent.com/mv4jpeF5UsjK42qemWFUefrTsj5EAr6USSr1ZKI8Sm0HtSiowA5ha5BbcGsWM6mXC4Mp=w480-h960-rw",
+  "url": "http://rktv.phoenixcreations.online:1935/rktv/rktv/playlist.m3u8"
+}, {
+  "name": "Irattaipaathai TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1719544699.png",
+  "url": "http://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8"
+}, {
+  "name": "Jayam TV",
+  "logo": "https://hellophoenix.online/v2/001phoenixtv/assets/tvchannels/phoenixtv1699188243.png",
+  "url": "https://ipcloud.live/jayamtv/jayamtv/tracks-v1a1/mono.m3u8"
+}, {
+  "name": "PCV TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/pcv-channel.png",
+  "url": "http://pcvtv.sscloud7.com/live/livepcv/index.m3u8"
+}, {
+  "name": "Malligai TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/malligai.png",
+  "url": "https://server.sscloud7.in/live/malligai/index.m3u8"
+}, {
+  "name": "Devi TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/devitv.png",
+  "url": "https://stream.sscloud7.in/live/devitv/index.m3u8"
+}, {
+  "name": "SS HD",
+  "logo": "http://tnm3u.live/icon/tamil/local/sstv.png",
+  "url": "https://server.sscloud7.in/live/sshd/index.m3u8"
+}, {
+  "name": "Rock TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/rocktv.png",
+  "url": "https://server.sscloud7.in/live/rocktv/index.m3u8"
+}, {
+  "name": "Vinoth TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/vinothtv.png",
+  "url": "https://server.sscloud7.in/live/vinothtv/index.m3u8"
+}, {
+  "name": "RK Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2107466641312731367100838.png",
+  "url": "https://sscloud7.com/hls/rktv.m3u8"
+}, {
+  "name": "JR Malar Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2103486813971942041672387.png",
+  "url": "https://stream.sscloud7.in/live/malartv/index.m3u8"
+}, {
+  "name": "Malar Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2104134158722555953030217.png",
+  "url": "https://sscloud7.com/hls/malartv.m3u8"
+}, {
+  "name": "Visil Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400137414367413094452256.png",
+  "url": "https://stream.sscloud7.in/live/vishiltv1/index.m3u8"
+}, {
+  "name": "Mayuri Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png",
+  "url": "https://server.sscloud7.in/mayuritvtvl/mayuritvtvl/index.m3u8"
+}, {
+  "name": "Visil 2 HD",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1400374822812587750471236.png",
+  "url": "https://stream.sscloud7.in/live/vishiltv2/index.m3u8"
+}, {
+  "name": "T24 Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1401166436562038871865819.png",
+  "url": "https://live1.sscloud7.com/hls/t24tv.m3u8"
+}, {
+  "name": "Aasai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_1654089124960047479141676.png",
+  "url": "https://server.sscloud7.in/aasaitv/aasaitv/index.m3u8"
+}, {
+  "name": "Anandham Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2106083859978573452578119.png",
+  "url": "https://live1.sscloud7.com/hls/anandhamtv.m3u8"
+}, {
+  "name": "Smiley Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2106393700205419245700865.png",
+  "url": "https://live1.sscloud7.com/hls/smileytv.m3u8"
+}, {
+  "name": "Isai Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2108146971581320837669712.png",
+  "url": "http://server.sscloud7.in/isaihd/isaihd/index.m3u8"
+}, {
+  "name": "King Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_210844247095261849834286.png",
+  "url": "http://kingtv.sscloud7.in/kingtv/kingtv/index.m3u8"
+}, {
+  "name": "Maran Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2109332713009370044906407.png",
+  "url": "https://server.sscloud7.in/marantv/marantv/index.m3u8"
+}, {
+  "name": "Om Shakthi Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240303_2110057120112825406407419.png",
+  "url": "https://live1.sscloud7.com/hls/omsakthitv.m3u8"
+}, {
+  "name": "Surya HD Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240305_0902541690314621833418150.png",
+  "url": "https://stream.sscloud7.in/live/suryatv/playlist.m3u8"
+}, {
+  "name": "Vinayaga TV",
+  "logo": "",
+  "url": "https://stream.sscloud7.in/live/vinayagatv/index.m3u8"
+}, {
+  "name": "Thendral TV",
+  "logo": "",
+  "url": "https://sscloud7.com/live/thendraltv/index.m3u8"
+}, {
+  "name": "MP TV",
+  "logo": "",
+  "url": "https://stream.sscloud7.in/live/mptv/index.m3u8"
+}, {
+  "name": "Raghul Tv",
+  "logo": "",
+  "url": "http://alk.sscloud7.in:1935/live/raghultv/index.m3u8"
+}, {
+  "name": "AK TV HD",
+  "logo": "",
+  "url": "https://server2.iptelevision.in/aktvhd.m3u8"
+}, {
+  "name": "Tamil Aaram TV",
+  "logo": "",
+  "url": "https://thamilaaramtv24-hls.secdn.net/thamilaaramtv24-channel/play/ThamilaaramTV.smil/playlist.m3u8"
+}, {
+  "name": "Tiger TV",
+  "logo": "",
+  "url": "https://iptv7.iptv.pics/hls/vktigr_src/index.m3u8"
+}, {
+  "name": "Surya Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_1226146801845317456848677.png",
+  "url": "https://galaxyott.live//hls//suryatv.m3u8"
+}, {
+  "name": "Paavai Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240712_1229141764311506036112795.png",
+  "url": "http://paavaitv.sritv.co.in:1935/paavaitv/live/sri_network_google_firebase_bandwidth_hlsplay.m3u8"
+}, {
+  "name": "Sukrishwar TV",
+  "logo": "http://tnm3u.live/icon/tamil/local/sukrishwartv.png",
+  "url": "http://brightmeltech.in/sukrishwaratv/sukrishwaratv.m3u8"
+}, {
+  "name": "GSJK Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257505016823489526479014.png",
+  "url": "http://brightmeltech.in/gsjktv/gsjktv.m3u8"
+}, {
+  "name": "Raja Tv",
+  "logo": "https://tataprime.wordpress.com/wp-content/uploads/2024/07/20240718_0257158735407588855150609.png",
+  "url": "http://brightmeltech.in/rajatv/rajatv.m3u8"
+}, {
+  "name": "Akash Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240328_0707478441275345469539566.png",
+  "url": "https://account2.livebox.co.in/AkashTvhls/live.m3u8"
+}, {
+  "name": "Thalaa Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240402_0244113518845900804817006.png",
+  "url": "https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8"
+}, {
+  "name": "Southern Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240331_0037217658317852544226240.png",
+  "url": "https://player.mslivestream.net/mslive/9fe7c84b8253e88099d47237e0b7367c.sdp/playlist.m3u8"
+}, {
+  "name": "Jayam Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240316_0917083041332261609729794.png",
+  "url": "http://103.147.60.4:1935/live/jayamtv/index.m3u8"
+}, {
+  "name": "PCN Channel",
+  "logo": "https://tataprime.files.wordpress.com/2024/03/20240307_2322551345866312332877105.png",
+  "url": "http://103.98.62.134:8080/gtv/gtv.m3u8"
+}, {
+  "name": "Royal Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/04/20240409_0824211724653237984049786.png",
+  "url": "https://streamspace.live/hls/jptv/livestream.m3u8"
+}, {
+  "name": "RCN Tv",
+  "logo": "https://tataprime.files.wordpress.com/2024/02/20240223_0641135483463871761974250.png",
+  "url": "https://live.we2live.in/rcntv/rcntv/playlist.m3u8"
+}, {
+  "name": "3 TAMIL",
+  "logo": "https://i.imgur.com/WfAU7pB.png",
+  "url": "https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8"
+}, {
+  "name": "Meiveli Tv",
+  "logo": "https://tse2.mm.bing.net/th?id=OIP.3uzlVI3ikugCqmf6_2ay_QHaEK&pid=Api&P=0&h=220",
+  "url": "https://knvideo.live/event/meivelitv/tracks-v1a1/mono.m3u8"
+}, {
+  "name": "Monara Tv",
+  "logo": "",
+  "url": "https://jk3lz8xklw79-hls-live.5centscdn.com/lpl/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8"
+}, {
+  "name": "Aathavan TV",
+  "logo": "https://s4v4r3k4.rocketcdn.me/wp-content/uploads/2020/01/athavan.jpg",
+  "url": "https://tll-local.okmthiru04.workers.dev/athavantv"
+}, {
+  "name": "Sooriyan TV",
+  "logo": "http://4.bp.blogspot.com/-NrERiata954/YEBS8j5r78I/AAAAAAAABU4/1BNo8cCPdwQyutq0D6Z7G1Ew21WAeZzhwCK4BGAYYCw/s1600/Sooriyantv%2BNews%2Blogo_1.png",
+  "url": "https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-104/5pwp-9xg9/playlist.m3u8"
+}, {
+  "name": "MASS TAMIL HD TV",
+  "logo": "https://www.247tamilradios.com/storage/images/tvs/b1dbe70aee6dc10b376d5a4c4533c54f.png",
+  "url": "http://tv2.massstream.net/Masstv/index.m3u8"
+}, {
+  "name": "Vasantham TV",
+  "logo": "https://www.vasantham.lk/wp-content/uploads/2016/07/vasantham_logo_224x187.png",
+  "url": "https://222103-hls.akamaized.net/668828a00bf80aa436254876/live_2cdb4ef03c1311efadcf7986aa245789/tracks-v1a1/rewind-3600.m3u8"
+}, {
+  "name": "TVI HD TV",
+  "logo": "https://photos.live-tv-channels.org/tv-logo/tamil-vision-4755-150x112.jpg",
+  "url": "https://live.tamilvision.tv/TVI/HD/chunks.m3u8?nimblesessionid=229646946"
+}, {
+  "name": "GTA Tamil",
+  "logo": "http://gtavideo.com/wp-content/uploads/2021/03/GTA-Tamil-Logo.png",
+  "url": "http://142.44.213.115:8888/gta_tamil/index.m3u8"
+}, {
+  "name": "Analai Express cinema HD",
+  "logo": "https://www.247tamilradios.com/storage/images/tvs/a7d4abb6715ce07a2df61628caebb0b8.png",
+  "url": "http://8kguru.tv:8081/montamilcine/tvhd/playlist.m3u8"
+}, {
+  "name": "EET TV",
+  "logo": "https://tv.eettv.com/img/logo.42bc01ec.png",
+  "url": "https://live.streamjo.com/eetlive/eettv.m3u8"
+}
+]
