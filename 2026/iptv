@@ -3,7 +3,7 @@
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/Asianet-HD-Channel-Logo.jpg" group-title="Entertainment", Asianet HD
 http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/98891.ts
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Entertainment", Asianet Middleeast
-http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_MIDDLE-EAST-in/index.m3u8?token=
+http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/98892.ts
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg" group-title="Entertainment", Asianet Plus
 http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg" group-title="Entertainment", Surya HD
