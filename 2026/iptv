@@ -16,11 +16,20 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9027.ts
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam", Surya Comedy
-https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9033.ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Malayalam", Surya Movies
-https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/135577.ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
 #EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="MUSIC", Surya Music
-https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9038.ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://i.postimg.cc/QMWKGjYF/1.png" group-title="Malayalam", Zee Keralam HD
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/98895.ts
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/dtLqS4x0/1.webp" group-title="Malayalam", Mazhavil Manorama HD
