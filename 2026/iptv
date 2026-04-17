@@ -11,7 +11,10 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/375325.ts
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://i.postimg.cc/4dHVBfGS/1.png" group-title="Malayalam", Asianet Plus
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9027.ts
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam", Surya HD
-https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/98888.ts
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam", Surya Comedy
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9033.ts
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Malayalam", Surya Movies
@@ -25,8 +28,8 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/98895.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
 https://login.bheem.tv/bpk-tv/22020/output/index.mpd
-#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Malayalam", Flowers
-http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.postimg.cc/9FVkDMyg/1.png" group-title="Malayalam", Flowers
+https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9030.ts
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png" group-title="Malayalam", ANAND TV
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id=" tvg-name="Dream TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15533605_ico.png?ts=1634452806" group-title="Malayalam", Dream TV
