@@ -21,7 +21,10 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9038.ts
 #EXTINF: -1 tvg-id="Zee.Keralam.HD.in" tvg-name="Zee Keralam HD" tvg-logo="https://i.postimg.cc/QMWKGjYF/1.png" group-title="Malayalam", Zee Keralam HD
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/98895.ts
 #EXTINF: -1 tvg-id="Mazhavil.Manorama.HD.in" tvg-name="Mazhavil Manorama HD" tvg-logo="https://i.postimg.cc/dtLqS4x0/1.webp" group-title="Malayalam", Mazhavil Manorama HD
-https://login.bheem.tv/bpk-tv/22020/output/index.mpd?|drmScheme=clearkey&drmLicense=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
+https://login.bheem.tv/bpk-tv/22020/output/index.mpd
 #EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="Malayalam", Flowers
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png" group-title="Malayalam", ANAND TV
