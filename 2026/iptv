@@ -111,6 +111,16 @@ https://livetv.sinuostech.com/myfintv/index.m3u8?dvr
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
 
+#EXTINF: -1 tvg-id="" tvg-name="Koickal News" tvg-logo="https://i.postimg.cc/8C25BgVK/1.png" group-title="Malayalam Local", Koickal News
+http://applelive.in/koickalnews/koickalnews.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kannur Vision" tvg-logo="https://i.postimg.cc/L6ncRYPY/1.png" group-title="Malayalam Local", Kannur Vision
+https://stream.logichost.in/kannurvision/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="VCV Vision" tvg-logo="https://i.ibb.co/2YhMvyPz/VCVVision.jpg" group-title="Malayalam Local", VCV Vision
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="V9 News" tvg-logo="https://i.postimg.cc/sgnGWLX0/1.webp" group-title="Malayalam Local", V9 News
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCTV News" tvg-logo="https://i.ibb.co/v4DPKL1B/CCTVNEWS.jpg" group-title="Malayalam Local", CCTV News
+https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
 
 
 
@@ -127,11 +137,6 @@ https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png" group-title="Malayalam",Janapriyam
-http://jo123.biz/jweb/m3u8.php?c=Janapriyam_News&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15993713_ico.png?ts=1634655516" group-title="Malayalam",Magnavision
-https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Media4" tvg-logo="https://i.imgur.com/IDwBiPa.png" group-title="LOCAL CABLE", Media4
 http://live.singamcloud.in:1935/media4/media4/chunklist_w394846947.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCV" tvg-logo="https://i.imgur.com/pYbJTMa.png" group-title="LOCAL CABLE", TCV
