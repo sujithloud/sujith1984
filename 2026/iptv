@@ -4,10 +4,8 @@
 http://starshare.net:80/live/CVCVCVCV/CV1CV1CV1/98891.ts
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://i.postimg.cc/jjVfgV84/1.webp" group-title="Malayalam", Asianet Middleeast
 https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
-#EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://i.postimg.cc/PrPzwg4j/1.webp" group-title="Malayalam", Asianet Movies
+#EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies HD" tvg-logo="https://i.postimg.cc/PrPzwg4j/1.webp" group-title="Malayalam", Asianet Movies HD
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/177842.ts
-#EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies" tvg-logo="https://i.postimg.cc/PrPzwg4j/1.webp" group-title="Malayalam", Asianet Movies USA
-https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/375325.ts
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://i.postimg.cc/4dHVBfGS/1.png" group-title="Malayalam", Asianet Plus
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9027.ts
 #EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_HD.png" group-title="Malayalam", Surya HD
@@ -15,17 +13,17 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9027.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eae838ccd75d4a1fbff6fd7dd1c97780:8259ce0c112725a4d2c94d154207425f
 https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
-#EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam", Surya Comedy
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
-https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
 #EXTINF: -1 tvg-id="Surya.Movies.in" tvg-name="Surya Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Movies.png" group-title="Malayalam", Surya Movies
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6b67bccef7024f2da29b42e10dc13f89:2e8460c47d3f01693e193dba5963a5e1
 https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
-#EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="MUSIC", Surya Music
+#EXTINF: -1 tvg-id="Surya.HD.in" tvg-name="Surya Comedy" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Comedy.png" group-title="Malayalam", Surya Comedy
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11563b00a46b43f2a0f80ecf42a4fb77:9bad28ad6f23dbb917c63ee680f66a1f
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+#EXTINF: -1 tvg-id="Surya.Music.in" tvg-name="Surya Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Surya_Music.png" group-title="Malayalam", Surya Music
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25a1d2a4c3f848b1aed911ad691fe232:3c8b2cf8611c343e6a231b6a9c7c8b58
@@ -37,17 +35,22 @@ https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/98895.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=37b4403a66f2565da33ba3b5704bb178:449f87256b3c1d7c2cdcbe04cbfd5530
 https://login.bheem.tv/bpk-tv/22020/output/index.mpd
-#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers" tvg-logo="https://i.postimg.cc/9FVkDMyg/1.png" group-title="Malayalam", Flowers
+#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers TV" tvg-logo="https://i.postimg.cc/9FVkDMyg/1.png" group-title="Malayalam", Flowers TV
 https://starshare.net:443/live/CVCVCVCV/CV1CV1CV1/9030.ts
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="ANAND TV" tvg-logo="https://i.imgur.com/ZkIt9uJ.png" group-title="Malayalam", ANAND TV
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-id=" tvg-name="Dream TV" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/15533605_ico.png?ts=1634452806" group-title="Malayalam", Dream TV
-https://cloudflare-cdn301.ottpro.in//dream_media//reedeem//playlist.m3u8
+#EXTINF: -1 tvg-id="Flowers.in" tvg-name="Flowers TV USA" tvg-logo="https://i.postimg.cc/FsRGxdhn/1.webp" group-title="Malayalam", Flowers TV USA
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Magnavision TV" tvg-logo="https://i.postimg.cc/PxT6PVw1/1.png" group-title="Malayalam", Magnavision TV
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist_dvr.m3u8
+#EXTINF: -1 tvg-id="Kairali.TV.in" tvg-name="Kairali TV" tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="Malayalam", Kairali TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
+https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision" tvg-logo="https://i.imgur.com/ZJxY5Qx.png" group-title="Malayalam", Kerala Vision
 http://103.199.161.254/Content/keralvisionst/Live/Channel(KeralvisionST)/Stream(02)/index.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="KERALA VISION 1" tvg-logo="https://i.imgur.com/ZJxY5Qx.png" group-title="Malayalam", KERALA VISION 1
 http://103.199.161.254/Content/keralavision/Live/Channel(Keralavision)/Stream(01)/index.m3u8
-#EXTINF: -1 tvg-id="Kairali.TV.in" tvg-name="Kairali TV" tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="Malayalam", Kairali TV
+
 https://live.neestream.net/neestream_01/kairalitv/index.m3u8?token=693400
 #EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.imgur.com/U1BdXQF.jpg" group-title="Malayalam", Kairali Arabia
 https://idvd.multitvsolution.com/idvo/kairaliarabia_540p/index.m3u8
