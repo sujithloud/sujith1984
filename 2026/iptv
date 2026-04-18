@@ -143,6 +143,28 @@ https://live.skystream.in/live/newvision2924/index.m3u8
 http://111.92.41.129:11037/hls/kv.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="kalika TV" tvg-logo="https://i.imgur.com/xMZva0s.png" group-title="Malayalam Local", kalika TV
 http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Sat View" tvg-logo="https://i.imgur.com/aC7gU12.png" group-title="Malayalam Local", Sat View
+https://stream.onecloudlive.in/satview/satviewhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Thanima Media" tvg-logo="https://i.imgur.com/QwL54Np.png" group-title="Malayalam Local", Thanima Media
+https://live.skystream.in/live/thanimatvtvm/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kcv Kuttanad" tvg-logo="https://i.imgur.com/BZtahLi.png" group-title="Malayalam Local", Kcv Kuttanad
+https://live.skystream.in/live/kcvkuttanadhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Kcv Ottapalam" tvg-logo="https://i.imgur.com/3oWUviF.png" group-title="Malayalam Local", Kcv Ottapalam
+https://live.skystream.in/live/kcvottapalam/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="UTV Palakkad" tvg-logo="https://i.postimg.cc/fRdrd3NQ/1.jpg" group-title="Malayalam Local", UTV Palakkad
+https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="UTV Utsav" tvg-logo="https://i.postimg.cc/LXVd1JLw/1.jpg" group-title="Malayalam Local", UTV Utsav
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.imgur.com/CnXj4Qh.png" group-title="Malayalam Local", Wayanad Vision
+https://cloudsavre.in.net/hls/stream.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCL HD" tvg-logo="https://i.postimg.cc/505KRj6M/1.png" group-title="Malayalam Local", KCL HD
+http://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Periyar Vision" tvg-logo="https://i.ibb.co/8nmGn4FY/Periyar-Vision.jpg" group-title="Malayalam Local", Periyar Vision
+https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="We One Kerala" tvg-logo="https://i.postimg.cc/JhkzL26Q/1.webp" group-title="Malayalam Local", We One Kerala
+http://194.163.147.129:1935/WEONE/live/chunklist_w1949686536.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="We One Kerala" tvg-logo="https://i.postimg.cc/JhkzL26Q/1.webp" group-title="Malayalam Local", We One Kerala
+http://194.163.147.129:1935/WEONE/live/chunklist_w1949686536.m3u8
 
 
 
