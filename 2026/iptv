@@ -163,18 +163,44 @@ http://kcltv.livebox.co.in/kclhls/live.m3u8
 https://stream.onecloudlive.in/periyarvision/periyarvision/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="We One Kerala" tvg-logo="https://i.postimg.cc/JhkzL26Q/1.webp" group-title="Malayalam Local", We One Kerala
 http://194.163.147.129:1935/WEONE/live/chunklist_w1949686536.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="We One Kerala" tvg-logo="https://i.postimg.cc/JhkzL26Q/1.webp" group-title="Malayalam Local", We One Kerala
-http://194.163.147.129:1935/WEONE/live/chunklist_w1949686536.m3u8
-
-
-
-
-
-
-
-
-
-
+#EXTINF: -1 tvg-id="" tvg-name="Cranganore" tvg-logo="https://i.ibb.co/N6wM0rJW/Cranganore500x500.jpg" group-title="Malayalam Local", Cranganore
+https://live.applelive.in/cranganorechannel/cranganorechannel/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="N Vision" tvg-logo="https://i.imgur.com/4TMkT2j.png" group-title="Malayalam Local", N Vision
+http://xstream.onecloudlive.in:8080/hls/nvisionhd/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Vision Media" tvg-logo="https://i.postimg.cc/Y0xN7mVG/1.png" group-title="Malayalam Local", Vision Media
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Eagle One" tvg-logo="https://i.imghippo.com/files/IvmE2647IEU.png" group-title="Malayalam Local", Eagle One
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="C Malayalam" tvg-logo="https://i.imgur.com/M4OFZbQ.png" group-title="Malayalam Local", C Malayalam
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Pravasi Channel" tvg-logo="https://i.imgur.com/lVZSKl6.png" group-title="Malayalam Local", Pravasi Channel
+https://m6gdavepdn93-hls-live.5centscdn.com/indialife/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="City Channel" tvg-logo="https://i.imgur.com/rSKtCmy.png" group-title="Malayalam Local", City Channel
+https://live.skystream.in/live/citytv2924/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Citi Channel" tvg-logo="https://i.imgur.com/qtEUswU.png" group-title="Malayalam Local", Citi Channel
+http://cloud.logichost.in:1935/live/citi/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="MCV Channel" tvg-logo="https://i.imgur.com/fRN6blY.png" group-title="Malayalam Local", MCV Channel
+http://cloud.logichost.in:1935/live/mcvlive/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Rose Vision" tvg-logo="https://i.postimg.cc/qvGZwPzM/1.jpg" group-title="Malayalam Local", Rose Vision
+https://live.skystream.in/live/rose3265/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="VBC News Thodupuzha" tvg-logo="https://i.imgur.com/cVDrlC9.png" group-title="Malayalam Local", VBC News Thodupuzha
+https://live.skystream.in/live/vbcthdpza/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Malabar Plus" tvg-logo="https://i.postimg.cc/28PMys9G/1.png" group-title="Malayalam Local", Malabar Plus
+http://cloud.logichost.in:1935/live/mplus/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="NVTV" tvg-logo=https://i.imgur.com/orivwjA.png" group-title="Malayalam Local", NVTV
+https://ipcloud.live/nvtv/livetvstream/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Drishya" tvg-logo="https://i.imgur.com/zA1lb0Z.png" group-title="Malayalam Local", Drishya TV
+https://live.skystream.in/live/drishya5060/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="KCV Ottapalam" tvg-logo="https://i.imgur.com/3oWUviF.png" group-title="Malayalam Local", KCV Ottapalam
+https://live.skystream.in/live/kcvottapalam/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Drisya TV" tvg-logo="https://i.imgur.com/efGfDMw.png" group-title="Malayalam Local", Drisya TV
+https://live.skystream.in/live/drishyakarunagapally/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="City Vision" tvg-logo="https://i.imgur.com/qz3FubG.png" group-title="Malayalam Local", City Vision
+https://live.skystream.in/live/citykannurcity/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Network Payyanur" tvg-logo="https://i.imgur.com/qseTX4O.png" group-title="Malayalam Local", Network Payyanur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Network Payyanur" tvg-logo="https://i.imgur.com/qseTX4O.png" group-title="Malayalam Local", Network Payyanur
+https://live.skystream.in/live/networkpayyanur/index.m3u8
 
 
 
