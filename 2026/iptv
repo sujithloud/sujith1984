@@ -256,7 +256,7 @@ http://stream.logichost.in:1935/CITI/live/chunklist_w564209429.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="CTV Mukkam" tvg-logo="https://i.postimg.cc/L8yjQZVZ/1.jpg" group-title="Malayalam Local", CTV Mukkam
 https://live.skystream.in/live/ctv1805/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Metro Live" tvg-logo="https://i.ibb.co/h1KL6jQR/Metrolive500x500.jpg" group-title="Malayalam Local", Metro Live
-https://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
+http://kcnsdhlsapp.ylivestream.com/kcnsdapphls/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="TCV Tirur" tvg-logo="https://i.ibb.co/6kpvn5d/TCV.jpg" group-title="Malayalam Local", TCV Tirur
 https://js.logichost.in/hls/f4d7e750ee8f8385fe5be797/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Media Malabar" tvg-logo="https://i.ibb.co/GGhkQKP/Media-Malabar.jpg" group-title="Malayalam Local", Media Malabar
