@@ -263,8 +263,6 @@ https://js.logichost.in/hls/f4d7e750ee8f8385fe5be797/index.m3u8
 https://js.logichost.in/hls/151f0e3016366711834ba1ef/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="C Net" tvg-logo="https://i.ibb.co/tphLCgwb/CNet.jpg" group-title="Malayalam Local", C Net
 https://js.logichost.in/hls/6c810aa85aefcf722f0bf48c/index.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="C Net" tvg-logo="https://i.ibb.co/tphLCgwb/CNet.jpg" group-title="Malayalam Local", C Net
-https://js.logichost.in/hls/6c810aa85aefcf722f0bf48c/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Sonic Vision"" tvg-logo="https://i.ibb.co/chX2DJvJ/Sonic-Vision500x500.jpg"" group-title="Malayalam Local", Sonic Vision"
 https://live.skystream.in/live/sonicktrkra/index.m3u8
 
