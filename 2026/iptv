@@ -3,7 +3,10 @@
 #EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD
 http://starshare.net:80/live/eduproaus11/gripping9information/98891.ts
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://i.postimg.cc/jjVfgV84/1.webp" group-title="Malayalam", Asianet Middleeast
-https://mumt03.tangotv.in/ASIANETMIDDLEEAST/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c3d8692a6a574e9a731ff7ed7ca7fe:87eed062e3b13bd639f5cba89b83ea33
+https://login.bheem.tv/bpk-tv/22389/output/index.mpd
 #EXTINF: -1 tvg-id="Asianet.Movies.in" tvg-name="Asianet Movies HD" tvg-logo="https://i.postimg.cc/PrPzwg4j/1.webp" group-title="Malayalam", Asianet Movies HD
 https://starshare.net:443/live/eduproaus11/gripping9information/177842.ts
 #EXTINF: -1 tvg-id="asianet.plus.in" tvg-name="Asianet Plus" tvg-logo="https://i.postimg.cc/4dHVBfGS/1.png" group-title="Malayalam", Asianet Plus
