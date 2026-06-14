@@ -298,7 +298,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF: -1 tvg-name="FUSSBALL TV 1 UHD" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Sports", FUSSBALL TV 1 UHD
+#EXTINF: -1 tvg-name="FUSSBALL" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Sports", FUSSBALL TV 1 UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
