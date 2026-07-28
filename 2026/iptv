@@ -289,28 +289,10 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLife2/DASH/CricLife2.mpd
 https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #EXTINF: -1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i.postimg.cc/gctJw8QG/1.png" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF: -1 tvg-name="SPOTV" tvg-logo="https://i.imgur.com/TwmDGsT.png" group-title="Sports", SPOTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
-#EXTINF: -1 tvg-name="SPOTV2" tvg-logo="https://i.imgur.com/TwmDGsT.png" group-title="Sports", SPOTV2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
-#EXTINF: -1 tvg-name="FUSSBALL" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Sports", FUSSBALL TV 1 UHD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
 #EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Malayalam Local", Go Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="fifa" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Malayalam Local", Fifa 1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="fifa" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Malayalam Local", Fifa 1
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="fifa2" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Malayalam Local", Fifa 2
-https://vtvgolive-vtv.vtvdigital.vn/Bn5npmgOufBPcYIY-ere5g/1781436602/vtvgo/vtv9-manifest.m3u8
+
 
 
 
