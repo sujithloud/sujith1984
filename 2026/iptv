@@ -424,8 +424,9 @@ https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/in
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",Test
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://keralive.com/geo/watch.php?id=248
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",YRF
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
