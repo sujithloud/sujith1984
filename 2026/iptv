@@ -167,9 +167,9 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sd
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.imgur.com/CnXj4Qh.png" group-title="Malayalam Local", Wayanad Vision
 https://online.wayanadvision.in/hls/wayanadvision.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://www.imghippo.com/i/fUm1644vGo.png" group-title="Malayalam Local", Wayanad Vision Movies
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.postimg.cc/ncxXs7h7/1.png" group-title="Malayalam Local", Wayanad Vision Movies
 https://online.wayanadvision.in/hls/wvmovies.m3u8
-#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://www.imghippo.com/i/WkJw9115CKY.png" group-title="Malayalam Local", Wayanad Vision Plus
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.postimg.cc/SNctd0qh/1.png" group-title="Malayalam Local", Wayanad Vision Plus
 https://online.wayanadvision.in/hls/streaming1.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="KCL HD" tvg-logo="https://i.postimg.cc/505KRj6M/1.png" group-title="Malayalam Local", KCL HD
 http://kcltv.livebox.co.in/kclhls/live.m3u8
