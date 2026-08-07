@@ -421,7 +421,9 @@ https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Colors India
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
 
 
 
