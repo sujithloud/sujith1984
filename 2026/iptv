@@ -430,8 +430,7 @@ https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/in
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jddT28LL/1.webp" group-title="Music",B4U
-#EXTVLCOPT:http-referrer=https://bhoomtv.me
-https://m3uplay.com/stream.m3u8?id=b4umusic
+https://cdn-2.pishow.tv/live/415/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/XqCmrDT9/1.png" group-title="Music",9xM
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
