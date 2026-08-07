@@ -80,7 +80,8 @@ http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f07
 #EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam", Kappa TV
 https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Raj Music Malayalam" tvg-logo="https://i.imgur.com/4gGax3f.png" group-title="Malayalam", Raj Music Malayalam
-https://mumt04.tangotv.in/RAJMUSIXMALAYALAM/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://i.postimg.cc/hP5qzVdC/1.png" group-title="Malayalam", Kerala Vision
 https://mumt03.tangotv.in/KERALAVISION/index.m3u8
 #EXTINF: -1 tvg-name="Safari TV" tvg-logo="https://i.postimg.cc/T1mfQnmW/1.png" group-title="Malayalam", Safari TV
