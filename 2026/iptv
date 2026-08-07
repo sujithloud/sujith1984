@@ -421,19 +421,20 @@ https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hindi",Colors India
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",YRF
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7h1Pwsv6/1.png" group-title="Music",Loop HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
-
-
-
-
-
-
-
-#EXTINF: -1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="MUSIC", 1Mus
+#EXTINF: -1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music", 1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF: -1 tvg-name="RU.TV" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="MUSIC", RU.TV
+#EXTINF: -1 tvg-name="RU.TV" tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="Music", RU.TV
 https://rutv.gcdn.co/streams/1410_95/480n/index.m3u8
 
 
