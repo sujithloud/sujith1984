@@ -83,7 +83,8 @@ https://cdn-3.pishow.tv/live/1123/master.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://i.postimg.cc/hP5qzVdC/1.png" group-title="Malayalam", Kerala Vision
-https://mumt03.tangotv.in/KERALAVISION/index.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=6048f319b391
 #EXTINF: -1 tvg-name="Safari TV" tvg-logo="https://i.postimg.cc/T1mfQnmW/1.png" group-title="Malayalam", Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF: -1 tvg-name="Kite Victers" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KITE_Victers.png" group-title="Malayalam", Kite Victers
@@ -128,6 +129,8 @@ https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="CCTV News" tvg-logo="https://i.ibb.co/v4DPKL1B/CCTVNEWS.jpg" group-title="Malayalam Local", CCTV News
 https://96vd9q4kyxq7-hls-live.5centscdn.com/livestream/f25aeb3e9210967d546a077de6e105e4.sdp/playlist.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="CCTV News" tvg-logo="https://i.postimg.cc/SKh9G8gY/1.png" group-title="Malayalam Local", CCTV Movies
+https://96vd9q4kyxq7-hls-live.5centscdn.com/cctvkkm/4870f9d3a6299578edcc3e6c954baeba.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="CCTV Pradakshinam" tvg-logo="https://i.imgur.com/xljlM0u.png" group-title="Malayalam Local", CCTV Pradakshinam
 https://96vd9q4kyxq7-hls-live.5centscdn.com/CCTVWEB/3d17933d07af044d3a2caa608d6a8afe.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Swantham" tvg-logo="https://i.postimg.cc/KvHFNpq5/1.png" group-title="Malayalam Local", Swantham
@@ -163,7 +166,11 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sd
 #EXTINF: -1 tvg-id="" tvg-name="UTV Utsav" tvg-logo="https://i.postimg.cc/LXVd1JLw/1.jpg" group-title="Malayalam Local", UTV Utsav
 https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://i.imgur.com/CnXj4Qh.png" group-title="Malayalam Local", Wayanad Vision
-https://cloudsavre.in.net/hls/stream.m3u8
+https://online.wayanadvision.in/hls/wayanadvision.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://www.imghippo.com/i/fUm1644vGo.png" group-title="Malayalam Local", Wayanad Vision Movies
+https://online.wayanadvision.in/hls/wvmovies.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="Wayanad Vision" tvg-logo="https://www.imghippo.com/i/WkJw9115CKY.png" group-title="Malayalam Local", Wayanad Vision Plus
+https://online.wayanadvision.in/hls/streaming1.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="KCL HD" tvg-logo="https://i.postimg.cc/505KRj6M/1.png" group-title="Malayalam Local", KCL HD
 http://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Periyar Vision" tvg-logo="https://i.ibb.co/8nmGn4FY/Periyar-Vision.jpg" group-title="Malayalam Local", Periyar Vision
