@@ -279,7 +279,8 @@ https://js.logichost.in/hls/151f0e3016366711834ba1ef/index.m3u8
 https://js.logichost.in/hls/6c810aa85aefcf722f0bf48c/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="Sonic Vision" tvg-logo="https://i.ibb.co/chX2DJvJ/Sonic-Vision500x500.jpg" group-title="Malayalam Local", Sonic Vision
 https://live.skystream.in/live/sonicktrkra/index.m3u8
-
+#EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.ibb.co/WvCgmMPs/Kerala-GTPL.jpg" group-title="Malayalam Local", Kerala GTPL HD
+https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Criclife" tvg-logo="https://i.imgur.com/XhcX4Z5.png" group-title="Sports", Criclife
@@ -300,8 +301,7 @@ https://ev-fast-mpd.starzplayarabia.com/live/eds/Criclife_3/DASH/Criclife_3.mpd
 #EXTINF: -1 tvg-id="" tvg-name="DD Sports" tvg-logo="https://i.postimg.cc/gctJw8QG/1.png" group-title="Sports", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.postimg.cc/fLtV3BHV/1.avif" group-title="Malayalam Local", Go Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
 
 
 
