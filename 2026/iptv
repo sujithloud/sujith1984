@@ -281,6 +281,8 @@ https://js.logichost.in/hls/6c810aa85aefcf722f0bf48c/index.m3u8
 https://live.skystream.in/live/sonicktrkra/index.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.ibb.co/WvCgmMPs/Kerala-GTPL.jpg" group-title="Malayalam Local", Kerala GTPL HD
 https://srvx.nellaiiptv.com/restream/4vwghq/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-name="golive" tvg-logo="https://i.ibb.co/0RkJpBCH/DTV.jpg" group-title="Malayalam Local", DTV
+https://live.applelive.in/dtv/dtv/index.m3u8
 
 
 #EXTINF: -1 tvg-name="Criclife" tvg-logo="https://i.imgur.com/XhcX4Z5.png" group-title="Sports", Criclife
