@@ -1,8 +1,11 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD
+#EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD 1
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starasianet1_live_https/index.m3u8
+#EXTINF: -1 tvg-id="Asianet.HD.in" tvg-name="Asianet HD" tvg-logo="https://i.postimg.cc/c4zq7NGr/1.webp" group-title="Malayalam", Asianet HD 2
+#EXTVLCOPT:http-referrer=https://bhoomtv.org
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="Asianet Middleeast" tvg-logo="https://i.postimg.cc/jjVfgV84/1.webp" group-title="Malayalam", Asianet Middleeast
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
