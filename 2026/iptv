@@ -79,7 +79,8 @@ https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Garshom TV" tvg-logo="https://i.postimg.cc/Wbn7zCFH/1.png" group-title="Malayalam", Garshom TV
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam", Kappa TV
-https://cdn-3.pishow.tv/live/1123/master.m3u8
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=2933d0818d2f
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Raj Music Malayalam" tvg-logo="https://i.imgur.com/4gGax3f.png" group-title="Malayalam", Raj Music Malayalam
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://colorsportscreen.com/freetv/stream.m3u8?id=743e3ee3b8c3
@@ -306,8 +307,9 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 
 
 
-
-
+#EXTINF: -1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="https://i.postimg.cc/gctJw8QG/1.png" group-title="Hindi", Sony Max HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://techandeat.online/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 1 HD
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
