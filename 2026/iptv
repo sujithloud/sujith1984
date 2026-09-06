@@ -53,12 +53,10 @@ https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4
 #KODIPROP:inputstream.adaptive.license_key=1382b4f8623151e88c52787ae11f11ab:de71cbb248a62cc2c4a66c8546b49d7d
 https://login.bheem.tv/bpk-tv/22412/output/index.mpd
 #EXTINF: -1 tvg-id="Kairali.TV.arabia" tvg-name="Kairali Arabia" tvg-logo="https://i.postimg.cc/0ycBwr3G/1.png" group-title="Malayalam", Kairali Arabia
-https://starshare.net:443/live/eduproaus11/gripping9information/85928.ts
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 #EXTINF: -1 tvg-id="We.TV.in" tvg-name="We" tvg-logo="https://i.postimg.cc/xT7kTPjR/1.png" group-title="Malayalam", We
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a78509d336ba5e58a79f80792b648c47:e4da90d5040db158a71c04e8ac48f2cc
-https://login.bheem.tv/bpk-tv/22411/output/index.mpd
+#EXTVLCOPT:http-referrer=https://bhoomtv.me
+https://colorsportscreen.com/freetv/stream.m3u8?id=cc2206d5e988
 #EXTINF: -1 tvg-id="DD.Malayalam.in" tvg-name="DD Malayalam" tvg-logo="https://i.postimg.cc/13ztXScy/1.png" group-title="Malayalam", DD Malayalam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8
 #EXTINF: -1 tvg-id="Amrita.TV.in" tvg-name="Amrita TV" tvg-logo="https://i.postimg.cc/sfnFW6hW/1.png" group-title="Malayalam", Amrita TV
