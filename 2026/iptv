@@ -312,118 +312,118 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
 https://techandeat.online/sliv/stream.m3u8?id=1000009247
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 1 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 1 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009276
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 2 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 2 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009277
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 3 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009278
-
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sports 5 HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009275
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 3 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009278
 
 
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony TV HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009246&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Sab HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009248&e=.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony BBC Earth HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009252
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pix HD
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009258&e=.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Max
-#EXTVLCOPT:http-referrer=https://playyonogames.in/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009249
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sports 5 HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009275
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony TV HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009246&e=.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Wah
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Max HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009247&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Sab HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009248&e=.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony BBC Earth HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009252
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Pix HD
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009258&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Max
+#EXTVLCOPT:http-referrer=https://techandeat.online/
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009249
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Wah
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009253
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009253
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Sony Pal
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Sony Pal
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://playyonogames.in/
-https://playyonogames.in/sliv/stream.m3u8?id=1000009273
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://techandeat.online/
+https://techandeat.online/sliv/stream.m3u8?id=1000009273
 
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",&TV HD USA
+#EXTINF:-1 tvg-logo="" group-title="Sliv",&TV HD USA
 #EXTVLCOPT:http-referrer=https://techtraveleat.in
 https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV HD APAC
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV HD APAC
 #EXTVLCOPT:http-referrer=https://techtraveleat.in
 https://colors.keralive.workers.dev/260723/smil:zeetvapachd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee Cinema HD Yupp APAC
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee Cinema HD Yupp APAC
 #EXTVLCOPT:http-referrer=https://bhoomtv.org/
 https://yupp-origin-vt.keralive.workers.dev/28072023/zeecinemaapachd_800/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV Canada
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV Canada
 #EXTVLCOPT:http-referrer=https://techtraveleat.in
 https://toober.keralive.workers.dev/4c3caf7294b3/c8bf99484885/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Zee TV DE
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Zee TV DE
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://d47ddb99.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVUVkhEVUtHZXJtYW55X0hMUw/playlist.m3u8?ads.wurl_channel=2121
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Plus HD USA
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Star Plus HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starplushdus_us_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Star Bharat HD USA
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Star Bharat HD USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starbharatus_us_https/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Plus
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Utsav Plus
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://colors.keralive.workers.dev/260723/smil:starplusuk1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Utsav Bharat
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Utsav Bharat
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://colors.keralive.workers.dev/120723/smil:lifeokuk.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors Yupp USA
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Colors Yupp USA
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://yupp-us-vt.keralive.workers.dev/090823/smil:colorsaapkadev.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="tulnit",Colors India
+#EXTINF:-1 tvg-logo="" group-title="Sliv",Colors India
 #EXTVLCOPT:http-referrer=https://bhoomtv.org
 https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/index.m3u8
 
