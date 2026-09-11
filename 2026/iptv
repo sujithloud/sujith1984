@@ -433,9 +433,7 @@ https://maamusic.keralive.workers.dev/out/v1/a526e652e4644463bca88e350785bed0/in
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",Test
-#EXTVLCOPT:http-referrer=https://bhoomtv.me
-https://keralive.com/geo/watch.php?id=248
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/P5ZW0MTk/1.png" group-title="Music",YRF
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://kableone.keralive.workers.dev/hls/live/2111218/YrfMusic/master.m3u8
@@ -449,31 +447,24 @@ https://9xmusic2.keralive.workers.dev/28072023/smil:9xmusic4.smil/playlist.m3u8
 https://bhoomtv.me/tv/yet/stream.m3u8?id=1101
 #EXTINF: -1 tvg-name="1Mus" tvg-logo="https://i.imgur.com/PozF9MT.png" group-title="Music", 1Mus
 http://hz1.teleport.cc/HLS/HD.m3u8
-
-
-
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CLUB FM UAE" tvg-logo="https://radiosindia.com/images/clubfm.jpg" group-title="RADIO", CLUB FM UAE
-https://playerservices.streamtheworld.com/api/livestream-redirect/CLUBFMUAEAAC.aac
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="RADIO KERALA" tvg-logo="https://shortfilmsite.com/images/radiokerala.png" group-title="RADIO", RADIO KERALA
-https://www.liveradio.es/http://103.133.180.223:8000/airtime_128
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Radio Mirchi Kochi" tvg-logo="https://radiosindia.com/images/radiomirchi.jpg" group-title="RADIO", Radio Mirchi Kochi
-https://n12.radiojar.com/q6hbcwmx8vzuv.mp3?rj-ttl=5&rj-tok=AAABeuwpNw8AFXlaBtm2iX_wPA
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="All India Radio Akashvani Malayalam" tvg-logo="https://radiosindia.com/images/air.jpg" group-title="RADIO", All India Radio Akashvani Malayalam
-https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/chunklist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Radio Asia Malayalam" tvg-logo="https://radiosindia.com/images/radioasiauae.jpg" group-title="RADIO", Radio Asia Malayalam
-https://eu8.fastcast4u.com/proxy/qqyspjqd?mp=/;
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Pravasi Bharathi 810AM" tvg-logo="https://radiosindia.com/images/pravasibharathi.jpg" group-title="RADIO", Pravasi Bharathi 810AM
-https://cors.bitwize.com.lb/http://198.27.67.39:8000/pravasiradio.mp3
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="98.6 Malayalam radio" tvg-logo="https://radiosindia.com/images/986malayalamradio.jpg" group-title="RADIO", 98.6 Malayalam radio
-https://node-25.zeno.fm/512rbf1e3qzuv?rj-ttl=5&rj-tok=AAABeuwtLl4AGZ2tKA19-EX3eg
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Dubai 1 FM Radio" tvg-logo="https://radiosindia.com/images/dubai1fm.jpg" group-title="RADIO", Dubai 1 FM Radio
-https://node-19.zeno.fm/mp9ggm2sywzuv?rj-ttl=5&rj-tok=AAABd68WGO4AsXiWPTyccXU7_g
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="CE Talks Radio" tvg-logo="https://radiosindia.com/images/cetalks.jpg" group-title="RADIO", CE Talks Radio
-https://node-24.zeno.fm/nvh52yer01zuv?rj-ttl=5&rj-tok=AAABd68WtqgADeYdyj9hpwOHsA
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Radio city Malayalam" tvg-logo="https://radiosindia.com/images/radiocitymalayalam.jpg" group-title="RADIO", Radio city Malayalam
-https://prclive4.listenon.in/Malayalam
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="TCR live Radio" tvg-logo="https://radiosindia.com/images/tcrliveradio.jpg" group-title="RADIO", TCR live Radio
-https://eu1.fastcast4u.com/proxy/tcrliveradio?mp=/1
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Njan Malayali Bhakthi Radio" tvg-logo="https://radiosindia.com/images/njanmalayalibhakthi.jpg" group-title="RADIO", Njan Malayali Bhakthi Radio
-https://cors.bitwize.com.lb/http://91.121.222.81:8342/;
+#EXTINF: -1 tvg-name="atomictv" tvg-logo="" group-title="Music", Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF: -1 tvg-name="atomicacadtv" tvg-logo="" group-title="Music", Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+#EXTINF: -1 tvg-name="7 Radio Visione" tvg-logo="" group-title="Music", 7 Radio Visione
+https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+#EXTINF: -1 tvg-name="tunebox" tvg-logo="" group-title="Music", Tune Box
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF: -1 tvg-name="activatv" tvg-logo="" group-title="Music", Activa TV
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF: -1 tvg-name="barazatv" tvg-logo="" group-title="Music", Baraza TV
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="bizmusic" tvg-logo="" group-title="Music", Biz Music
+https://fl.biztv.media/music_720_QAKpGmVUjaPApCNjpsgBxrdqNihAkl/index.m3u8
+#EXTINF: -1 tvg-name="bridge_classic" tvg-logo="" group-title="Music", Bridge Classic
+https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
+#EXTINF: -1 tvg-name="btatv" tvg-logo="" group-title="Music", BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF: -1 tvg-name="deluxedance" tvg-logo="" group-title="Music", Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
