@@ -78,7 +78,7 @@ https://test-yupptv.cachefly.net/260723/smil:jaihind1.smil/playlist.m3u8
 https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
 #EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Garshom TV" tvg-logo="https://i.postimg.cc/Wbn7zCFH/1.png" group-title="Malayalam", Garshom TV
 http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://i.postimg.cc/hP5qzVdC/1.png" group-title="Malayalam", Janapriyam TV
+#EXTINF: -1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Kerala Vision tvg-logo="https://bhoom.b-cdn.net/wp-content/uploads/2026/04/ChatGPT-Image-Apr-29-2026-02_21_56-PM-1-200x300.png" group-title="Malayalam", Janapriyam TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me
 https://bhoomtv.net/geo/live.m3u8?id=1455
 #EXTINF: -1 tvg-id="Safari.TV.in" tvg-name="Kappa TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kappa_TV.png" group-title="Malayalam", Kappa TV
