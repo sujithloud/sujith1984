@@ -467,4 +467,26 @@ https://fs.uplink.kz/bridge_classic/mono.m3u8?token=onlinetv
 https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
 #EXTINF: -1 tvg-name="deluxedance" tvg-logo="" group-title="Music", Deluxe Dance
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF: -1 tvg-name="hitfm" tvg-logo="" group-title="Music", Hit FM
+https://hitfm.nfthost.net/hls/hitfm/live_all/playlist.m3u8
+#EXTINF: -1 tvg-name="hmipromznews" tvg-logo="" group-title="Music", HM Promz News
+https://video1.getstreamhosting.com:1936/8326/8326/playlist.m3u8
+#EXTINF: -1 tvg-name="impact" tvg-logo="" group-title="Music", Impact TV
+https://online.tvimpact.live/hls/impact_tv.m3u8
+#EXTINF: -1 tvg-name="infinita" tvg-logo="" group-title="Music", Infinita TV
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+#EXTINF: -1 tvg-name="k100" tvg-logo="" group-title="Music", K100 TV
+https://k100streymi.mbl.is/beint/k100/index.m3u8
+#EXTINF: -1 tvg-name="messatida" tvg-logo="" group-title="Music", Messatida TV
+https://rtmp.streams.ovh:8081/mtv/index.m3u8
+#EXTINF: -1 tvg-name="ocko" tvg-logo="" group-title="Music", OCKO TV
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF: -1 tvg-name="onfm" tvg-logo="" group-title="Music", ONFM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF: -1 tvg-name="oneadria" tvg-logo="" group-title="Music", One Adria
+https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+#EXTINF: -1 tvg-name="panik" tvg-logo="" group-title="Music", Panic TV
+https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
+
+
 
